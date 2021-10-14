@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<db ver="1.1" >
+ <slot age="60" dir="63754070492289119" file="NPUP10027_00.xml" last="Sat, 17 Nov 2012 01:59:25 GMT" length="421" recv="63754172778057916" scode="304" sdate="63754172778099929" url="http://tmdb.np.dl.playstation.net/tmdb/NPUP10027_00_46DE5885FE497746569BCC0716ACAF34DAC45AAA/NPUP10027_00.xml" />
+ <slot age="60" dir="63754172922182021" file="NPUZ00024_00.xml" last="Sat, 17 Nov 2012 01:22:15 GMT" length="438" recv="63754172922181766" scode="200" sdate="63754172922688921" url="http://tmdb.np.dl.playstation.net/tmdb/NPUZ00024_00_3D8EED1EE37B7C04B9D5E513B25FC031E0AE6471/NPUZ00024_00.xml" />
+</db>
