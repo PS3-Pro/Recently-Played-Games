@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>NEOTRAIL1</id>
+<id>MANAGUNZ0</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Neo Trail</name>
+<name>3 Card Monte</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/NEOTRAIL1_00_21B187B5F0B9B4D9D063ED2524835B5D3A1CAFD2/ICON0.PNG</icon>
+<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/JCD00TEST_00_63C9C5D8B8CF198A25FDB450A60E775C7DD89495/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>

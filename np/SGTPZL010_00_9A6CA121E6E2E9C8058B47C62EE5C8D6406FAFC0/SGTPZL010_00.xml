@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>NEOTRAIL1</id>
+<id>SGTPZL010</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Neo Trail</name>
+<name>SGT Puzzles</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/NEOTRAIL1_00_21B187B5F0B9B4D9D063ED2524835B5D3A1CAFD2/ICON0.PNG</icon>
+<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/SGTPZL010_00_9A6CA121E6E2E9C8058B47C62EE5C8D6406FAFC0/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
