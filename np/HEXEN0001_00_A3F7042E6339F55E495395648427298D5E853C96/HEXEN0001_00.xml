@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>TEST12345</id>
+<id>HEXEN0001</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>PS3Pong</name>
+<name>Hexen</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/TEST12345_00_E67CD5397A51DEF64887B95ECA378B9B27EFE553/ICON0.PNG</icon>
+<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/HEXEN0001_00_A3F7042E6339F55E495395648427298D5E853C96/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
