@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>MDFN90000</id>
+<id>one11111</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Mednafen</name>
+<name>one</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/MDFN90000_00_A7C399059E04179A010BF1C0171CCD52CB6A40DE/ICON0.PNG</icon>
+<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/one11111_00_22D8D1ED6F786CB0A263E13579E3169A87DC3A00/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
