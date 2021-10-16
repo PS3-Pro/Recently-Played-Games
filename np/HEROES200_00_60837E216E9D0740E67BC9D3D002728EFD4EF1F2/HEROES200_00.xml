@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>MDFN90002</id>
+<id>HEROES200</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Mednafen</name>
+<name>Free Heroes 2</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/MDFN90002_00_2D6D4703C16745846DFE1B5B4EDF2D8B864303E9/ICON0.PNG</icon>
+<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/HEROES200_00_60837E216E9D0740E67BC9D3D002728EFD4EF1F2/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
