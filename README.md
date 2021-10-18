@@ -1,2 +1,2 @@
 # Tmdb
- What's New database of recent played games.
+Recent played games list with Homebrew support for PS3™ 4K Pro
