@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>XMBMANPLS</id>
+<id>CFWEXINST</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>XMBM+ Installer</name>
+<name>CFW Extras Category Installer</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/XMBMANPLS_00_1AB49F0906821E0A4BD319F05722814A2A3BF589/ICON0.PNG</icon>
+<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/CFWEXINST_00_66B016FA1BF254C8FC2660B48987A7E131C5FAF0/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
