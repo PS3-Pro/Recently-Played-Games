@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>LED0DISC0</id>
+<id>IDPSET000</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Led</name>
+<name>IDPSet</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/LED0DISC0_00_A4A0C15855701653F3228BE9B35C677B6D70AD05/ICON0.PNG</icon>
+<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/IDPSET000_00_672C4CE7C488E54A969DE0D826DB099C3F7CEABF/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
