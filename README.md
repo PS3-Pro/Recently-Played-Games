@@ -5,7 +5,7 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro
 ![image](https://user-images.githubusercontent.com/74815634/138005445-892ad013-47ec-4f1e-a695-ecea2539620e.png)
 
 # Supported Homebrews:
-| TITTLEID  | HOMEBREW NAME
+| TITTLE ID  | TITTLE
 |-----------|---------------
 | ABCD12345 | PS3 Messenger
 | ALIENBRED | Hazed Alienbreed
