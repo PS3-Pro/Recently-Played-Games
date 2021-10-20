@@ -272,3 +272,8 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro
 | ZMODSGEN0 | Mega Drive Emulator - Zmod
 | ZMODSNES0 | Snes Emulator - Zmod
 | one11111: | PS One
+
+# Credits
+
+- @xps3riments for the official sony's database
+- @aldostools for the variables structure.
