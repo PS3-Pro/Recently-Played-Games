@@ -264,7 +264,7 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro
 | XMBMANPLS | XMB Manager Plus
 | XMBMANPLS | XMBM+ 2017
 | XMBMODMAN | XMB Mod Man
-| XMBPDINST | XMBPD Installer.
+| XMBPDINST | XMBPD Installer
 | XMBPLSMOD | Unofficial Rebug Updater
 | XREG00001 | xReg Plus (backup/restore xRegistry.sys)
 | ZMODMASTE | Master System Emulator - Zmod
