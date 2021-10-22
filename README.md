@@ -279,6 +279,5 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro
   
 # Credits
 </div>
-
-- @xps3riments for the official sony's database
-- @aldostools and @DeViL303 for help and link variables.
+- @aldostools and @DeViL303 for help with files structure and link variables.
+- @xps3riments for the official sony's database.
