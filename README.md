@@ -281,4 +281,4 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro
 </div>
 
 - @xps3riments for the official sony's database
-- @aldostools for the variables structure.
+- @aldostools and @DeViL303 for help and link variables.
