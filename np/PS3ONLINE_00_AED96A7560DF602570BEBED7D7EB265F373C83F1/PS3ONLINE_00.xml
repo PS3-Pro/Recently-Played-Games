@@ -1,0 +1,10 @@
+<title-info rev="0">
+<id>PS3ONLINE</id>
+<console>ps3</console>
+<media-type>edi</media-type>
+<name>PlayStation™TV</name>
+<parental-level>0</parental-level>
+<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/PS3ONLINE_00_AED96A7560DF602570BEBED7D7EB265F373C83F1/ICON0.PNG</icon>
+<resolution>480,576,720,1080,480SQ,576SQ</resolution>
+<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
+</title-info>
