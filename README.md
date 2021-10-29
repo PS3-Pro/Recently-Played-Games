@@ -284,12 +284,12 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro.
 | one11111: | PS One
 
 # Notes:
-multiMAM and Rebug Toolbox erases the boot_history.dat, reseting the list. 
+multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
  
 # Credits
+  
+@aldostools and @DeViL303 for help with files structure and link variables. 
+
+@xps3riments for the official sony's database.
+
 </div>
-
-
-- @aldostools and @DeViL303 for help with files structure and link variables. 
-
-- @xps3riments for the official sony's database.
