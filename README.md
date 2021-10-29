@@ -7,7 +7,7 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro.
 ![image](https://user-images.githubusercontent.com/74815634/138005445-892ad013-47ec-4f1e-a695-ecea2539620e.png)
 
   
-# Supported Homebrews:
+# Supported Homebrews
 
 | TITTLE ID  | TITTLE
 |-----------|---------------
@@ -283,7 +283,7 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro.
 | ZMODSNES0 | Snes Emulator - Zmod
 | one11111: | PS One
 
-# Notes:
+# Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
  
 # Credits
