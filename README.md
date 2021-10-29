@@ -152,6 +152,7 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro.
 | OFTP00001 | OpenPS3FTP v2
 | OFTP00003 | OpenPS3FTPsplit by Onishin
 | OMAN46756 | Open Manager/Sexy Manager/Pretty Manager/Flex Manager 
+| PS3ONLINE | PlayStation™TV
 | OSPX00001 | OpenSupaplex
 | PAINTOWN2 | Paintown
 | PCEE00000 | PCE Emu
@@ -169,12 +170,16 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro.
 | PS2NETEMU | PS2 Netemu Selector
 | PS2U10000 | PS2 Classics Placeholder
 | PS3CAP32R | Caprice32 - Amstrad CPC 8bit Emulator
+| PS3CFWPRO | PS3 4K Pro (CFW) - Old
+| PS3HFWPRO | PS3 4K Pro (HFW) - Old
 | PS3HATARI | Hatari - Atari ST, STE TT and Falcon Emulator
 | PS3ITAMNG | PS3ITA Manager 
 | PS3ITAU:  | PS3 ITA
 | PS3LOAD04 | Run PS3 SELF programs via wireless (maybe obsolete)
 | PS3LOCKUP | PS3 Lock
 | PS3MAPI00 | PS3 Manager
+| PS34KPROL | PS3 4K Pro Lite
+| PS34KPROX | PS3 4K Pro Full
 | PS3SFM001 | Simple File Manager
 | PSCD00001 | Google Cloud Drive
 | PSCHANNEL | PSChannel
@@ -189,7 +194,8 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro.
 | QAFLAG000 | Habbib's QA Flag
 | QUAD00LSD | Codename Quadtris
 | RBGSELECT | Rebug Selector 
-| RBGTLBOX2 | Rebug Toolbox 
+| RBGTLBOX2 | Rebug Toolbox
+| RELOADXM1 | Reload XMB™
 | RESACTDAT | Restore act.dat
 | RETROARCH | Retroarch Community Edition
 | ROGE00001 | Buttons Layout Changer
@@ -276,7 +282,10 @@ Recently played games database with the addition of Homebrews for PS3™ 4K Pro.
 | ZMODSGEN0 | Mega Drive Emulator - Zmod
 | ZMODSNES0 | Snes Emulator - Zmod
 | one11111: | PS One
-  
+
+# Notes:
+multiMAM and Rebug Toolbox erases the boot_history.dat, reseting the list. 
+ 
 # Credits
 </div>
 
