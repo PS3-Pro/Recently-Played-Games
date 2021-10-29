@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # Extended "Recently Played" Tab
-Recently played games database with the addition of Homebrews for PS3™ 4K Pro.
+Recently played database with homebrew support for PS3™ 4K Pro.
 
 ![image](https://user-images.githubusercontent.com/74815634/138005445-892ad013-47ec-4f1e-a695-ecea2539620e.png)
 ![image](https://user-images.githubusercontent.com/74815634/138005437-acaf171d-a24d-4a03-baf8-6339323631c2.png)
