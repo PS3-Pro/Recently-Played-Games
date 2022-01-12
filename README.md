@@ -3,7 +3,6 @@
 # Extended "Recently Played" Tab
 Recently played database with homebrew support for PS3™ 4K Pro.
 
-![image](https://user-images.githubusercontent.com/74815634/138005445-892ad013-47ec-4f1e-a695-ecea2539620e.png)
 ![image](https://user-images.githubusercontent.com/74815634/138005437-acaf171d-a24d-4a03-baf8-6339323631c2.png)
 
   
@@ -11,9 +10,9 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 
 | TITLE ID  | TITLE NAME
 |-----------|---------------
-| ABCD12345 | PS3 Messenger
+| ABCD12345 | PS3™ Messenger
 | ALIENBRED | Hazed Alienbreed
-| APPTITLID | XMB Manager Plus 
+| APPTITLID | XMB™ Manager Plus 
 | ARTPS3001 | Artemis Cheat Tool
 | AVOIDANCE | Avoidance
 | BB0011111 | blackb0x FTP Server
@@ -74,7 +73,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | FREEFLASH | FreeFlash (dev_blind clone)
 | FSEN03269 | SEN Enabler-Disabler
 | FSMT00002 | Factory Service Mode
-| FTPD12345 | PS3 FTP Server
+| FTPD12345 | PS3™ FTP Server
 | GAIA01985 | Gaia Manager
 | GAMBOL123 | Gambol
 | GAMEMNGR1 | Game Sonic Manager
@@ -126,7 +125,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | MA00BLACK | MA BD TOOL
 | MAMBAINST | Funny Mamba Auto Loader
 | MAMBAPRXL | MAMBA/PRX Loader
-| MAME90000 | PS3 MAME
+| MAME90000 | PS3™ MAME
 | MANAGUNZ0 | ManaGunZ
 | MAZEGENRT | Maze Generator
 | MDFN90000 | Mednafen
@@ -134,7 +133,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | MDFN90002 | Mednafen Unofficial [NES, GB, GBC, GBA, SMS, GG, PCE, PCE CD, Lynx]
 | MEMD00001 | MemDump
 | MHFS00000 | Mhu Free Store
-| MONSTER01 | Chaos Air Bringer (Change PS3 MAC Address)
+| MONSTER01 | Chaos Air Bringer (Change PS3™ MAC Address)
 | MONSTERMR | Monster Manager
 | MUGENMK95 | Mugen
 | NEOR66666 | Neo Race
@@ -156,7 +155,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | OSPX00001 | OpenSupaplex
 | PAINTOWN2 | Paintown
 | PCEE00000 | PCE Emu
-| PEXTRANET | PS3 EXTRANET
+| PEXTRANET | PS3™ EXTRANET
 | PKGENABLE | PKG Enabler (hide/show PGK Installer obsolete with XMBM+)
 | PKGLAUNCH | PKG Launcher
 | PKGMANAGE | Rebug Package Manager
@@ -166,27 +165,27 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | POCKETMON | Untitled Pokemon Project
 | PONG00LSD | 2 Player Pong
 | PRXLOADER | PRX Loader
-| PS2L00123 | PS2 Classics Manager
-| PS2NETEMU | PS2 Netemu Selector
-| PS2U10000 | PS2 Classics Placeholder
+| PS2L00123 | PS2™ Classics Manager
+| PS2NETEMU | PS2™ Netemu Selector
+| PS2U10000 | PS2™ Classics Placeholder
 | PS3CAP32R | Caprice32 - Amstrad CPC 8bit Emulator
-| PS3CFWPRO | PS3 4K Pro (CFW) - Old
-| PS3HFWPRO | PS3 4K Pro (HFW) - Old
+| PS3CFWPRO | PS3™ 4K Pro (CFW) - Old
+| PS3HFWPRO | PS3™ 4K Pro (HFW) - Old
 | PS3HATARI | Hatari - Atari ST, STE TT and Falcon Emulator
-| PS3ITAMNG | PS3ITA Manager 
-| PS3ITAU:  | PS3 ITA
-| PS3LOAD04 | Run PS3 SELF programs via wireless (maybe obsolete)
-| PS3LOCKUP | PS3 Lock
-| PS3MAPI00 | PS3 Manager
-| PS34KPROL | PS3 4K Pro Lite
-| PS34KPROX | PS3 4K Pro Full
+| PS3ITAMNG | PS3™ ITA Manager 
+| PS3ITAU:  | PS3™ ITA
+| PS3LOAD04 | Run PS3™ SELF programs via wireless (maybe obsolete)
+| PS3LOCKUP | PS3™ Lock
+| PS3MAPI00 | PS3™ Manager
+| PS34KPROL | PS3™ 4K Pro Lite
+| PS34KPROX | PS3™ 4K Pro Full
 | PS3SFM001 | Simple File Manager
 | PSCD00001 | Google Cloud Drive
 | PSCHANNEL | PSChannel
 | PSEISM1GR | Seismograph
-| PSID81257 | PSX Launcher 
-| PSPC66820 | PSP Remasters Launcher
-| PSPM66820 | PSP Launcher
+| PSID81257 | PSX™ Launcher 
+| PSPC66820 | PSP™ Remasters Launcher
+| PSPM66820 | PSP™ Launcher
 | PSVB00001 | PSVibe (Sex tool for wife/gf & others)
 | PUHS00000 | Hard Drive Reserved Space Unlocker
 | PVIBEMOVE | PSVibe Move
@@ -232,15 +231,15 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | SXNE10004 | StandAlone RetroArch Genesis Plus GX Core
 | SXNE10008 | StandAlone RetroArchh VBA Next Core
 | SXNE10009 | StandAlone RetroArch Virtual Boy Core
-| SXNE10010 | StandAlone RetroArchh PSX Core.
+| SXNE10010 | StandAlone RetroArchh PSX™ Core.
 | SXNE10011 | StandAlone RetroArchh Snex9X Next Core
 | SXNE10012 | StandAlone RetroArchh Mednafen Neo Pop Core
 | TBOI83296 | The Binding of Isaac Rebirth
 | TEMP02000 | Tempest 2000
 | TEMPMON00 | TempMON
-| TEST00000 | PS3 Model Detection
-| TEST00003 | PS3Tetris
-| TEST12345 | PS3Pong
+| TEST00000 | PS3™ Model Detection
+| TEST00003 | PS3™ Tetris
+| TEST12345 | PS3™ Pong
 | TETRISEOL | TetrisEOL (Repacked)
 | THATOPONG | That Other Pong
 | TJARMIND3 | The Jarred Mind 3
@@ -267,13 +266,13 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | WHATSNEW1 | What's New on PSX-Place
 | WINTERSEN | Winters End
 | WIPE01337 | Wipe History
-| WIRC12345 | PS3 IRC
+| WIRC12345 | PS3™ IRC
 | WRNOWHERE | We Are Nowhere
-| XMBGREEK0 | Greek XMB Pack
-| XMBLOCK00 | XMB Lock
-| XMBMANPLS | XMB Manager Plus
+| XMBGREEK0 | Greek XMB™ Pack
+| XMBLOCK00 | XMB™ Lock
+| XMBMANPLS | XMB™ Manager Plus
 | XMBMANPLS | XMBM+ 2017
-| XMBMODMAN | XMB Mod Man
+| XMBMODMAN | XMB™ Mod Man
 | XMBPDINST | XMBPD Installer
 | XMBPLSMOD | Unofficial Rebug Updater
 | XREG00001 | xReg Plus (backup/restore xRegistry.sys)
