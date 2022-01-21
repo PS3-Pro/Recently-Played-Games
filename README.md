@@ -63,6 +63,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | EUAE00829 | E-UAE Amiga Emulator
 | EVIL00095 | Resident Evil Operation (Paintown)
 | EXA000000 | Homebrew Package Network
+| FAQSAEP01 | Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque (Demo)
 | FBAN00000 | FBANext
 | FBNE00123 | FBNeo Retro Loader Plus
 | FCEU90000 | FCEU NES
@@ -84,6 +85,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | GMBT90000 | Gambatte(Gameboy emulator)
 | GMBTCLLC1 | Gameboot Collection Installer
 | GMPADTEST | Gamepad Test
+| GOFKOMBAT | Gears of Kombat
 | GPKG00123 | Game PKG
 | GSPS40987 | Geometry Dash
 | HANTOOLBX | HAN Toolbox
