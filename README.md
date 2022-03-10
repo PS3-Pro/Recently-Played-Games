@@ -11,6 +11,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | TITLE ID  | TITLE NAME
 |-----------|---------------
 | ABCD12345 | PS3™ Messenger
+| ACTRLPS30 | Application Controller (VNC)
 | ALIENBRED | Hazed Alienbreed
 | APPTITLID | XMB™ Manager Plus 
 | ARTPS3001 | Artemis Cheat Tool
@@ -263,6 +264,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | VICE90002 | Vice Commodore PlusS4 emulator
 | VICE90003 | Vice Commodore VIC20 emulator
 | VNC0VIEWER1 | VNC Viewer
+| VNCVIEWER | VNC Viewer (Repacked)
 | VSHU00100 | Vsh.self patcher for reActPSN
 | WARCRAFTD | Warcraft Orcs and Humans
 | WHATSNEW1 | What's New on PSX-Place
