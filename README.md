@@ -159,6 +159,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | PAINTOWN2 | Paintown
 | PCEE00000 | PCE Emu
 | PEXTRANET | PS3™ EXTRANET
+| PINTOR001 | Pintor - Sony vs Hackers  
 | PKGENABLE | PKG Enabler (hide/show PGK Installer obsolete with XMBM+)
 | PKGLAUNCH | PKG Launcher
 | PKGMANAGE | Rebug Package Manager
