@@ -153,8 +153,8 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | OCOP46756 | Open Copy Install
 | OFTP00001 | OpenPS3FTP v2
 | OFTP00003 | OpenPS3FTPsplit by Onishin
-| OMAN46756 | Open Manager/Sexy Manager/Pretty Manager/Flex Manager 
-| PS3ONLINE | PlayStation™TV
+| OMAN46756 | Open Manager/Sexy Manager/Pretty Manager/Flex Manager
+| one11111: | PS One
 | OSPX00001 | OpenSupaplex
 | PAINTOWN2 | Paintown
 | PCEE00000 | PCE Emu
@@ -162,6 +162,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | PINTOR001 | Pintor - Sony vs Hackers  
 | PKGENABLE | PKG Enabler (hide/show PGK Installer obsolete with XMBM+)
 | PKGLAUNCH | PKG Launcher
+| PS3ONLINE | PlayStation™TV
 | PKGMANAGE | Rebug Package Manager
 | PLAYMNGR1 | Play Manager 
 | PLUGINMAN | Plugin Manager
@@ -285,7 +286,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | ZMODNES00 | Nes Emulator - Zmod
 | ZMODSGEN0 | Mega Drive Emulator - Zmod
 | ZMODSNES0 | Snes Emulator - Zmod
-| one11111: | PS One
+| ZZZZ00001 | PS3 RAM Dumper
 
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
