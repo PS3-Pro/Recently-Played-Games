@@ -3,9 +3,10 @@
 # Extended "Recently Played" Tab
 Recently played database with homebrew support for PS3™ 4K Pro.
 
+[![Github downloads (by repository)](https://img.shields.io/github/downloads/LuanTeles/DB/total.svg?style=social)](https://github.com/LuanTeles/DB/releases)
+
 ![image](https://user-images.githubusercontent.com/74815634/138005437-acaf171d-a24d-4a03-baf8-6339323631c2.png)
 
-  
 # Supported Homebrews
 
 | TITLE ID  | TITLE NAME
@@ -291,10 +292,8 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
  
-# Credits
-  
+# Credits 
 @aldostools and @DeViL303 for help with files structure and link variables. 
-
+<br>
 @xps3riments for the official sony's database.
-
 </div>
