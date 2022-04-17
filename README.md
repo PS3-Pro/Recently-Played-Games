@@ -3,9 +3,10 @@
 # Extended "Recently Played" Tab
 Recently played database with homebrew support for PS3™ 4K Pro.
 
+[![Github downloads (by repository)](https://img.shields.io/github/downloads/LuanTeles/DB/total.svg?style=social)](https://github.com/LuanTeles/DB/releases)
+
 ![image](https://user-images.githubusercontent.com/74815634/138005437-acaf171d-a24d-4a03-baf8-6339323631c2.png)
 
-  
 # Supported Homebrews
 
 | TITLE ID  | TITLE NAME
@@ -153,8 +154,8 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | OCOP46756 | Open Copy Install
 | OFTP00001 | OpenPS3FTP v2
 | OFTP00003 | OpenPS3FTPsplit by Onishin
-| OMAN46756 | Open Manager/Sexy Manager/Pretty Manager/Flex Manager 
-| PS3ONLINE | PlayStation™TV
+| OMAN46756 | Open Manager/Sexy Manager/Pretty Manager/Flex Manager
+| one11111: | PS One
 | OSPX00001 | OpenSupaplex
 | PAINTOWN2 | Paintown
 | PCEE00000 | PCE Emu
@@ -162,6 +163,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | PINTOR001 | Pintor - Sony vs Hackers  
 | PKGENABLE | PKG Enabler (hide/show PGK Installer obsolete with XMBM+)
 | PKGLAUNCH | PKG Launcher
+| PS3ONLINE | PlayStation™TV
 | PKGMANAGE | Rebug Package Manager
 | PLAYMNGR1 | Play Manager 
 | PLUGINMAN | Plugin Manager
@@ -285,15 +287,13 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | ZMODNES00 | Nes Emulator - Zmod
 | ZMODSGEN0 | Mega Drive Emulator - Zmod
 | ZMODSNES0 | Snes Emulator - Zmod
-| one11111: | PS One
+| ZZZZ00001 | PS3 RAM Dumper
 
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
  
-# Credits
-  
+# Credits 
 @aldostools and @DeViL303 for help with files structure and link variables. 
-
+<br>
 @xps3riments for the official sony's database.
-
 </div>
