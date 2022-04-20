@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>EXPEDITE_</id>
+<id>IRISMAN01</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Expedite - Evas Benchmark Suite</name>
+<name>MAMBA + PS3M_API + PRX_Loader</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/LuanTeles/Tmdb/main/np/EXPEDITE__00_3C293FBA95DFAB4AC03670B1F9CB7C2D73400BB5/ICON0.PNG</icon>
+<icon type="320x176">http://raw.github.com/LuanTeles/Tmdb/main/np/IRISMAN01_00_EB6A734F5415C287E711D632F4196F5F88B4B5CC/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
