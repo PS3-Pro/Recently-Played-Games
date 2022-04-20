@@ -18,6 +18,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | ARTPS3001 | Artemis Cheat Tool
 | AVOIDANCE | Avoidance
 | BB0011111 | blackb0x FTP Server
+| BLBX00003 | b0xloader - SELF Loader
 | BLES00132 | Erase Me
 | BLES01337 | Awesome Filemanager
 | BLES80607 | multiPLAY
@@ -32,6 +33,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | BOMB00000 | Bomberman HD
 | BOOT04XXX | PluginX
 | BROWSER01 | Web Browser Plus
+| BUBL00002 | Bubble Bobble
 | CASCADEBE | Cascade Beneath
 | CATA00000 | The Catachtonic
 | CDGP00000 | CD-G Player
@@ -39,6 +41,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | CHEROPHOB | Cherophobe
 | CHET11111 | PS3usercheat
 | CHET20000 | CodeUnique
+| CHIDALLRE | Change IDPS All Region
 | CINAVIA01 | Cinavia Tool
 | CLDBTINST | Coldboot Installer
 | CNDR00001 | Solar (Interactive Screen Saver)
@@ -51,20 +54,26 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | CUPH00001 | CupHead
 | CYLINDERD | Cylinder Dodge
 | DARK0RSX5 | DragonFTP Server
+| DCRY00001 | SELF/SPRX Decrypter
 | DGCRUSHED | Don't Get Crushed
 | DISABLECP | Disable Cinavia
 | DONOTDIE2 | They do Not Die 2
 | DOWNLAODX | Extended Download Plugin Installer
+| DPFH00003 | Dump Flash
 | DROW66666 | The World Drowns
 | DUNGEON01 | Dungeon
 | DVDE00000 | DVD Enabler
+| DYNA00001 | Dynarec Enabler
 | ELEGANZ00 | Elegaz File Manager
 | ELONLOREP | Elongated Reptile
 | ENSTONEXX | CCAPI by Enstone.
+| ES35CSTMZ | ES35's Customize
 | ESKISS000 | Ekiss Move Edition
 | EUAE00829 | E-UAE Amiga Emulator
 | EVIL00095 | Resident Evil Operation (Paintown)
 | EXA000000 | Homebrew Package Network
+| EXPEDITE: | Expedite - Evas Benchmark Suite
+| FAKEBDEMU | Install Fake BDemu
 | FAQSAEP01 | Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque (Demo)
 | FBAN00000 | FBANext
 | FBNE00123 | FBNeo Retro Loader Plus
@@ -73,6 +82,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | FIVENATF0 | Five Nights at Freddys
 | FIXP12345 | PL3 Permission Fix
 | FLAPBIRD0 | Flappy Bird Family
+| FLTZ00010 | EID Root Key Dumper
 | FREEFLASH | FreeFlash (dev_blind clone)
 | FSEN03269 | SEN Enabler-Disabler
 | FSMT00002 | Factory Service Mode
@@ -103,10 +113,13 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | HEXEN0001 | Hexen
 | HMANAGER4 | Hermes Manager
 | HMBW00001 | Awesome MountPoint Manager
+| HMBW00002 | Awesome Peek and Poker
+| HMBW00003 | QuickDumpR
 | HTSD00001 | stDISC (Showtime Disc Access)
 | HTSS00003 | Movian
 | HVDEBUG01 | HVDebug (hypervisor debugging from GameOS)
 | HYBRIDMAN | Hybrid Manager
+| IDPS00001 | IDPS Viewer
 | IDPSET000 | IDPSet
 | IGORDOSBO | Igor - Objective Uikokahoni
 | IMANAGER4 | Iris Manager
@@ -117,14 +130,18 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | JAICUSBL0 | USB FIRM LOADER
 | JBEB55555 | BreakOutX
 | JCD00TEST | 3 Card Monte
+| JUIC10000 | Juicy Fix
 | KARA01010 | Kara (Karaoke Player)
 | LAUN12345 | Backup Manager
 | LAUNCHPAD | LaunchPAD
 | LED0DISC0 | LED Changer
-| LUAP00001 | LUA Player
+| LNX000001 | BootOS_Installer
+| LOAD00000 | MrGatz85 & Cael's Open Asbestos Loader
+| LUAFPS310 | LUAFPS3 - LuaPlayer for PS3
 | LUAP00001 | Lua Player/DDLC Love
 | LUAP0PS3: | LUA Player (Script interpreter)
 | LV2000000 | LV2Patcher bd-region changer /LV2-9
+| LV2D00000 | LV2 Dump
 | LV2LOADER | Rebug's lv2_kernel.self Loader
 | MA00BLACK | MA BD TOOL
 | MAMBAINST | Funny Mamba Auto Loader
@@ -139,7 +156,9 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | MHFS00000 | Mhu Free Store
 | MONSTER01 | Chaos Air Bringer (Change PS3™ MAC Address)
 | MONSTERMR | Monster Manager
+| MOUNTDFRW | Alejandro: Mount /dev_flash RW in /dev_Alejando
 | MUGENMK95 | Mugen
+| N4RULOADR | n4ru Flash Loader
 | NEOR66666 | Neo Race
 | NEOTANKS1 | Neo Tanks
 | NEOTRAIL1 | Neo Trail
@@ -151,11 +170,11 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | NPXS09386 | PSNope
 | NPXS91337 | OpenPS3FTP v4
 | NSTP90000 | Nestopia
+| NZHA00000 | PSPoke
 | OCOP46756 | Open Copy Install
 | OFTP00001 | OpenPS3FTP v2
 | OFTP00003 | OpenPS3FTPsplit by Onishin
 | OMAN46756 | Open Manager/Sexy Manager/Pretty Manager/Flex Manager
-| one11111: | PS One
 | OSPX00001 | OpenSupaplex
 | PAINTOWN2 | Paintown
 | PCEE00000 | PCE Emu
@@ -163,29 +182,32 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | PINTOR001 | Pintor - Sony vs Hackers  
 | PKGENABLE | PKG Enabler (hide/show PGK Installer obsolete with XMBM+)
 | PKGLAUNCH | PKG Launcher
-| PS3ONLINE | PlayStation™TV
 | PKGMANAGE | Rebug Package Manager
 | PLAYMNGR1 | Play Manager 
+| PLUGINMAN | Plugin Manager
 | PLUGINMAN | Plugin Manager
 | PNG00TEST | Wall Pong
 | POCKETMON | Untitled Pokemon Project
 | PONG00LSD | 2 Player Pong
+| PONG66666 | Polygonal Demo
 | PRXLOADER | PRX Loader
 | PS2L00123 | PS2™ Classics Manager
 | PS2NETEMU | PS2™ Netemu Selector
 | PS2U10000 | PS2™ Classics Placeholder
+| PS34KPROL | PS3™ 4K Pro Lite
+| PS34KPROX | PS3™ 4K Pro Full
 | PS3CAP32R | Caprice32 - Amstrad CPC 8bit Emulator
 | PS3CFWPRO | PS3™ 4K Pro (CFW) - Old
-| PS3HFWPRO | PS3™ 4K Pro (HFW) - Old
 | PS3HATARI | Hatari - Atari ST, STE TT and Falcon Emulator
+| PS3HFWPRO | PS3™ 4K Pro (HFW) - Old
 | PS3ITAMNG | PS3™ ITA Manager 
 | PS3ITAU:  | PS3™ ITA
 | PS3LOAD04 | Run PS3™ SELF programs via wireless (maybe obsolete)
 | PS3LOCKUP | PS3™ Lock
 | PS3MAPI00 | PS3™ Manager
-| PS34KPROL | PS3™ 4K Pro Lite
-| PS34KPROX | PS3™ 4K Pro Full
+| PS3ONLINE | PlayStation™TV
 | PS3SFM001 | Simple File Manager
+| PS3T000LZ | PS3 Advanced Tools
 | PSCD00001 | Google Cloud Drive
 | PSCHANNEL | PSChannel
 | PSEISM1GR | Seismograph
@@ -199,7 +221,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | QAFLAG000 | Habbib's QA Flag
 | QUAD00LSD | Codename Quadtris
 | RBGSELECT | Rebug Selector 
-| RBGTLBOX2 | Rebug Toolbox
+| RBGTLBOX2 | Rebug Toolbox 
 | RELOADXM1 | Reload XMB™
 | RESACTDAT | Restore act.dat
 | RETROARCH | Retroarch Community Edition
@@ -212,6 +234,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | RXESP3851 | Espionage
 | RXGAM3004 | 2048
 | SACDRIP01 | SACD-Ripper
+| SCO000000 | SConsole
 | SCOG00001 | Scooger
 | SCUM12000 | ScummVM
 | SDL20BARU | Baraburandia
@@ -229,6 +252,8 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | SSNE10000 | RetroArch/RetroArch XMB™ Edition
 | SSNE10001 | RetroArch PSL1GHT
 | STMC80608 | Showtime (Rebranded as Movian)
+| STOK01340 | CFWLoad
+| STOK01342 | PSIDPatch
 | SUIT11111 | SuiteApp (image/text viewer)
 | SUPERJUMP | Super Pixel Jumper
 | SWINGBAL2 | Swingball 2
@@ -277,17 +302,20 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | WRNOWHERE | We Are Nowhere
 | XMBGREEK0 | Greek XMB™ Pack
 | XMBLOCK00 | XMB™ Lock
-| XMBMANPLS | XMB™ Manager Plus
 | XMBMANPLS | XMBM+ 2017
+| XMBMANPLS | XMB™ Manager Plus
 | XMBMODMAN | XMB™ Mod Man
 | XMBPDINST | XMBPD Installer
 | XMBPLSMOD | Unofficial Rebug Updater
-| XREG00001 | xReg Plus (backup/restore xRegistry.sys)
+| XREG00001 | xReg Plus (Backup/restore xRegistry.sys)
 | ZMODMASTE | Master System Emulator - Zmod
 | ZMODNES00 | Nes Emulator - Zmod
 | ZMODSGEN0 | Mega Drive Emulator - Zmod
 | ZMODSNES0 | Snes Emulator - Zmod
 | ZZZZ00001 | PS3 RAM Dumper
+| one11111: | PS One
+
+
 
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
