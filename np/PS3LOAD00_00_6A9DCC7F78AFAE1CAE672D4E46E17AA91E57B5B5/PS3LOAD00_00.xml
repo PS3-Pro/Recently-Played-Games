@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>RBGTLBOX2</id>
+<id>PS3LOAD00</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Rebug Toolbox</name>
+<name>PS3LoadX</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/LuanTeles/Tmdb/main/np/RBGTLBOX2_00_69271B042E056617FAC1F0304429EBE6976FA667/ICON0.PNG</icon>
+<icon type="320x176">http://raw.github.com/LuanTeles/Tmdb/main/np/PS3LOAD00_00_6A9DCC7F78AFAE1CAE672D4E46E17AA91E57B5B5/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
