@@ -115,6 +115,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | HMBW00001 | Awesome MountPoint Manager
 | HMBW00002 | Awesome Peek and Poker
 | HMBW00003 | QuickDumpR
+| HOMELAUN1 | USB Game Launcher
 | HTSD00001 | stDISC (Showtime Disc Access)
 | HTSS00003 | Movian
 | HVDEBUG01 | HVDebug (hypervisor debugging from GameOS)
