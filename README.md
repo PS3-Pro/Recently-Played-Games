@@ -115,6 +115,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | HMBW00001 | Awesome MountPoint Manager
 | HMBW00002 | Awesome Peek and Poker
 | HMBW00003 | QuickDumpR
+| HOMELAUN1 | USB Game Launcher
 | HTSD00001 | stDISC (Showtime Disc Access)
 | HTSS00003 | Movian
 | HVDEBUG01 | HVDebug (hypervisor debugging from GameOS)
@@ -139,7 +140,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | LOAD00000 | MrGatz85 & Cael's Open Asbestos Loader
 | LUAFPS310 | LUAFPS3 - LuaPlayer for PS3
 | LUAP00001 | Lua Player/DDLC Love
-| LUAP0PS3: | LUA Player (Script interpreter)
+| LUAP0PS3 | LUA Player (Script interpreter)
 | LV2000000 | LV2Patcher bd-region changer /LV2-9
 | LV2D00000 | LV2 Dump
 | LV2LOADER | Rebug's lv2_kernel.self Loader
@@ -201,7 +202,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | PS3HATARI | Hatari - Atari ST, STE TT and Falcon Emulator
 | PS3HFWPRO | PS3™ 4K Pro (HFW) - Old
 | PS3ITAMNG | PS3™ ITA Manager 
-| PS3ITAU:  | PS3™ ITA
+| PS3ITAU  | PS3™ ITA
 | PS3LOAD04 | Run PS3™ SELF programs via wireless (maybe obsolete)
 | PS3LOCKUP | PS3™ Lock
 | PS3MAPI00 | PS3™ Manager
