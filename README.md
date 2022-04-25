@@ -120,7 +120,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | HOMELAUN1 | USB Game Launcher
 | HTSD00001 | stDISC (Showtime Disc Access)
 | HTSS00003 | Movian
-| HVDEBUG01 | HVDebug (hypervisor debugging from GameOS)
+| HVDEBUG01 | HVDebug (Hypervisor debugging from GameOS)
 | HYBRIDMAN | Hybrid Manager
 | IDPS00001 | IDPS Viewer
 | IDPSET000 | IDPSet
