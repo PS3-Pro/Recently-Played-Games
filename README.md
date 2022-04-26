@@ -33,7 +33,9 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | BOMB00000 | Bomberman HD
 | BOOT04XXX | PluginX
 | BROWSER01 | Web Browser Plus
-| BUBL00002 | Bubble Bobble
+| BUBL00002 | Bubble Bobble: Normal Version
+| BUBL00003 | Bubble Bobble: Parent Version
+| BUBL00004 | Bubble Bobble: Maniac Version
 | CASCADEBE | Cascade Beneath
 | CATA00000 | The Catachtonic
 | CDGP00000 | CD-G Player
@@ -118,7 +120,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | HOMELAUN1 | USB Game Launcher
 | HTSD00001 | stDISC (Showtime Disc Access)
 | HTSS00003 | Movian
-| HVDEBUG01 | HVDebug (hypervisor debugging from GameOS)
+| HVDEBUG01 | HVDebug (Hypervisor debugging from GameOS)
 | HYBRIDMAN | Hybrid Manager
 | IDPS00001 | IDPS Viewer
 | IDPSET000 | IDPSet
