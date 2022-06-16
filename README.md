@@ -316,7 +316,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | ZMODSGEN0 | Mega Drive Emulator - Zmod
 | ZMODSNES0 | Snes Emulator - Zmod
 | ZZZZ00001 | PS3 RAM Dumper
-| one11111: | PS One
+| one11111 | PS One
 
 
 
