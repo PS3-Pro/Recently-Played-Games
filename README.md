@@ -81,6 +81,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | FBNE00123 | FBNeo Retro Loader Plus
 | FCEU90000 | FCEU NES
 | FERROXMOD | Ferrox Mod Installer
+| FILEMANAG | File ManagerZ
 | FIVENATF0 | Five Nights at Freddys
 | FIXP12345 | PL3 Permission Fix
 | FLAPBIRD0 | Flappy Bird Family
