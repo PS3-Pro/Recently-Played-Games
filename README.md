@@ -3,7 +3,7 @@
 # Extended "Recently Played" Tab
 Recently played database with homebrew support for PS3™ 4K Pro.
 
-[![Github downloads (by repository)](https://img.shields.io/github/downloads/LuanTeles/DB/total.svg?style=social)](https://github.com/LuanTeles/DB/releases)
+[![Github downloads (by repository)](https://img.shields.io/github/downloads/PS3-4K-Pro/DB/total.svg?style=social)](https://github.com/PS3-4K-Pro/DB/releases)
 
 ![image](https://user-images.githubusercontent.com/74815634/138005437-acaf171d-a24d-4a03-baf8-6339323631c2.png)
 

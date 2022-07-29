@@ -4,7 +4,7 @@
 <media-type>edi</media-type>
 <name>PRX Loader</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/LuanTeles/DB/main/np/PRXLOADER_00_C0CA841964CD96730E9CB0CD32E1C3BF6B27B9A8/ICON0.PNG</icon>
+<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/PRXLOADER_00_C0CA841964CD96730E9CB0CD32E1C3BF6B27B9A8/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
