@@ -103,6 +103,7 @@ Recently played database with homebrew support for PS3™ 4K Pro.
 | GOFKOMBAT | Gears of Kombat
 | GPKG00123 | Game PKG
 | GSPS40987 | Geometry Dash
+| GCLOUDSTO | Google Cloud Storage
 | HANTOOLBX | HAN Toolbox
 | HBDB90000 | DOSbox
 | HBFS90000 | FUSE Free Unix Spectrum Emulator
