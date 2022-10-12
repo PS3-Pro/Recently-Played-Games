@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # Extended "Recently Played" Tab
-Recently played database with homebrew support for PS3™ 4K Pro.
+Custom recently played database with homebrew support for PS3™ 4K Pro.
 
 [![Github downloads (by repository)](https://img.shields.io/github/downloads/PS3-4K-Pro/DB/total.svg?style=social)](https://github.com/PS3-4K-Pro/DB/releases)
 
