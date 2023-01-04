@@ -9,8 +9,6 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 
 # Supported Homebrews
 
-| TITLE ID  | TITLE NAME
-|-----------|---------------
 | ABCD12345 | PS3™ Messenger
 | ACTRLPS30 | Application Controller (VNC)
 | ALIENBRED | Hazed Alienbreed
@@ -63,6 +61,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | DOWNLAODX | Extended Download Plugin Installer
 | DPFH00003 | Dump Flash
 | DROW66666 | The World Drowns
+| DUMPSDATS | PlayStation®Home SDAT Dumper
 | DUNGEON01 | Dungeon
 | DVDE00000 | DVD Enabler
 | DYNA00001 | Dynarec Enabler
@@ -93,6 +92,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | GAIA01985 | Gaia Manager
 | GAMBOL123 | Gambol
 | GAMEMNGR1 | Game Sonic Manager
+| GCLOUDSTO | Google Cloud Storage
 | GDBYEWRLD | Goodbye World
 | GDSW00001 | GameData Tool
 | GENP00001 | GenPlus-GX
@@ -103,7 +103,6 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | GOFKOMBAT | Gears of Kombat
 | GPKG00123 | Game PKG
 | GSPS40987 | Geometry Dash
-| GCLOUDSTO | Google Cloud Storage
 | HANTOOLBX | HAN Toolbox
 | HBDB90000 | DOSbox
 | HBFS90000 | FUSE Free Unix Spectrum Emulator
@@ -234,6 +233,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | ROGE12345 | Rogero 
 | RPSN00001 | reActPSN
 | RQAF00003 | QA reset tool
+| RSX00003 | PS3™ MAPI Dynarec Test
 | RXDOO1052 | Doom
 | RXDOO1351 | Doom II
 | RXESP3851 | Espionage
@@ -319,8 +319,6 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | ZMODSNES0 | Snes Emulator - Zmod
 | ZZZZ00001 | PS3 RAM Dumper
 | one11111 | PS One
-
-
 
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
