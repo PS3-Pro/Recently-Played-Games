@@ -8,7 +8,9 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 ![image](https://user-images.githubusercontent.com/74815634/138005437-acaf171d-a24d-4a03-baf8-6339323631c2.png)
 
 # Supported Homebrews
-
+ 
+| TITLE ID  | TITLE NAME
+|-----------|---------------
 | ABCD12345 | PS3™ Messenger
 | ACTRLPS30 | Application Controller (VNC)
 | ALIENBRED | Hazed Alienbreed
