@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<title-info rev="0">
+	<id>DUMPSDATS</id>
+	<console>ps3</console>
+	<media-type>edi</media-type>
+	<name>PlayStation®Home SDAT Dumper</name>
+	<parental-level>3</parental-level>
+	<icon type="320x176">http://github.com/LuanTeles/DB/raw/main/np/DUMPSDATS_00_F4CDEEFC655211B7BED7701BA830417D359BEE6D/ICON0.PNG</icon>
+	<resolution>480,720,480SQ</resolution>
+	<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
+</title-info>
