@@ -63,6 +63,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | DOWNLAODX | Extended Download Plugin Installer
 | DPFH00003 | Dump Flash
 | DROW66666 | The World Drowns
+| DUCK01337 | Duck Sample
 | DUMPSDATS | PlayStation®Home SDAT Dumper
 | DUNGEON01 | Dungeon
 | DVDE00000 | DVD Enabler
@@ -227,10 +228,11 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | QAFLAG000 | Habbib's QA Flag
 | QUAD00LSD | Codename Quadtris
 | RBGSELECT | Rebug Selector 
-| RBGTLBOX2 | Rebug Toolbox 
+| RBGTLBOX2 | Rebug Toolbox
 | RELOADXM1 | Reload XMB™
 | RESACTDAT | Restore act.dat
 | RETROARCH | Retroarch Community Edition
+| RMTC00001 | EzRemote Client
 | ROGE00001 | Buttons Layout Changer
 | ROGE12345 | Rogero 
 | RPSN00001 | reActPSN
