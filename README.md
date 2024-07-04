@@ -173,7 +173,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | NP00PKGI3 | PKGI by Bucanero
 | NP0APOLLO | Apollo Save Tool by Bucanero
 | NPEA90124 | SEN Enabler
-| NPXS00006 | Yabause/PS3SX (Deprecated, Only 3.XX)
+| NPXS00006 | Yabause
 | NPXS09386 | PSNope
 | NPXS91337 | OpenPS3FTP v4
 | NSTP90000 | Nestopia
@@ -185,6 +185,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | OSPX00001 | OpenSupaplex
 | PAINTOWN2 | Paintown
 | PCEE00000 | PCE Emu
+| PCSX00001 | PS3SX Emulator 
 | PEXTRANET | PS3™ EXTRANET
 | PINTOR001 | Pintor - Sony vs Hackers  
 | PKGENABLE | PKG Enabler (hide/show PGK Installer obsolete with XMBM+)
