@@ -260,6 +260,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | SM64ZMOD1 | Super Mario 64
 | SMW00PS33 | Super Mario Wars
 | SNES90000 | SNES9x
+| SONICEXE0 | Sonic.EXE
 | SONICMANI | Sonic Mania
 | SOR000095 | Streets Of Rage (Paintown)
 | SPNP12345 | SpinPong
