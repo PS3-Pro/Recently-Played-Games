@@ -241,7 +241,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | ROGE12345 | Rogero 
 | RPSN00001 | reActPSN
 | RQAF00003 | QA reset tool
-| RSX00003 | PS3™ MAPI Dynarec Test
+| RSX00003  | PS3™ MAPI Dynarec Test
 | RXDOO1052 | Doom
 | RXDOO1351 | Doom II
 | RXESP3851 | Espionage
