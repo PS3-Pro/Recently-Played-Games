@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<title-info rev="0">
+	<id>PSHLQA186</id>
+	<console>ps3</console>
+	<media-type>edi</media-type>
+	<name>PlayStation®Home QA</name>
+	<parental-level>0</parental-level>
+	<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/PSHLQA186_00_2CB43997C81417DF70A7F4EBC88C658237235852/ICON0.PNG</icon>
+	<resolution>480,576,720,1080,480SQ,576SQ</resolution>
+	<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
+</title-info>
