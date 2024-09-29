@@ -56,6 +56,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | CUPH00001 | CupHead
 | CYLINDERD | Cylinder Dodge
 | DARK0RSX5 | DragonFTP Server
+| DARKSNAKE | Snake
 | DCRY00001 | SELF/SPRX Decrypter
 | DGCRUSHED | Don't Get Crushed
 | DISABLECP | Disable Cinavia
@@ -64,6 +65,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | DPFH00003 | Dump Flash
 | DROW66666 | The World Drowns
 | DUCK01337 | Duck Sample
+| DUCKHUNTS | Duck Hunting
 | DUMPSDATS | PlayStation®Home SDAT Dumper
 | DUNGEON01 | Dungeon
 | DVDE00000 | DVD Enabler
@@ -161,6 +163,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | MDFN90002 | Mednafen Unofficial [NES, GB, GBC, GBA, SMS, GG, PCE, PCE CD, Lynx]
 | MEMD00001 | MemDump
 | MHFS00000 | Mhu Free Store
+| MKYG00020 | Super Mario BOOM!
 | MONSTER01 | Chaos Air Bringer (Change PS3™ MAC Address)
 | MONSTERMR | Monster Manager
 | MOUNTDFRW | Alejandro: Mount /dev_flash RW in /dev_Alejando
@@ -257,6 +260,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | SM64ZMOD1 | Super Mario 64
 | SMW00PS33 | Super Mario Wars
 | SNES90000 | SNES9x
+| SONICMANI | Sonic Mania
 | SOR000095 | Streets Of Rage (Paintown)
 | SPNP12345 | SpinPong
 | SSNE10000 | RetroArch/RetroArch XMB™ Edition
