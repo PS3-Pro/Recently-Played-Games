@@ -283,9 +283,9 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | TBOI83296 | The Binding of Isaac Rebirth
 | TEMP02000 | Tempest 2000
 | TEMPMON00 | TempMON
-| TEST00000 | PS3™ Model Detection
-| TEST00003 | PS3™ Tetris
-| TEST12345 | PS3™ Pong
+| PS3MODEL0 | PS3™ Model Detection (Repacked)
+| PS3TETRIS | PS3™ Tetris (Repacked)
+| PS3PONG00 | PS3™ Pong (Repacked)
 | TETRISEOL | TetrisEOL (Repacked)
 | THATOPONG | That Other Pong
 | TJARMIND3 | The Jarred Mind 3
