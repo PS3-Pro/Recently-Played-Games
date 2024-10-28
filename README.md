@@ -55,6 +55,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | CUBESCITY | Cubicle Shooter City
 | CUPH00001 | CupHead
 | CYLINDERD | Cylinder Dodge
+| DANCECLON | Dance Clone
 | DARK0RSX5 | DragonFTP Server
 | DARKSNAKE | Snake
 | DCRY00001 | SELF/SPRX Decrypter
@@ -84,6 +85,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | FBAN00000 | FBANext
 | FBNE00123 | FBNeo Retro Loader Plus
 | FCEU90000 | FCEU NES
+| FDROID001 | Freedroid Classic
 | FERROXMOD | Ferrox Mod Installer
 | FILEMANAG | File ManagerZ
 | FIVENATF0 | Five Nights at Freddys
@@ -212,13 +214,16 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | PS3HATARI | Hatari - Atari ST, STE TT and Falcon Emulator
 | PS3HFWPRO | PS3™ 4K Pro (HFW) - Old
 | PS3ITAMNG | PS3™ ITA Manager 
-| PS3ITAU  | PS3™ ITA
+| PS3ITAU   | PS3™ ITA
 | PS3LOAD04 | Run PS3™ SELF programs via wireless (maybe obsolete)
 | PS3LOCKUP | PS3™ Lock
 | PS3MAPI00 | PS3™ Manager
+| PS3MODEL0 | PS3™ Model Detection (Repacked)
 | PS3ONLINE | PlayStation™TV
+| PS3PONG00 | PS3™ Pong (Repacked)
 | PS3SFM001 | Simple File Manager
 | PS3T000LZ | PS3 Advanced Tools
+| PS3TETRIS | PS3™ Tetris (Repacked)
 | PSCD00001 | Google Cloud Drive
 | PSCHANNEL | PSChannel
 | PSEISM1GR | Seismograph
@@ -283,9 +288,6 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | TBOI83296 | The Binding of Isaac Rebirth
 | TEMP02000 | Tempest 2000
 | TEMPMON00 | TempMON
-| PS3MODEL0 | PS3™ Model Detection (Repacked)
-| PS3TETRIS | PS3™ Tetris (Repacked)
-| PS3PONG00 | PS3™ Pong (Repacked)
 | TETRISEOL | TetrisEOL (Repacked)
 | THATOPONG | That Other Pong
 | TJARMIND3 | The Jarred Mind 3
