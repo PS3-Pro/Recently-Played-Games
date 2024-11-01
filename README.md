@@ -14,7 +14,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | ABCD12345 | PS3™ Messenger
 | ACTRLPS30 | Application Controller (VNC)
 | ALIENBRED | Hazed Alienbreed
-| APPTITLID | XMB™ Manager Plus 
+| APPTITLID | XMB™ Manager Plus
 | ARTPS3001 | Artemis Cheat Tool
 | AVOIDANCE | Avoidance
 | BB0011111 | blackb0x FTP Server
@@ -143,6 +143,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | JCD00TEST | 3 Card Monte
 | JUIC10000 | Juicy Fix
 | KARA01010 | Kara (Karaoke Player)
+| KSPY09415 | UNDERTALE™
 | LAUN12345 | Backup Manager
 | LAUNCHPAD | LaunchPAD
 | LED0DISC0 | LED Changer
@@ -233,6 +234,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | PSVB00001 | PSVibe (Sex tool for wife/gf & others)
 | PUHS00000 | Hard Drive Reserved Space Unlocker
 | PVIBEMOVE | PSVibe Move
+| PXSM12024 | Super Mario Bros™
 | QAFG00003 | QA flag tool 
 | QAFLAG000 | Habbib's QA Flag
 | QUAD00LSD | Codename Quadtris
