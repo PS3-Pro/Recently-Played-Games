@@ -182,7 +182,6 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | NPEA90124 | SEN Enabler
 | NPJB00109 | Dancing Eyes
 | NPXS00006 | Yabause
-| NPXS00020 | Pool of Doom!
 | NPXS09386 | PSNope
 | NPXS91337 | OpenPS3FTP v4
 | NSTP90000 | Nestopia
@@ -207,6 +206,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | POCKETMON | Untitled Pokemon Project
 | PONG00LSD | 2 Player Pong
 | PONG66666 | Polygonal Demo
+| POOLODOOM | Pool of Doom!
 | PRXLOADER | PRX Loader
 | PS2L00123 | PS2™ Classics Manager
 | PS2NETEMU | PS2™ Netemu Selector

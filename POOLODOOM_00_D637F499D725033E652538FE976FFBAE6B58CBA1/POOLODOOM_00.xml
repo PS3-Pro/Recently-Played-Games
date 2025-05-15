@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <title-info rev="0">
-	<id>NPXS00020</id>
+	<id>POOLODOOM</id>
 	<console>ps3</console>
 	<media-type>edi</media-type>
 	<name>Pool of Doom!</name>
 	<parental-level>0</parental-level>
-	<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/NPXS00020_00_E95114DF306DEDF18737CBDA317F83ECBA2740B6/ICON0.PNG</icon>
+	<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/POOLODOOM_00_D637F499D725033E652538FE976FFBAE6B58CBA1/ICON0.PNG</icon>
 	<resolution>480,576,720,1080,480SQ,576SQ</resolution>
 	<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
