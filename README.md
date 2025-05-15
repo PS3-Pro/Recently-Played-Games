@@ -91,6 +91,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | FIVENATF0 | Five Nights at Freddys
 | FIXP12345 | PL3 Permission Fix
 | FLAPBIRD0 | Flappy Bird Family
+| FLASH04K0 | Flash Light 0.4 K
 | FLTZ00010 | EID Root Key Dumper
 | FREEFLASH | FreeFlash (dev_blind clone)
 | FSEN03269 | SEN Enabler-Disabler
@@ -179,7 +180,9 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | NP00PKGI3 | PKGI by Bucanero
 | NP0APOLLO | Apollo Save Tool by Bucanero
 | NPEA90124 | SEN Enabler
+| NPJB00109 | Dancing Eyes
 | NPXS00006 | Yabause
+| NPXS00020 | Pool of Doom!
 | NPXS09386 | PSNope
 | NPXS91337 | OpenPS3FTP v4
 | NSTP90000 | Nestopia
@@ -234,6 +237,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | PSVB00001 | PSVibe (Sex tool for wife/gf & others)
 | PUHS00000 | Hard Drive Reserved Space Unlocker
 | PVIBEMOVE | PSVibe Move
+| PXSM12024 | Super Mario Bros
 | PXSM12024 | Super Mario Bros™
 | QAFG00003 | QA flag tool 
 | QAFLAG000 | Habbib's QA Flag
@@ -254,6 +258,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | RXESP3851 | Espionage
 | RXGAM3004 | 2048
 | SACDRIP01 | SACD-Ripper
+| SAGE12024 | Sonic 1: Strange Dream World
 | SCO000000 | SConsole
 | SCOG00001 | Scooger
 | SCUM12000 | ScummVM
@@ -265,14 +270,18 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | SLES00000 | Friday Night Funkin
 | SLIMEROLL | Slime Roll
 | SM64ZMOD1 | Super Mario 64
+| SMUM02024 | Super Mario UniMaker
 | SMW00PS33 | Super Mario Wars
 | SNES90000 | SNES9x
 | SONICEXE0 | Sonic.EXE
 | SONICMANI | Sonic Mania
+| SONICNEXU | Sonic Nexus
 | SOR000095 | Streets Of Rage (Paintown)
 | SPNP12345 | SpinPong
 | SSNE10000 | RetroArch/RetroArch XMB™ Edition
 | SSNE10001 | RetroArch PSL1GHT
+| STHR10000 | Sonic Origins: Sonic The Hedgehog 1
+| STHR20000 | Sonic Origins: Sonic The Hedgehog 2
 | STMC80608 | Showtime (Rebranded as Movian)
 | STOK01340 | CFWLoad
 | STOK01342 | PSIDPatch
