@@ -275,6 +275,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | SNES90000 | SNES9x
 | SONICEXE0 | Sonic.EXE
 | SONICMANI | Sonic Mania
+| SONICMANI | Sonic Mania
 | SONICNEXU | Sonic Nexus
 | SOR000095 | Streets Of Rage (Paintown)
 | SPNP12345 | SpinPong
@@ -310,6 +311,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | TYMANAGER | Thank You Manager
 | TYRI12000 | Tyrian 2000
 | UFOR00000 | UFO Racer
+| ULES95749 | Pizza Tower
 | UNMAPPEDF | The Unmapped Forest
 | UPDWEBMOD | WebMan Mod Installer by aldotools
 | VBAM90000 | VBA
