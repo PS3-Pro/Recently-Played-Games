@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<title-info rev="0">
+	<id>ULES95749</id>
+	<console>ps3</console>
+	<media-type>psp</media-type>
+	<name>Pizza Tower</name>
+	<parental-level>0</parental-level>
+	<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/ULES95749_00_F6148EC9E3FD30926A1968D65DA49774E281A16E/ICON0.PNG</icon>
+	<resolution>480,576,720,1080,480SQ,576SQ</resolution>
+	<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
+</title-info>
