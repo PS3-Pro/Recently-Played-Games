@@ -1,6 +1,4 @@
-3KEY00000 | 3K3y Dumper [BR drive key dumper]
 ALCH00038 | Gal*Gun
-ARTPS3001 | Artemis PS3 [Cheat Manager]
 ASIA00048 | Ultimate Shooter Pack: Resistance 3 / Killzone 3
 ASIA00049 | Square Enix Adventure Pack: Tomb Raider / Sleeping Dogs
 ASIA00050 | Ultimate Adventure Pack: Uncharted 3: Drake's Deception / God of War III
@@ -9,8 +7,6 @@ ASIA00052 | PS3 Best Hit Collection Vol. 2: Resistance 3 / God of War III
 ASIA00074 | Ultimate Uncharted Pack
 ASMO00001 | DECRSDAT
 ATS201009 | Catherine Best Selection
-BACKUTILS | Restore backup utility on 3.55 DEX
-BB0011111 | blackb0x FTP Server
 BCAS01594 | Ratchet & Clank: QForce
 BCAS20001 | Ridge Racer 7
 BCAS20002 | Genji: Kamui Souran
@@ -18,6 +14,7 @@ BCAS20003 | Resistance: Fall of Man
 BCAS20004 | MotorStorm
 BCAS20005 | Armored Core 4
 BCAS20006 | NBA '07
+BLUS30017 | Mobile Suit Gundam: Crossfire
 BCAS20007 | Railfan
 BCAS20008 | Enchanted Arms
 BCAS20009 | Formula One: Championship Edition
@@ -2638,7 +2635,6 @@ BLES01327 | Snipers: Silent Invisible Deadly
 BLES01328 | Disney Pixar's Cars 2: The Video Game
 BLES01329 | The Elder Scrolls V: Skyrim
 BLES01330 | The Elder Scrolls V: Skyrim
-BLES01337 | Awesome Filemanager
 BLES01338 | Get Up And Dance
 BLES01340 | Obut Péntanque
 BLES01341 | RIDGE RACER® Unbounded™
@@ -3272,15 +3268,8 @@ BLES30040 | NASCAR '08
 BLES30213 | Brain Challenge Deluxe
 BLES30347 | Call Of Juarez: Bound In Blood
 BLES30592 | NBA ELITE 11
-BLES80607 | multiPLAY
-BLES80608 | multiMAN
-BLES80610 | lastGAME (mounts last game played in multiMAN)
-BLES80611 | bdRESET (reset BD-ROM)
-BLES80616 | Prepare NTFS Drives for webMAN
-BLES80688 | installPKG [Install Package Files]
 BLES82001 | Metal Gear Solid: The Legacy Collection 1987-2012 (Disc 2)
 BLES82007 | Borderlands Triple Pack (Gameplay Disc)
-BLES88688 | multiMAN [mod]
 BLET50006 | Dark Souls II - Network Test
 BLET70000 | Metal Gear Online Premiere (MGO) [Beta]
 BLET70001 | Supercar Challenge [Beta]
@@ -4292,7 +4281,6 @@ BLJS10014 | TRANSFORMERS™ The Game
 BLJS10015 | Guitar Hero III: Legends of Rock [with Guitar]
 BLJS10016 | LEGO® Star Wars: The Complete Saga
 BLJS10017 | Trusty Bell: Chopin no Yume
-BLJS10018 | NBA 2K8 / PSN Patch [Stealth]
 BLJS10019 | HAZE
 BLJS10020 | DRAGON BALL® Z Burst Limit
 BLJS10021 | Dark Sector
@@ -4824,8 +4812,6 @@ BLKS25003 | Metal Gear Solid 4: Guns of the Patriots [PlayStation®3 Big Hit Ser
 BLMJ55039 | Rorona No Atelier: Arland No Renkinjutsushi (PlayStation®3 the Best Reprint)
 BLMJ55040 | Atelier Totori ~The Adventurer Of Arland~ [PlayStation®3 the Best]
 BLMJ55041 | Atelier Meruru ~The Apprentice Of Arland~ [PlayStation®3 the Best]
-BLND00001 | dev_blind
-BLND00002 | dev_blind
 BLUA31169 | NBA 2K13/mlb 2K13 Combo Pack
 BLUD80018 | Demon's Souls
 BLUD80019 | 3D DOT GAME HEROES
@@ -4848,7 +4834,6 @@ BLUS30012 | Call of Duty® 3
 BLUS30013 | Tiger Woods PGA TOUR® 07
 BLUS30014 | Madden NFL 07
 BLUS30016 | Need for Speed™ Carbon
-BLUS30017 | Mobile Suit Gundam: Crossfire
 BLUS30018 | Tom Clancy's Rainbow Six® Vegas
 BLUS30019 | FIGHT NIGHT ROUND 3
 BLUS30020 | Virtua Fighter 5
@@ -6054,11 +6039,6 @@ BLUS82013 | Borderlands Triple Pack (Add-On Installation Disc)
 BLUS83009 | Metal Gear Solid: The Legacy Collection
 BLUS90848 | Madden NFL 12 [Hall of Fame Edition]
 BLUS98176 | Resistance 3
-BOOS00003 | Boot OtherOS
-BOOT04XXX | PluginX
-CATA00000 | The Catachthonic
-CDGP00000 | CD-G Player r2
-CDMAN1234 | CD-MAN Emulator
 CEJH10000 | Metal Gear Solid 4: Guns of the Patriots
 CEJH10001 | Metal Gear Solid 4: Guns of the Patriots
 CEJH10002 | Metal Gear Solid 4: Guns of the Patriots
@@ -6069,21 +6049,6 @@ CEJH10018 | Tales of Xillia
 CEJH15009 | TIME CRISIS: RAZING STORM
 CEJH15017 | Tales of Xillia 2
 CEJH15020 | God of War® Ascension
-CFWITASET | PS3ITA CFW Setup
-CHET11111 | ps3usercheat v2.0: CodeUnique Manager
-CHET12345 | Cheat Disk
-CHET20000 | ps3usercheat v2.3: CodeUnique Manager
-CHIDALREG | Change IDPS All Region
-CINAVIA00 | CINAVIA Remover by ARCH
-CINAVIA01 | CINAVIA Protection Installer
-CLDBTINST | Coldboot Installer
-CNDR00001 | Solar (Interactive Screen Saver)
-CNDR00002 | Condor Updater
-COBRABOX2 | Cobra Box [CFW Tools Installer]
-COBRABOX5 | Cobra Box [CFW Tools Installer]
-COBRASWAP | Habib Toolbox / Cobra Toggler
-COBRATOOL | Cobra CFW Tool by bitsbubba
-CONFED001 | ConfEditor for JBM 3.55 & 3.56-MA
 CPCS01071 | Street Fighter X Tekken [Collector's Edition]
 CPCS01073 | Asura's Wrath [Special Edition]
 CPCS01075 | Biohazard Twin Pack [Biohazard Revival Selection & Resident Evil 5: Alternative Edition]
@@ -6092,230 +6057,6 @@ CPCS01077 | Biohazard Operation Raccoon City
 CPCS01079 | Dragon's Dogma [Limited Edition]
 CPCS01100 | Dragon's Dogma: Dark Arisen (Special Package)
 CPCS01102 | RESIDENT EVIL™ HD Remaster
-CTRLFAN00 | Control Fan Utility
-CUSA00002 | Killzone: Shadow Fall [PS4]
-CUSA00003 | Drive Club [PS4]
-CUSA00004 | InFamous: Second Son [PS4]
-CUSA00005 | RESOGUN™ [PS4]
-CUSA00006 | Knack [PS4]
-CUSA00007 | NBA 2K14 [PS4]
-CUSA00009 | Assassin's Creed IV: Black Flag [PS4]
-CUSA00010 | Assassin's Creed IV: Black Flag [PS4]
-CUSA00018 | Call of Duty® Ghosts [PS4]
-CUSA00019 | Skylanders™ SWAP Force [PS4]
-CUSA00021 | WATCH_DOGS™ [PS4]
-CUSA00025 | Call of Duty® Ghosts [PS4]
-CUSA00038 | RESOGUN™ [PS4]
-CUSA00039 | MLB 14: The Show™ [PS4]
-CUSA00041 | N++ [PS4]
-CUSA00042 | Blacklight: Retribution [PS4]
-CUSA00043 | Basement Crawl [PS4]
-CUSA00044 | LEGO Marvel Super Heroes [PS4]
-CUSA00049 | Battlefield 4 [PS4]
-CUSA00051 | Injustice: Gods Among Us [PS4]
-CUSA00053 | Middle-earth™: Shadow of Mordor™ [PS4]
-CUSA00063 | LittleBigPlanet™ 3 [PS4]
-CUSA00068 | Knack [PS4]
-CUSA00076 | The Order 1886 [PS4]
-CUSA00078 | Dying Light [PS4]
-CUSA00080 | Warframe [PS4]
-CUSA00081 | Pinball Arcade [PS4]
-CUSA00083 | LEGO Marvel Super Heroes [PS4]
-CUSA00088 | Madden NFL 25 [PS4]
-CUSA00089 | NBA Live 14 [PS4]
-CUSA00093 | Drive Club [PS4]
-CUSA00102 | Middle-earth™: Shadow of Mordor™ [PS4]
-CUSA00104 | NBA 2K14 [PS4]
-CUSA00106 | Warframe [PS4]
-CUSA00107 | Tomb Raider: Definitive Edition [PS4]
-CUSA00110 | Battlefield 4 [PS4]
-CUSA00112 | Madden NFL 25 [PS4]
-CUSA00113 | Need for Speed: Rivals [PS4]
-CUSA00114 | NBA Live 14 [PS4]
-CUSA00128 | FIFA 14 [PS4]
-CUSA00133 | Batman: Arkham Knight [PS4]
-CUSA00158 | Don't Starve: Console Edition [PS4]
-CUSA00164 | Strider [PS4]
-CUSA00168 | Need for Speed: Rivals [PS4]
-CUSA00170 | FIFA 14 [PS4]
-CUSA00176 | DEAD NATION™ Apocalypse Edition (EU) [PS4]
-CUSA00182 | War Thunder [PS4]
-CUSA00187 | Zen Pinball 2 [PS4]
-CUSA00189 | Singstars - Kate Perry: Roar [PS4]
-CUSA00190 | Killzone: Shadow Fall [PS4]
-CUSA00199 | 1001 Spikes [PS4]
-CUSA00202 | Knack [PS4]
-CUSA00203 | The Evil Within [PS4]
-CUSA00211 | Metal Gear Solid V: Ground Zeroes [PS4]
-CUSA00218 | Metal Gear Solid V: Ground Zeroes [PS4]
-CUSA00219 | Destiny™ [PS4]
-CUSA00222 | EA SPORTS™ UFC [PS4]
-CUSA00223 | InFamous: Second Son [PS4]
-CUSA00225 | Metal Gear Solid V: Ground Zeroes [PS4]
-CUSA00226 | Contrast
-CUSA00230 | Trials Fusion
-CUSA00242 | Diablo III: Reaper Of Souls (Ultimate Evil Edition) [PS4]
-CUSA00249 | DC Online [PS4]
-CUSA00250 | Thief [PS4]
-CUSA00252 | Thief [PS4]
-CUSA00285 | FINAL FANTASY™ XIV: A Realm Reborn® [PS4]
-CUSA00287 | Daylight (EU) [PS4]
-CUSA00288 | FINAL FANTASY™ XIV: A Realm Reborn® [PS4]
-CUSA00301 | FINAL FANTASY™ XIV: A Realm Reborn® [PS4] [Final Fantasy XIV: Shinsei Eorzea]
-CUSA00303 | Bound by Flame [PS4]
-CUSA00307 | Backgammon Blitz [PS4]
-CUSA00308 | Rays The Dead [PS4]
-CUSA00317 | Tomb Raider: Definitive Edition [PS4]
-CUSA00318 | MotoGP™ 14 [PS4]
-CUSA00320 | Wolfenstein®: The New Order [PS4]
-CUSA00327 | Don't Starve: Console Edition [PS4]
-CUSA00328 | Pure Pool [PS4]
-CUSA00341 | UNCHARTED 4: A Thief's End [PS4]
-CUSA00348 | LEGO® The Hobbit™ [PS4]
-CUSA00355 | LEGO® The Hobbit™ [PS4]
-CUSA00362 | Alien: Isolation™ [PS4]
-CUSA00363 | Alien: Isolation™ [PS4]
-CUSA00369 | Lord of the Fallen [PS4]
-CUSA00377 | Lord of the Fallen [PS4]
-CUSA00411 | Grand Theft Auto V [PS4]
-CUSA00419 | Grand Theft Auto V [PS4]
-CUSA00433 | Diablo III: Reaper Of Souls (Ultimate Evil Edition) [PS4]
-CUSA00453 | Plants vs. Zombies: Garden Warfare [PS4]
-CUSA00462 | Far Cry® 4 [PS4]
-CUSA00473 | LittleBigPlanet™ 3 [PS4]
-CUSA00496 | Far Cry® 4 [PS4]
-CUSA00502 | Transistor [PS4]
-CUSA00503 | Dragon Age™ Inquisition [Deluxe Edition] (EU)
-CUSA00526 | Madden NFL 15 [PS4]
-CUSA00527 | The Witcher 3: Wild Hunt [PS4]
-CUSA00537 | Stick It To The Man! [PS4]
-CUSA00552 | The Last of Us™ Remastered [PS4]
-CUSA00556 | The Last of Us™ Remastered [PS4]
-CUSA00563 | LEGO® Movie Videogame, The [PS4]
-CUSA00564 | Madden NFL 15 [PS4]
-CUSA00568 | Destiny™ [PS4]
-CUSA00572 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA00575 | InFamous: First Light [PS4]
-CUSA00590 | Sparkle 2 [PS4]
-CUSA00601 | LittleBigPlanet™ 3 [PS4]
-CUSA00605 | Assassin's Creed®: Unity [PS4]
-CUSA00657 | PixelJunk™ Shooter Ultimate [PS4]
-CUSA00663 | Assassin's Creed®: Unity [PS4]
-CUSA00683 | Metro Redux [PS4]
-CUSA00693 | LittleBigPlanet™ 3 [PS4]
-CUSA00707 | FIFA 15 [PS4]
-CUSA00722 | FIFA 15 [PS4]
-CUSA00723 | FIFA 15 [PS4]
-CUSA00738 | LittleBigPlanet™ 3 [PS4]
-CUSA00762 | LittleBigPlanet™ 3 [PS4]
-CUSA00768 | NBA 2K15 [PS4]
-CUSA00774 | Risk [PS4]
-CUSA00785 | The Order 1886 [PS4]
-CUSA00787 | NBA 2K15 [PS4]
-CUSA00803 | Call Of Duty®: Advanced Warfare [PS4]
-CUSA00810 | LittleBigPlanet™ 3 [PS4]
-CUSA00812 | WATCH_DOGS™ [PS4]
-CUSA00824 | Worms™ Battlegrounds
-CUSA00834 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA00848 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA00851 | Call Of Duty®: Advanced Warfare [PS4]
-CUSA00853 | Call Of Duty®: Advanced Warfare [PS4]
-CUSA00897 | InFamous: First Light [PS4]
-CUSA00903 | Dragon Fin Soup [PS4]
-CUSA01004 | Sleeping Dogs™ Definitive Edition [PS4]
-CUSA01042 | PES 2015: Pro Evolution Soccer [PS4]
-CUSA01076 | PES 2015: Pro Evolution Soccer [PS4]
-CUSA01084 | Battle Islands (EU) [PS4]
-CUSA01111 | Sleeping Dogs™ Definitive Edition [PS4]
-CUSA01230 | Axiom Verge [PS4]
-CUSA01274 | Woah Dave!
-CUSA01294 | BADLAND: Game of the Year Edition [PS4]
-CUSA01296 | Q*Bert Rebooted [PS4]
-CUSA01354 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA01364 | BlazBlue: Chrono Phantasma Extend [PS4]
-CUSA01367 | Dust: An Elysian Tail (EU)
-CUSA01393 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA01414 | BADLAND: Game of the Year Edition [PS4]
-CUSA01434 | TESLAGRAD [PS4]
-CUSA01437 | BlazBlue: Chrono Phantasma Extend [PS4]
-CUSA01467 | Pier Solar and The Great Architects
-CUSA01521 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA01595 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA01597 | Guilty Gear Xrd -Revelator- Demo [PS4]
-CUSA01623 | God of War® III Remastered [PS4]
-CUSA01689 | Guilty Gear Xrd -SIGN- [PS4]
-CUSA01692 | VEVO [PS4]
-CUSA01703 | Plex [PS4]
-CUSA01858 | Grim Fandango Remastered [PS4]
-CUSA02010 | Dying Light [PS4]
-CUSA02052 | Bastion [PS4]
-CUSA02241 | Metal Slug 3 [PS4]
-CUSA02452 | BlazBlue: Chrono Phantasma Extend [PS4]
-CUSA02747 | Just Cause 3 [PS4]
-CUSA02974 | HELLDIVERS™ [PS4]
-CUSA03254 | BlazBlue: Chrono Phantasma Extend [PS4]
-CUSA03274 | Fate/Extella: The Umbral Star
-CUSA03397 | LEGO® Star Wars: The Force Awakens [PS4]
-CUSA03497 | Shingeki No Kyojin [PS4]
-CUSA03882 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA04103 | BlazBlue: Central Fiction [PS4]
-CUSA04112 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA04191 | BlazBlue: Chrono Phantasma Extend [PS4]
-CUSA04260 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA04409 | BlazBlue: Chrono Phantasma Extend [PS4]
-CUSA04466 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA04533 | Guilty Gear Xrd -Revelator- Demo [PS4]
-CUSA04629 | BlazBlue: Chrono Phantasma Extend [PS4]
-CUSA04743 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA04759 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA04776 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA04923 | Guilty Gear Xrd -Revelator- [PS4]
-CUSA05230 | Guilty Gear Xrd -Revelator- [PS4]
-DARK0RSX5 | DragonFTP Server
-DCRY00001 | SELF/SPRX Decrypter
-DFPT00003 | Dump FLASH Partition Table
-DIENSPOOF | PSN SEN Activator/Desactivator (Spoofer) by ARCH
-DISABLECP | Disable Cinavia
-DLV100003 | Dump LV1
-DLV200003 | Dump LV2
-DOOM00666 | PS FreeDoom
-DPFH00003 | Dump FLASH
-DSRM00003 | Dump SYSROM
-DVDE00000 | DVD Enabler
-DYNA00001 | Dynarec Enabler
-EBOOT.BIN PlayStation® Executable SELF
-ELONLOREP | Elongated Reptile
-ENSTONEXX | Control Console API [CCAPI]
-ESKISS_00 ESKISS
-EUAE00829 | E-UAE Amiga Emulator [Emulator]
-FBAN00000 | FBANext [Emulator]
-FCEU90000 | FCEU NES [Emulator]
-FILEMANAG | File Manager [ManaGunZ]
-FIVENATF0 | Five Nights at Freddy's
-FIXP12345 | PL3 Permission Fix
-FIXUPDATE | Fix Update 4.21+ [Fixes PS3 80010009 Update Error]
-FLAPBIRD0 | Flappy Bird PS3 Edition
-FLGM00001 | Gekiatsu!! Pachi Game Tamashi: CR Evangelion: Hajimari no Fukuin (Super Premium Box)
-FLTZ00004 | flatz Klicensee Dumper Loader
-FLTZ00005 | flatz Data Dumper [dumps data from flatz apps]
-FLTZ00008 | flatz Disc Hash Key Dumper Loader
-FLTZ00010 | flatz eEID Root Key Dumper [dumps eid_root_key from GameOS]
-FLTZ00012 | flatz Secure File ID Dumper Loader
-FREEFLASH | FreeFlash (dev_blind clone)
-FSEN03269 | PSN SEN Activator/Desactivator (Spoofer) by nathan_r32_69
-FSMT00001 | Factory Service Mode by CrashSerious
-FSYN00001 | FaceSync
-GAIA01985 | Gaia Manager
-GAPV00003 | Get Applicable Version
-GDSW00001 | gameDATA Tool [installs PKG/DATA on ext HDD]
-GENP00001 | GenPlus-GX [Emulator]
-GMANAGER9 | Gamesonic Manager
-GMBT90000 | Gambatte [Emulator]
-GMBTCLLC1 | Gameboot Collection Installer
-GMPADTEST | PS3 GamePad Test by zar
-GPKG00123 | Install Package by CaptainCPS-X
-GSONICMNG | Game Sonic Manager
-GTKS00003 | Get Token Seed
 GUST00018 | Atelier Meruru ~The Apprentice Of Arland~
 GUST00020 | Atelier Ayesha ~The Alchemist of Dusk~
 GUST00024 | Atelier Escha & Logy ~Alchemists of the Dusk Sky~
@@ -6329,33 +6070,11 @@ HB5A6838E | Powernoid (version 4E) [HB] [PSP]
 HB7777886 | Mobile Assault (version 1.7.4) [HB] [PSP]
 HB973CBE0 | CSPSP (version 1.82) [HB] [PSP]
 HBB935E49 | B-Gen (version 0.2) [HB] [PSP]
-HBDB90000 | DOSbox [Emulator]
 HBDM90000 | PrBoom Doom
 HBE46D557 | Toy Wars (version 2) [HB] [PSP]
 HBF5AC6D5 | JellyCar (version 1.1) [HB] [PSP]
 HBF69A9EA | CSPSP (version 1.92) [HB] [PSP]
-HBFS90000 | FUSE Free Unix Spectrum Emulator
-HBST90000 | Stella (Atari emulator)
-HEROES200 | Heroes
-HOMELAUN1 | USB Game Launcher [Iris]
 HOP300606 | Hakuoki: Stories Of The Shinsengumi
-HTSD00001 | stDISC (SHOWtime Disc Access)
-HTSS00003 | SHOWtime by Andreas Öman / Movian / movianM7
-HVDEBUG01 | HVDebug (hypervisor debugging from GameOS)
-HYBRIDMAN | HYBRID Manager
-IDPS00001 | IDPS Viewer
-IDPS11111 | IDPS Dumper
-IDPSET000 | IDPSet
-IMANAGER4 | Iris Manager
-IMANGER4U | Iris Manager (Unofficial)
-INEWCORE0 | Install New_Core
-INSTALLER | Custom PKG Installer
-INSTALLPK | Install Package by deroad
-IOBL00003 | Install OtherOS Bootloader Loader
-IOOS00003 | Install OtherOS
-IRIS00069 | Iris Manager (Evilnat's Manager)
-IRISMAN00 | IRISMAN
-JAICUSBL0 | USB Custom Firmware Loader [by JaicraB]
 JPSN12345 | LittleBigPlanet™ 2
 KOEI30121 | Bladestorm: The Hundred Years' War [Premium Box]
 KOEI30138 | G1 JOCKEY 4 2007 & Winning Post 7 Maximum 2007
@@ -6392,22 +6111,7 @@ KTGS30320 | Sophie no Atelier: Fushigi na Hon no Renkinjutsushi (Premium Box)
 KTGS30323 | Arslan: The Warriors Of Legend [Arslan Senki × Muso]
 KTGS30339 | Shingeki No Kyojin
 KTGS30356 | Shin Sangoku Musou Eiketsuden
-LAUN12345 | Backup Manager
-LED0DISC0 | LED Changer
-LNX000001 | BootOS [asbestOS]
-LV2000000 | lv2patcher/bd-region changer
-LV2LOADER | Rebug's lv2_kernel.self Loader
-MAMBAINST | MAMBA AutoLoader
-MAMBALOAD | MAMBA Loader
-MAMBAPRXL | MAMBA/PRX Loader
-MAME90000 | PS3 MAME: Multiple Arcade Machine Emulator [Emulator]
-MANAGUNZ0 | ManaGunZ [Backup Manager by zar]
 MCPD12345 | Motion Controller Playground Demo
-MDFN90000 | Mednafen [Emulator]
-MDFN90002 | Mednafen [Emulator]
-MEMD00001 | MemDump
-MONSTER01 | Chaos Air Bringer (Change PS3 MAC Address)
-MONSTERMR | Monster Manager
 MRTC00001 | STAR OCEAN THE LAST HOPE -INTERNATIONAL-
 MRTC00002 | LOST PLANET 2
 MRTC00003 | FINAL FANTASY® XIII
@@ -6415,13 +6119,6 @@ MRTC00005 | Sengoku BASARA: Samurai Heroes
 MRTC00011 | Blood Drive
 MRTC00014 | MINDJACK
 MRTC00016 | Cabela's® Dangerous Hunts 2011
-MUGENMK95 | Mugen [Paintown]
-NEOA54906 | Neo Angelus Trophy Editor
-NEOTRAIL1 | Neo Trail
-NOBAN0000 | PS Unban
-NORSX0000 | NORSX: A 2D Library for PSL1GHT
-NP00PKGI3 | PKGi PS3
-NP0APOLLO | Apollo Save Tool
 NPAS01839 | Sanctum 2
 NPBB30454 | Gatling Gears
 NPEA00002 | Gran Turismo Hd Concept
@@ -8684,67 +8381,6 @@ NPEL00531 | Dead Space™ 3
 NPEL00560 | Brothers: A Tale Of Two Sons
 NPEL00594 | Disney Castle Of Illusion Starring Mickey Mouse
 NPEL00634 | Skylanders™ SWAP Force
-NPEO00015 | Theme
-NPEO00038 | WipEout® HD Dynamic Theme
-NPEO00049 | Fat Princess
-NPEO00051 | LittleBigPlanet™
-NPEO00052 | White Knight Chronicles
-NPEO00055 | Ratchet & Clank - A Crack in Time
-NPEO00056 | Uncharted 2 - Among Thieves
-NPEO00060 | Theme
-NPEO00062 | HEAVY RAIN™ Mars ARI
-NPEO00064 | MotorStorm Arctic Edge Dynamic Theme
-NPEO00085 | Theme
-NPEO00087 | Sega Mega Drive Classics Dynamic Theme
-NPEO00089 | FIFA World Cup
-NPEO00097 | Sony Interactive Entertainment - Start the Party!
-NPEO00099 | Killzone®3
-NPEO00100 | Uncharted 3 - Drake's Deception
-NPEO00101 | Gran Turismo 5
-NPEO00104 | Sony Interactive Entertainment - ICO
-NPEO00105 | Sony Interactive Entertainment - Shadow of the Colossus
-NPEO00113 | Theme
-NPEO00130 | inFamous - Festival of Blood
-NPEO00133 | Journey™
-NPEO00136 | The Last of Us™ Dynamic Theme
-NPEO00137 | Theme
-NPEO00140 | Theme
-NPEO00142 | Sony Interactive Entertainment - Tema Oficial de la Seleccion Espanola de Futbol
-NPEO00144 | Sony Interactive Entertainment - The Dark Knight Rises
-NPEO00153 | Wonderbook - Book of Spells
-NPEO00154 | Sony Interactive Entertainment - Movie Themes - 300
-NPEO00160 | God of War® Ascension [Theme]
-NPEO00167 | Beyond: Two Souls™
-NPEO00169 | Rain
-NPEO50012 | CRASH COMMANDO™
-NPEO50015 | Rag Doll Kung Fu™: Fists of Plastic
-NPEO50024 | PixelJunk™ Shooter
-NPEP00026 | Theme
-NPEP00037 | Assassin's Creed II ™ Theme
-NPEP00049 | Jackass: South Park Dynamic Theme
-NPEP00053 | After Burner: Climax Theme
-NPEP00056 | Thumbstar Games Themes - Bio-Hud
-NPEP00060 | Goldfish Pond Dynamic Theme
-NPEP00074 | Lamagama Theme Series - EP4218-NPEP00074_00-LAMADYNTHEME0034
-NPEP00077 | Call of Duty®: Black Ops Theme
-NPEP00079 | Prince of Persia Trilogy Dynamic Theme
-NPEP00087 | Leviathan Games - Bio Cascade
-NPEP00091 | Dynamic Soccer England Theme
-NPEP00128 | Worms™ 2 Armageddon Theme
-NPEP00144 | The Elder Scrolls V: Skyrim Dynamic Theme
-NPEP00148 | Crossed Hand Dynamic Theme
-NPEP00164 | Wanted Corp. Theme
-NPEP00165 | Virtua Fighter 5 Final Showdown Dynamic Theme
-NPEP00170 | Tales of Graces™ f Theme
-NPEP00183 | Call of Duty®: Black Ops II Theme
-NPEP00221 | Watch Dogs Theme
-NPEP00231 | Grand Theft Auto V
-NPEP00266 | Call Of Duty®: Advanced Warfare Pre-Order Dynamic Theme
-NPEP00269 | The Evil Within Dynamic Theme
-NPEP50025 | Command & Conquer®: Red Alert™ 3 Theme
-NPEP50029 | TOPATOI: Spinning Through The Worlds Theme
-NPEP50032 | The Punisher: No Mercy Theme
-NPEP50033 | Zen Pinball Theme
 NPEX00001 | This is Football Management [MINI] [PSP]
 NPEX00002 | Piyotama [MINI] [PSP]
 NPEX00003 | Love Cupid [MINI] [PSP]
@@ -13979,252 +13615,9 @@ NPUZ00301 | Top Trumps NBA All Stars [MINI] [PSP]
 NPUZ00305 | I Kill Zombies [MINI] [PSP]
 NPUZ00306 | Feisty Feet [MINI] [PSP]
 NPUZ00364 | Canabalt [MINI] [PSP]
-NPXS00006 | PS3SX [Emulator]
-NPXS20001 | SceShellUI
-NPXS21000 | Game Live Streaming
-NPXS21002 | Party Daemon
-NPXS21003 | AV Capture Manager
-NPXS21004 | Video Core Server
-NPXS21006 | Remote Play Daemon
-NPXS21010 | PS Cloud Daemon
-NSTP90000 | Nestopia [Emulator]
-OCPM90000 | Open Cubic Player MIDIer
-OFTP00001 | OpenPS3FTP by John Olano
-OFTP00003 | OpenPS3FTPsplit by Onishin
-OMAN46756 | Open Manager [Jurai2]
-ONE11111_ PS One [Emulator]
-PARAM.SFO PlayStation® Parameter File
-PBPX95208 | PS2 DVD Player
-PBXC00201 | PSX Update
-PBXC00202 | PSX Update
-PBXC00203 | PSX Update
-PBXC00204 | PSX Update
-PCAS00057 | Guilty Gear Xrd -Revelator-
-PCEE00000 | PCE Emu [Emulator]
-PCJS50001 | Drive Club [PS4]
-PCJS53001 | Knack [PS4]
-PCSA00004 | Escape Plan [PSVita]
-PCSA00007 | Hustle Kings™ [PSVita]
-PCSA00011 | Gravity Rush [PSVita]
-PCSA00015 | WipEout® 2048 [PSVita]
-PCSA00017 | LittleBigPlanet™ [PSVita]
-PCSA00027 | MotorStorm RC [PSVita]
-PCSA00029 | UNCHARTED: Golden Abyss [PSVita]
-PCSA00035 | Table Soccer [PSVita]
-PCSA00038 | Cliff Diving [PSVita]
-PCSA00044 | Skype [PSVita]
-PCSA00062 | YouTube [PSVita]
-PCSA00066 | Escape Plan [PSVita] [Demo]
-PCSA00069 | PlayStation® All-Stars Battle Royale [PSVITA]
-PCSA00092 | Soul Sacrifice™ [PSVita]
-PCSA00139 | PlayStation®Vita Pets [PSVita]
-PCSA00490 | Run Sackboy! Run! [PSVita]
-PCSA00511 | MLB 15: The Show™ [PSVita]
-PCSA00646 | Oreshika: Tainted Bloodlines [PSVita]
-PCSB00025 | Puddle [PSVita]
-PCSB00031 | Virtua Tennis 4 [PSVita]
-PCSB00037 | StarDrone Extreme
-PCSB00040 | Asphalt Injection [PSVita]
-PCSB00042 | BlazBlue: Continuum Shift Extend [PSVita]
-PCSB00060 | Treasures of Montezuma, The [PSVita]
-PCSB00065 | Super Monkey Ball Banana Splitz [PSVita]
-PCSB00079 | Rayman® Origins [PSVita]
-PCSB00096 | Tales From Space: Mutant Blobs Attack [PSVita]
-PCSB00102 | Chronovolt [PSVita]
-PCSB00106 | Mortal Kombat [PSVita]
-PCSB00109 | New Little King’s Story [PSVita]
-PCSB00114 | BEN 10™ GALACTIC RACING [PSVita]
-PCSB00118 | Metal Gear Solid: HD Collection [PSVita]
-PCSB00144 | Street Fighter X Tekken [PSVita]
-PCSB00161 | Sine Mora [PSVita]
-PCSB00168 | Big Sky Infinity [PSVita]
-PCSB00169 | Knytt Underground [PSVita]
-PCSB00171 | FIFA 13 [PSVita]
-PCSB00190 | Sonic & All-Stars Racing Transformed™ [PSVita]
-PCSB00203 | Retro City Rampage [PSVita]
-PCSB00215 | Dokuro [PSVita]
-PCSB00221 | Virtue’s Last Reward [PSVita]
-PCSB00230 | Let's Fish! Hooked On [PSVita]
-PCSB00303 | Coconut Dodge [PSVita]
-PCSB00304 | LEGO® Legends of Chima: Laval's Journey
-PCSB00316 | MotoGP™ 13 [PSVita]
-PCSB00336 | LIMBO [PSVita]
-PCSB00422 | Treasures of Montezuma: Arena [PSVita]
-PCSB00433 | Dustforce [PSVita]
-PCSB00437 | Duke Nukem Megaton Edition [PSVita]
-PCSB00541 | Mind Zero [PSVita]
-PCSC00024 | Sound Shapes™ [PSVita]
-PCSC80012 | EBook Reader [PSVita]
-PCSE00004 | Ultimate Marvel Vs CAPCOM 3 [PSVita]
-PCSE00005 | Street Fighter X Tekken [PSVita]
-PCSE00029 | StarDrone Extreme
-PCSE00033 | Guacamelee! [PSVita]
-PCSE00039 | Foosball 2012 [PSVita]
-PCSE00050 | Zen Pinball 2 [PSVita]
-PCSE00066 | New Little King’s Story [PSVita]
-PCSE00070 | Netflix [PSVita]
-PCSE00088 | Jet Set Radio [PSVita]
-PCSE00123 | Colors [PSVita]
-PCSE00228 | Germinator [PSVita]
-PCSE00229 | Fruit Ninja [PSVita]
-PCSE00244 | Valhalla Knights 3 [PSVita]
-PCSE00248 | Deadmatch Village [PSVita]
-PCSE00273 | Rainbow Moon [PSVita]
-PCSE00289 | Farming Simulator [PSVita]
-PCSE00349 | 1001 Spikes [PSVita]
-PCSE00431 | Doodle Kingdom [PSVita]
-PCSE00454 | Sparkle 2 [PSVita]
-PCSE00573 | BADLAND: Game of the Year Edition
-PCSF00001 | UNCHARTED: Golden Abyss [PSVita]
-PCSF00003 | Resistance: Burning Skies [PSVita]
-PCSF00006 | Everybody's Golf [PSVita]
-PCSF00007 | WipEout® 2048 [PSVita]
-PCSF00010 | Hustle Kings™ [PSVita]
-PCSF00017 | Little Deviants [PSvita]
-PCSF00020 | DUT [PSVita]
-PCSF00021 | LittleBigPlanet™ [PSVita]
-PCSF00023 | Escape Plan [PSVita]
-PCSF00024 | Gravity Rush [PSVita]
-PCSF00030 | TableTop Tanks [PSVita]
-PCSF00034 | Unit 13 [PSVita]
-PCSF00035 | Fireworks [PSVita]
-PCSF00043 | Frobisher says [PSVita]
-PCSF00046 | MotorStorm RC [PSVita]
-PCSF00062 | Table Football [PSVita]
-PCSF00064 | T@g [PSVita]
-PCSF00067 | Gravity Crush [PSVita]
-PCSF00076 | Sound Shapes™ [PSVita]
-PCSF00092 | Ecolibrium [PSVita]
-PCSF00110 | WipEout® 2048 [PSVita]
-PCSF00119 | UNCHARTED: Golden Abyss [Demo] [PSVita]
-PCSF00124 | Skype [PSVita]
-PCSF00137 | Paint Park Mal-Center [PSVita]
-PCSF00141 | Resistance: Burning Skies [PSVita]
-PCSF00150 | YouTube [PSVita]
-PCSF00156 | Sly Cooper: Thieves in Time™ [PSVita]
-PCSF00220 | UNCHARTED: Fight for Fortune [PSVita]
-PCSF00247 | Jak and Daxter Trilogy [PSVita]
-PCSF00250 | Jak 3 HD [PSVita]
-PCSF00311 | Disney Epic Mickey: The Power of Two [PSVita]
-PCSF00532 | Soul Sacrifice™ Delta [PSVita]
-PCSF00576 | Borderlands™ 2 [PSVita]
-PCSG00035 | Metal Gear Solid: HD Edition [PSVita]
-PCSG00080 | Metal Gear Solid 2 HD Edition [PSVita]
-PCSG00081 | Metal Gear Solid 3: Snake Eater HD Edition [PSVita]
-PCSG90036 | Silent Hill: Shattered Memories [PSVita]
-PCSI00001 | Music Unlimited [PSVita]
-PCSX00001 | PS3SX [Emulator]
-PKGENABLE | PKG Enabler
-PKGMANAGE | Rebug Package Manager / XMB Manager Plus Flasher
-PKGMANAGR | Rebug Package Manager / XMB Manager Plus Flasher
-PLJM80004 | FIFA 14 [PS4]
-PLJM80005 | Assassin's Creed IV: Black Flag [PS4]
-PLJM80008 | Metal Gear Solid V: Ground Zeroes [PS4]
-PLJM80009 | Need for Speed: Rivals [PS4]
-PLJM80010 | Tomb Raider: Definitive Edition [PS4]
-PLJM80015 | FINAL FANTASY™ XIV: A Realm Reborn® [PS4] [Final Fantasy XIV: Shinsei Eorzea]
-PLJM80116 | Fate/Extella: The Umbral Star
-PLJM80117 | Fate/Extella: The Umbral Star
-PLJM80176 | Fate/Extella: The Umbral Star
-PLJM84001 | Call of Duty® Ghosts [PS4]
-PLJM84002 | Battlefield 4 [PS4]
-PLJS70016 | BlazBlue: Chrono Phantasma Extend
-PLJS70058 | Guilty Gear Xrd -Revelator-
-PLJS70067 | Guilty Gear Xrd -Revelator-
-PLJS74001 | NBA 2K14 [PS4]
-POPEN0000 | Popen Unban
-PRXLOADER | PRX LOADER
-PS2L00123 | PS2 Classics Manager by CaptainCPS-X
-PS2U10000 | PS2 Classics Placeholder
-PS3HATARI | HATARI [Emulator]
-PS3ITAMNG | PS3ITA Manager
-PS3ITAPSN | PSoN CEX installer [PS3ITA]
-PS3ITARMV | PSoN Uninstaller [PS3ITA]
-PS3LOAD04 | Run PS3 SELF programs via wireless
-PS3MAPI00 | PS3 Manager Installer for Rebug
-PS3MINSTA | PS3 Manager Installer for Darknet Cobra
-PS3Temp00 | PS3 Temp [Monitor CPU/GPU Temperature]
-PS3UPDAT. PlayStation®3 Firmware Update
-PSCD00001 | PS3 Cloud Drive
-PSCHANNEL | Playstation Channel [Brewology Edition]
-PSEISM0GR | PS Seismograph
-PSID81257 | PSX Launch
-PSL145310 | PS3loadX
-PSNP11001 | PSNPatch by KW
-PSONPSDEX | PSoN DEX installer [PS3ITA]
-PSPC66820 | Cobra PSP Launcher [Emulator] [Minis]
-PSPM66820 | Cobra PSP Launcher [Emulator] [Remasters]
-PSVB00001 | PSVibe
-PUNEFLOW0 | PS3Flow [PuneFlow]
-QAFG00003 | qa flag/qa flag extra tool
-RBGSELECT | Rebug Selector
-RBGTLBOX2 | Rebug Toolbox 2.0
-RBOT00003 | Setup FLASH for OtherOS
-RCTCORE00 | Reset Core 4.31 CFW
-REBO00001 | System neustarten
-REMINIS00 | REminiscence (Flashback)
-RESACTDAT | Restore act.dat
-RETROARCH | RetroArch CE
-RMTC00001 | PS3 ezRemote Client
-ROGE12345 | Rogero Manager
-RPSN00001 | reActPSN
-RQAF00003 | qa reset tool
-RXCHE9117 | RetroArch: Chex Quest [Doom]
-RXDAR0340 | RetroArch: The Darkening [Doom]
-RXDOO5227 | RetroArch: Doom 3 (smiley?) [Doom]
-RXDOO8743 | RetroArch: Doom 2
-RXDOO9455 | RetroArch: Doom
-RXDUK8847 | RetroArch: Duke Nukem GP [Doom]
-RXEAR3028 | RetroArch: Earth [Doom]
-RXGOL2861 | RetroArch: Goldeneye 007 [Doom]
-RXPAK9136 | RetroArch: Quake
-RXSIM7456 | RetroArch: Simpson's Doom [Doom]
-RXSTA3442 | RetroArch: Star Wars [Doom]
-RXSTA9974 | RetroArch: Star Trek [Doom]
-RXULT0083 | RetroArch: Ultimate FreeDoom [Doom]
-SACDRIP01 | SACD-Ripper
-SCOG00001 | Scooger
-SCUM12000 | ScummVM [Emulator]
-SDISABLER | PSN Disabler + 3.55 Version Restore [kmeaw]
-SFOO00003 | Reboot
-SIMPIRIS4 | Simplicity [Iris fork by StevenCapes]
-SISO00123 | Simple NTFS ISO Mounter (by CaptainCPS-X)
 SLED01340 | PS1 NET YAROZE COLLECTION
-SLIMEROLL | SlimeRoll
 SLUS00922 | Dino Crisis [PSOne]
-SNES90000 | SNES9x: Super Nintendo Emulator
-SPOOF4600 | Spoof 4.60 for 4.55CEX by ARCH
-SPOOF4660 | Spoof 4.66 for 4.5xCEX or 4.6x by ARCH
-SSNE10000 | RetroArch [Emulator] [FBA/GBA/SNES/Genesis/SEGA CD/NES/GB/GBC/GG/Doom/MAME/PC-Engine]
-SSNE11111 | RetroArch: IMAME4all
-SSNE12121 | RetroArch: SG-1000
-SSNE13131 | RetroArch: Game Gear
-SSNE14141 | RetroArch: Master System
-SSNE15151 | RetroArch: TurboGrafx CD (aka TurboDuo)
-SSNE16161 | RetroArch: Super Grafx
-SSNE17171 | RetroArch: Sega CD
-SSNE22222 | RetroArch: FBalpha (arcade)
-SSNE33333 | RetroArch: Genesis
-SSNE44444 | RetroArch: GameboyAdvance
-SSNE54321 | RetroArch: Neo-Geo
-SSNE55555 | RetroArch: TurboGrafx16
-SSNE65432 | RetroArch: prBoom
-SSNE66666 | RetroArch: Gameboy
-SSNE77777 | RetroArch: NES
-SSNE88888 | RetroArch: SNES
-SSNE99999 | RetroArch: Wonderswan
-STOK01340 | CFWLoader [USB Custom Firmware Loader by stoker25]
-STOK01342 | PSIDPatch by stoker25
-SUIT11111 | SuiteApp (image/text viewer)
 SWJP11001 | Arcana Heart 3
-TEST00000 | PS3 Model Detection
-THATOPONG | That Other Pong
-TOGGLEQAF | Rebug Toggle QA
-TRUEBLUE4 | TrueBlue Updater 2.51
-TRUEBLUE5 | TrueBlue Updater 2.60
-TRUEBLUE6 | TrueBlue Updater 2.61
-TRUEBLUE7 | TrueBlue Updater 2.62
-TXTR11111 | Text Reader
 UCAS40015 | Ridge Racer [PSP]
 UCAS40016 | Hot Shots Golf: Open Tee [PSP]
 UCAS40018 | Tenchi no Mon (Japanese Version) [PSP]
@@ -17159,26 +16552,10 @@ ULUS10595 | FIFA Soccer 13 [PSP]
 ULUS80018 | Puzzle Quest: Challenge of the Warlords [Demo] [PSP]
 ULUS90003 | Monster Hunter Freedom Unite [Demo] [PSP]
 ULUX80234 | WTF: Work Time Fun [Demo] [PSP]
-UNINSBACK | Uninstall backup utility from 3.55 DEX
-UPDWEBMOD | webMAN MOD Installer
-VBAM90000 | VBA-PS3 [Emulator]
-VBAM90000 | Visual Boy Advance Emulator
 VCJS15007 | Killzone: Mercenary
-VEBUSPOOF | PSN Enabler + Version Spoofer [kmeaw]
-VERSPOOF0 | Spoof 4.60 for 4.55CEX by bitsbubba
-VERSPOOFA | Rebug's Version Spoofer
-VICE90000 | Commodore 64 Emulator
-VICE90000 | VICE 64 Emulator
 VLJM35005 | Metal Gear Solid: HD Edition [PSVita]
 VLJM35056 | Need for Speed™ Most Wanted [EA Best Hits] [PSVita]
-VSHU00100 | vsh.self patcher for reActPSN
-WIPE01337 | Wipe History
-WIRC12345 | PS3 IRC
 XCES00001 | Ratchet & Clank™: QForce
 XCES00008 | Ratchet & Clank: Into The Nexus
 XCUS00001 | Ratchet And Clank: Full Frontal Assault
 XCUS00002 | Sly Cooper: Thieves in Time™
-XMBMANPLS | XMB Manager Plus
-XMBMDIFY1 | XMB Modify Collection Installer
-XMBMODMAN | XMB Mod Manager by brunolee
-XREG00001 | xReg Plus (backup/restore xRegistry.sys)
