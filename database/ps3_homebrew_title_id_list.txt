@@ -1,0 +1,327 @@
+BLES01337 | Awesome Filemanager
+BLES80608 | multiMAN
+BLES80610 | lastGAME (Mounts last game played in multiMAN)
+BLES80611 | mmCM bdRESET (Reset BD-ROM)
+ELEGANZ00 | Elegaz File Manager
+GAIA01985 | Gaia Manager
+GAMEMNGR1 | Game Sonic Manager
+GPKG00123 | Game PKG
+HMANAGER4 | Hermes Manager
+HMBW00001 | Awesome MountPoint Manager
+HOMELAUN1 | USB Game Launcher
+HYBRIDMAN | Hybrid Manager
+IMANAGER4 | Iris Manager
+IMANGER4U | Iris Manager (Unofficial) (Deprecated)
+IRIS00069 | Iris Manager (Evilnat's Manager) (Deprecated)
+IRISMAN00 | irisMAN
+LAUN12345 | Backup Manager
+MANAGUNZ0 | ManaGunZ
+MONSTERMR | Monster Manager
+OMAN46756 | Open Manager/Sexy Manager/Pretty Manager/Flex Manager (Deprecated)
+PLAYMNGR1 | Play Manager (Deprecated)
+PS3ITAMNG | PS3ITA Manager (Deprecated)
+PS3ITAU | 	 PS3 ITA
+PS3SFM001 | Simple File Manager
+ROGE12345 | Rogero (Deprecated)
+SIMPIRIS4 | Simplicity [Iris fork by StevenCapes] (Deprecated)
+SISO00123 | Simple NTFS ISO Mounter (by CaptainCPS-X)
+TYMANAGER | Thank You Manager
+UPDWEBMOD | WebMan Mod Installer by aldotools
+PKGLAUNCH | PKG Launcher
+PS2L00123 | PS2 Classics Manager
+PS2U10000 | PS2 Classics Placeholder
+PSID81257 | PSX Launcher 
+PSPC66820 | PSP Remasters Launcher
+PSPM66820 | PSP Launcher
+ALIENBRED | Hazed Alienbreed
+AVOIDANCE | Avoidance
+BOMB00000 | Bomberman HD
+BUBL00002 | Bubble Bobble - Normal Version
+BUBL00003 | Bubble Bobble - Parent Version
+BUBL00004 | Bubble Bobble - Maniac Version
+CASCADEBE | Cascade Beneath
+CATA00000 | The Catachtonic
+CHEROPHOB | Cherophobe
+CUBE66666 | Cubicle Shooter
+CUBESCITY | Cubicle Shooter City
+CUPH00001 | CupHead
+CYLINDERD | Cylinder Dodge
+DANCECLON | Dance Clone
+DARKSNAKE | Snake
+DGCRUSHED | Don't Get Crushed
+DONOTDIE2 | They do Not Die 2
+DROW66666 | The World Drowns
+DUCKHUNTS | Duck Hunting
+DUNGEON01 | Dungeon
+ELONLOREP | Elongated Reptile
+ESKISS000 | Ekiss Move Edition (Repacked)
+EVIL00095 | Resident Evil Operation (Paintown)
+FAQSAEP01 | Fursan Aqsa
+FDROID001 | Freedroid Classics
+FIVENATF0 | Five Nights at Freddys
+FLAPBIRD0 | Flappy Bird Family
+GAMBOL123 | Gambol
+GDBYEWRLD | Goodbye World
+GFX012345 | PS3noid
+GSPS40987 | Geometry Dash
+HBRW00001 | Pongus
+HCTW00000 | Hero City 2
+HERETIC01 | Heretic
+HEROCITY1 | Hero City
+HEROES200 | Heroes
+HEXEN0001 | Hexen
+IGORDOSBO | Igor - Objective Uikokahoni
+JBEB55555 | BreakOutX
+JCD00TEST | 3 Card Monte
+KSPY09415 | UNDERTALE™
+LUAP00001 | Lua Player /DDLC Love
+MAZEGENRT | Maze Generator
+MKYG00020 | Super Mario BOOM
+MUGENMK95 | Mugen
+NEOR66666 | Neo Race
+NEOTANKS1 | Neo Tanks
+NEOTRAIL1 | Neo Trail
+OSPX00001 | OpenSupaplex
+PAINTOWN2 | Paintown
+PINTOR001 | Pintor - Sony vs Hackers
+PNG00TEST | Wall Pong
+POCKETMON | Untitled Pokemon Project
+PONG00LSD | 2 Player Pong
+POOLODOOM | Pool of Doom!
+PXSM12024 | Super Mario Bros™
+QUAD00LSD | Codename Quadtris
+RXDOO1052 | Doom
+RXDOO1351 | Doom II
+RXESP3851 | Espionage
+RXGAM3004 | 2048
+SAGE12024 | Sonic 1 - Strange Dream World
+SCOG00001 | Scooger
+SDL20BARU | Baraburandia
+SGTPZL010 | SGTPuzzles
+SKETCHFIT | Sketch Fight
+SLES00000 | Friday Night Funkin
+SLIMEROLL | Slime Roll
+SM64ZMOD1 | Super Mario 64
+SMUM02024 | Super Mario UniMaker
+SMW00PS33 | Super Mario Wars
+SONICEXE0 | Sonic.EXE
+SONICMANI | Sonic Mania
+SONICNEXU | Sonic Nexus
+SOR000095 | Streets Of Rage (Paintown)
+SPNP12345 | SpinPong
+STHR10000 | Sonic Origins
+STHR20000 | Sonic Origins 2
+SUPERJUMP | Super Pixel Jumper
+SWINGBAL2 | Swingball 2
+SWINGCOP0 | Swing Copter
+TBOI83296 | The Binding of Isaac Rebirth
+TEMP02000 | Tempest 2000
+TEST00003 | PS3Tetris
+TEST12345 | PS3Pong/Gears Of Kombat
+TETRISEOL | TetrisEOL (Repacked)
+THATOPONG | That Other Pong
+TJARMIND3 | The Jarred Mind 3
+TOSC66666 | That Other Space Shooter 
+TRONMSDOS | Tron Clone
+TYRI12000 | Tyrian 2000
+UFOR00000 | UFO Racer
+ULES95749 | Pizza Tower
+UNMAPPEDF | The Unmapped Forest
+WARCRAFTD | Warcraft Orcs and Humans
+WINTERSEN | Winters End
+WRNOWHERE | We Are Nowhere7
+EUAE00829 | E-UAE Amiga Emulator
+FBAN00000 | FBANext
+FBNE00123 | FBNeo Retro Loader Plus
+FCEU90000 | FCEU NES
+GENP00001 | GenPlus-GX
+GMBT90000 | Gambatte(Gameboy emulator)
+HBDB90000 | DOSbox
+HBFS90000 | FUSE Free Unix Spectrum Emulator
+HBST90000 | Stella (Atari emulator)OK
+MAME90000 | PS3 MAME
+MDFN90000 | Mednafen
+MDFN90001 | Mednafen (Another build)
+MDFN90002 | Mednafen Unofficial (NES, GB, GBC, GBA, SMS, GG, PCE, PCE CD, Lynx)
+NPXS00006 | Yabause
+NSTP90000 | Nestopia
+PCEE00000 | PCE Emu
+PCSX00001 | PS3SX
+PS3CAP32R | Caprice32 - Amstrad CPC 8bit Emulator
+PS3HATARI | Hatari - Atari ST, STE TT and Falcon Emulator
+RETROARCH | Retroarch Community Edition
+SCUM12000 | ScummVM
+SNES90000 | SNES9x
+SSNE10000 | RetroArch/RetroArch XMB™ Edition
+SSNE10001 | RetroArch PSL1GHT
+SXNE10001 | StandAlone RetroArch FBA Next Core
+SXNE10004 | StandAlone RetroArch Genesis Plus GX Core
+SXNE10008 | StandAlone RetroArchh VBA Next Core
+SXNE10009 | StandAlone RetroArch Virtual Boy Core
+SXNE10010 | StandAlone RetroArchh PSX Core.
+SXNE10011 | StandAlone RetroArchh Snex9X Next Core
+SXNE10012 | StandAlone RetroArchh Mednafen Neo Pop Core
+VBAM90000 | VBA
+VECX10000 | PS3Vecx
+VICE90000 | Vice Commodore 64 emulator
+VICE90001 | Vice Commodore 128 emulator
+VICE90002 | Vice Commodore PlusS4 emulator
+VICE90003 | Vice Commodore VIC20 emulator
+WINDOS123 | WinDOS Emulator
+ZMODMASTE | Master System Emulator - Zmod
+ZMODNES00 | Nes Emulator - Zmod
+ZMODSGEN0 | Mega Drive Emulator - Zmod
+ZMODSNES0 | Snes Emulator - Zmod
+one11111 | PS One (Deprecated, Only 3.XX)
+AVCD00001 | Simple AVCHD Manager
+BLES80607 | multiPLAY (A POC player made by deank)
+CDGP00000 | CD-G Player r2 (Excellent Karaoke player)
+CNDR00001 | Solar (Interactive Screen Saver)
+DVDE00000 | DVD Enabler
+HTSD00001 | stDISC (Showtime Disc Access)
+HTSS00003 | Movian
+KARA01010 | Kara (Karaoke Player)
+SACDRIP01 | SACD-Ripper
+STMC80608 | Showtime (Rebranded as Movian)
+SUIT11111 | SuiteApp (Image/text viewer)
+ACTRLPS30 | App Control
+BB0011111 | blackb0x FTP Server
+DARK0RSX5 | DragonFTP Server
+RMTC00001 | EzRemote Client.
+NPXS91337 | OpenPS3FTP v4
+OFTP00001 | OpenPS3FTP v2
+OFTP00003 | OpenPS3FTPsplit by Onishin
+WIRC12345 | PS3 IRC
+FTPD12345 | PS3 FTP Server
+VNCVIEWER | VNC Viewer
+ARTPS3001 | Artemis Cheat Tool by bucanero.
+CHET11111 | PS3usercheat
+CHET20000 | CodeUnique
+ENSTONEXX | CCAPI by Enstone.
+BLES00132 | Erase Me
+CTRLFAN00 | Fan Control Utility
+GMPADTEST | Gamepad Test
+PUHS00000 | Hard Drive Reserved Space Unlocker
+TEMPMON00 | TempMON
+WIPE01337 | Wipe History
+ABCD12345 | PS3 Messenger
+APPTITLID | XMB Manager Plus (Obsolete)
+BLBX00003 | b0xloader - SELF Loader
+BLES80616 | PrepISO
+BLES80688 | Install PKG 2
+BLJS10018 | PSN Patch
+BLND00001 | dev_blind
+BLUS30017 | PSN Ninja/Gundam Crossfire
+BOOT04XXX | PluginX
+BROWSER01 | Web Browser Plus
+CFWEXINST | CFW Extras Category Installer
+CHIDALLRE | Change IDPS All Region
+CINAVIA01 | Cinavia Tool
+CLDBTINST | Coldboot Installer
+CNDR00002 | Condor Updater 
+COBRABOX5 | Cobra Box
+COBRASWAP | Habib Toolbox
+COBRATOOL | Cobra CFW Tools
+DCRY00001 | SELF/SPRX Decrypter
+DISABLECP | Disable Cinavia
+DOWNLAODX | Extended Download Plugin Installer
+DPFH00003 | Dump Flash
+DUCK01337 | Duck Sample
+DUMPSDATS | PlayStation®Home SDAT Dumper
+DYNA00001 | Dynarec Enabler
+ES35CSTMZ | ES35's Customize
+EXA000000 | Homebrew Package Network
+EXPEDITE | Expedite - Evas Benchmark Suite
+FAKEBDEMU | Install Fake BDemu
+FERROXMOD | Ferrox Mod Installer
+FILEMANAG | File ManagerZ
+FIXP12345 | PL3 Permission Fix
+FLTZ00010 | EID Root Key Dumper
+FREEFLASH | FreeFlash (dev_blind clone)
+FSEN03269 | SEN Enabler-Disabler
+FSMT00002 | Factory Service Mode by CrashSerious
+GDSW00001 | GameData Tool
+GMBTCLLC1 | Gameboot Collection Installer
+HANTOOLBX | HAN Toolbox
+HENBSTORE | HENBrew Store
+HMBW00002 | Awesome Peek and Poker
+HMBW00003 | QuickDumpR
+HVDEBUG01 | HVDebug (Hypervisor debugging from GameOS)
+IDPS00001 | IDPS Viewer
+IDPSET000 | IDPSet
+INSTALLPK | Install Package Homebrew
+IRISMAN01 | MAMBA + PS3M_API + PRX_Loader
+JAICUSBL0 | USB FIRM LOADER
+JUIC10000 | Juicy Fix
+LAUNCHPAD | LaunchPAD
+LED0DISC0 | LED Changer
+LNX000001 | BootOS_Installer
+LOAD00000 | MrGatz85 & Cael's Open Asbestos Loader
+LUAFPS310 | LUAFPS3 - LuaPlayer for PS3
+LUAP00001 | LUA Player
+LUAP0PS3 | LUA Player (Script interpreter - maybe obsolete)
+LV2000000 | lv2patcher bd-region changer (This TitleID is used also by LV2-9)
+LV2D00000 | LV2 Dump
+LV2LOADER | Rebug's lv2_kernel.self Loader
+MA00BLACK | MA BD TOOL
+MAMBAINST | Funny Mamba Auto Loader
+MAMBAPRXL | MAMBA/PRX Loader
+MEMD00001 | MemDump
+MHFS00000 | Mhu Free Store
+MONSTER01 | Chaos Air Bringer (Change PS3 MAC Address)
+MOUNTDFRW | Alejandro | Mount /dev_flash RW in /dev_Alejando
+N4RULOADR | n4ru Flash Loader
+NOBAN0000 | PSUnban
+NP00PKGI3 | PKGI by Bucanero
+NP0ANSIVW | ANSi View by Bucanero
+NP0APOLLO | Apollo Save Tool by Bucanero
+NPEA90124 | SEN Enabler
+NPXS09386 | PSNope
+NZHA00000 | PSPoke
+OCOP46756 | Open Copy Install
+PEXTRANET | PS3 EXTRANET
+PKGENABLE | PKG Enabler (Hide/show PGK Installer obsolete with XMBM+)
+PKGMANAGE | Rebug Package Manager
+PLUGINMAN | Plugin Manager
+PONG66666 | Polygonal Demo
+PRXLOADER | PRX Loader
+PS2NETEMU | PS2 Netemu Selector
+PS3LOAD00 | PS3LoadX
+PS3LOAD04 | Run PS3 SELF programs via wireless (Maybe obsolete)
+PS3LOCKUP | PS3 Lock
+PS3MAPI00 | PS3 Manager
+PS3T000LZ | PS3 Advanced Tools
+PS3TRTIME | Cek waktu nyala (PS3OnTime)
+PSCD00001 | Google Cloud Drive
+PSCHANNEL | PSChannel
+PSEISM1GR | Seismograph
+PSVB00001 | PSVibe (Sex tool for wife/gf & others)
+PVIBEMOVE | PSVibe Move
+QAFG00003 | QA flag tool (Obsolete)
+QAFLAG000 | Habbib's QA Flag
+RBGSELECT | Rebug Selector (Obsolete)
+RBGTLBOX2 | Rebug Toolbox 
+RESACTDAT | Restore act.dat
+ROGE00001 | Buttons Layout Changer
+RPSN00001 | reActPSN
+RQAF00003 | QA reset tool
+RSX00003 | PS3 MAPI Dynarec Test
+SCO000000 | SConsole
+STOK01340 | CFWLoad
+STOK01342 | PSIDPatch
+TEST00000 | PS3 Model Detection
+TOGGLEQAF | Rebug Toggle QA
+TRUEBLUE4 | TrueBlue Updater
+TXTR11111 | Text Reader
+VERSPOOFA | Rebug's 4.00 Version Spoofer
+VSHU00100 | vsh.self patcher for reActPSN
+WHATSNEW1 | What's New on PSX-Place
+XMBGREEK0 | Greek XMB Pack
+XMBLOCK00 | XMB Lock
+XMBMANPLS | XMB Manager Plus
+XMBMANPLS | XMBM+ 2017
+XMBMODMAN | XMB Mod Man
+XMBPDINST | XMBPD Installer
+XMBPLSMOD | Unofficial Rebug Updater
+XREG00001 | xReg Plus (Backup/restore xRegistry.sys)
+ZZZZ00001 | PS3 Ram Dumper

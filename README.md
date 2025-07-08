@@ -7,6 +7,13 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 
 ![image](https://user-images.githubusercontent.com/74815634/138005437-acaf171d-a24d-4a03-baf8-6339323631c2.png)
 
+
+#TMBD Generator
+Generate the TMDB hash and links for Sony's server [here](https://colab.research.google.com/drive/1qh1zie1JCrVRgpGmjckbdQ9mjOaqMdLZ?usp=sharing)
+
+#TMBM Downloader
+Downloads the TMDB database from Sony's server and this repository [here](https://colab.research.google.com/drive/1tpLYbR4mIHaEKzoooOg3H482cInez5DK?usp=sharing)
+
 # Supported Homebrews
  
 | TITLE ID  | TITLE NAME
@@ -16,9 +23,10 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | ALIENBRED | Hazed Alienbreed
 | APPTITLID | XMB™ Manager Plus
 | ARTPS3001 | Artemis Cheat Tool
+| AVCD00001 | Simple AVCHD Manager
 | AVOIDANCE | Avoidance
 | BB0011111 | blackb0x FTP Server
-| BLBX00003 | b0xloader - SELF Loader
+| BLBX00003 | b0xloader: SELF Loader
 | BLES00132 | Erase Me
 | BLES01337 | Awesome Filemanager
 | BLES80607 | multiPLAY
@@ -50,6 +58,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | CNDR00002 | Condor Updater 
 | COBRABOX5 | Cobra Box
 | COBRASWAP | Habib Toolbox
+| COBRATOOL | Cobra CFW Tools
 | CTRLFAN00 | Fan Control Utility
 | CUBE66666 | Cubicle Shooter
 | CUBESCITY | Cubicle Shooter City
@@ -79,9 +88,9 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | EUAE00829 | E-UAE Amiga Emulator
 | EVIL00095 | Resident Evil Operation (Paintown)
 | EXA000000 | Homebrew Package Network
-| EXPEDITE: | Expedite - Evas Benchmark Suite
+| EXPEDITE | Expedite: Evas Benchmark Suite
 | FAKEBDEMU | Install Fake BDemu
-| FAQSAEP01 | Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque (Demo)
+| FAQSAEP01 | Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque
 | FBAN00000 | FBANext
 | FBNE00123 | FBNeo Retro Loader Plus
 | FCEU90000 | FCEU NES
@@ -133,12 +142,13 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | HYBRIDMAN | Hybrid Manager
 | IDPS00001 | IDPS Viewer
 | IDPSET000 | IDPSet
-| IGORDOSBO | Igor - Objective Uikokahoni
+| IGORDOSBO | Igor: Objective Uikokahoni
 | IMANAGER4 | Iris Manager
 | IMANGER4U | Iris Manager (Unofficial) 
 | INSTALLPK | Install Package Homebrew
-| IRIS00069 | EvilNat's Manager)
+| IRIS00069 | EvilNat's Manager
 | IRISMAN00 | irisMAN
+| IRISMAN01 | MAMBA + PS3M_API + PRX_Loader
 | JAICUSBL0 | USB FIRM LOADER
 | JBEB55555 | BreakOutX
 | JCD00TEST | 3 Card Monte
@@ -150,9 +160,9 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | LED0DISC0 | LED Changer
 | LNX000001 | BootOS_Installer
 | LOAD00000 | MrGatz85 & Cael's Open Asbestos Loader
-| LUAFPS310 | LUAFPS3 - LuaPlayer for PS3
-| LUAP00001 | Lua Player/DDLC Love
-| LUAP0PS3 | LUA Player (Script interpreter)
+| LUAFPS310 | LUAFPS3: LuaPlayer for PS3
+| LUAP00001 | LUA Player
+| LUAP00001 | Lua Player / DDLC Love
 | LV2000000 | LV2Patcher bd-region changer /LV2-9
 | LV2D00000 | LV2 Dump
 | LV2LOADER | Rebug's lv2_kernel.self Loader
@@ -163,12 +173,12 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | MANAGUNZ0 | ManaGunZ
 | MAZEGENRT | Maze Generator
 | MDFN90000 | Mednafen
-| MDFN90001 | Mednafen (another build)
-| MDFN90002 | Mednafen Unofficial [NES, GB, GBC, GBA, SMS, GG, PCE, PCE CD, Lynx]
+| MDFN90001 | Mednafen (Another build)
+| MDFN90002 | Mednafen Unofficial (NES, GB, GBC, GBA, SMS, GG, PCE, PCE CD, Lynx)
 | MEMD00001 | MemDump
 | MHFS00000 | Mhu Free Store
 | MKYG00020 | Super Mario BOOM!
-| MONSTER01 | Chaos Air Bringer (Change PS3™ MAC Address)
+| MONSTER01 | Chaos Air Bringer (Change MAC Address)
 | MONSTERMR | Monster Manager
 | MOUNTDFRW | Alejandro: Mount /dev_flash RW in /dev_Alejando
 | MUGENMK95 | Mugen
@@ -178,6 +188,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | NEOTRAIL1 | Neo Trail
 | NOBAN0000 | PSUnban
 | NP00PKGI3 | PKGI by Bucanero
+| NP0ANSIVW | ANSi View by Bucanero
 | NP0APOLLO | Apollo Save Tool by Bucanero
 | NPEA90124 | SEN Enabler
 | NPJB00109 | Dancing Eyes
@@ -188,15 +199,16 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | NZHA00000 | PSPoke
 | OCOP46756 | Open Copy Install
 | OFTP00001 | OpenPS3FTP v2
-| OFTP00003 | OpenPS3FTPsplit by Onishin
+| OFTP00003 | OpenPS3FTPsplit
 | OMAN46756 | Open Manager/Sexy Manager/Pretty Manager/Flex Manager
 | OSPX00001 | OpenSupaplex
 | PAINTOWN2 | Paintown
-| PCEE00000 | PCE Emu
+| PCEE00000 | PCE Emulator
 | PCSX00001 | PS3SX Emulator 
+| PEXTRANET | PS3™EXTRANET
 | PEXTRANET | PS3™ EXTRANET
-| PINTOR001 | Pintor - Sony vs Hackers  
-| PKGENABLE | PKG Enabler (hide/show PGK Installer obsolete with XMBM+)
+| PINTOR001 | Pintor: Sony vs Hackers
+| PKGENABLE | PKG Enabler
 | PKGLAUNCH | PKG Launcher
 | PKGMANAGE | Rebug Package Manager
 | PLAYMNGR1 | Play Manager 
@@ -213,31 +225,32 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | PS2U10000 | PS2™ Classics Placeholder
 | PS34KPROL | PS3™ 4K Pro Lite
 | PS34KPROX | PS3™ 4K Pro Full
-| PS3CAP32R | Caprice32 - Amstrad CPC 8bit Emulator
-| PS3CFWPRO | PS3™ 4K Pro (CFW) - Old
-| PS3HATARI | Hatari - Atari ST, STE TT and Falcon Emulator
-| PS3HFWPRO | PS3™ 4K Pro (HFW) - Old
-| PS3ITAMNG | PS3™ ITA Manager 
-| PS3ITAU   | PS3™ ITA
-| PS3LOAD04 | Run PS3™ SELF programs via wireless (maybe obsolete)
+| PS3CAP32R | Caprice32: Amstrad CPC 8bit Emulator
+| PS3CFWPRO | PS3™ 4K Pro (CFW)
+| PS3HATARI | Hatari: Atari ST, STE TT and Falcon Emulator
+| PS3HFWPRO | PS3™ 4K Pro (HFW)
+| PS3ITAMNG | PS3ITA Manager 
+| PS3ITAU   | PS3ITA
+| PS3LOAD00 | PS3LoadX
+| PS3LOAD04 | Run PS3™ SELF Programs via Wireless
 | PS3LOCKUP | PS3™ Lock
 | PS3MAPI00 | PS3™ Manager
 | PS3MODEL0 | PS3™ Model Detection (Repacked)
 | PS3ONLINE | PlayStation™TV
 | PS3PONG00 | PS3™ Pong (Repacked)
 | PS3SFM001 | Simple File Manager
-| PS3T000LZ | PS3 Advanced Tools
+| PS3T000LZ | PS3™Advanced Tools
 | PS3TETRIS | PS3™ Tetris (Repacked)
+| PS3TRTIME | Cek waktu nyala (PS3OnTime)
 | PSCD00001 | Google Cloud Drive
 | PSCHANNEL | PSChannel
 | PSEISM1GR | Seismograph
 | PSID81257 | PSX™ Launcher 
 | PSPC66820 | PSP™ Remasters Launcher
 | PSPM66820 | PSP™ Launcher
-| PSVB00001 | PSVibe (Sex tool for wife/gf & others)
+| PSVB00001 | PSVibe
 | PUHS00000 | Hard Drive Reserved Space Unlocker
 | PVIBEMOVE | PSVibe Move
-| PXSM12024 | Super Mario Bros
 | PXSM12024 | Super Mario Bros™
 | QAFG00003 | QA flag tool 
 | QAFLAG000 | Habbib's QA Flag
@@ -264,8 +277,8 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | SCUM12000 | ScummVM
 | SDL20BARU | Baraburandia
 | SGTPZL010 | SGTPuzzles
-| SIMPIRIS4 | Simplicity [Iris fork by StevenCapes]
-| SISO00123 | Simple NTFS ISO Mounter (by CaptainCPS-X)
+| SIMPIRIS4 | Simplicity
+| SISO00123 | Simple NTFS ISO Mounter
 | SKETCHFIT | Sketch Fight
 | SLES00000 | Friday Night Funkin
 | SLIMEROLL | Slime Roll
@@ -274,7 +287,6 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | SMW00PS33 | Super Mario Wars
 | SNES90000 | SNES9x
 | SONICEXE0 | Sonic.EXE
-| SONICMANI | Sonic Mania
 | SONICMANI | Sonic Mania
 | SONICNEXU | Sonic Nexus
 | SOR000095 | Streets Of Rage (Paintown)
@@ -286,7 +298,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | STMC80608 | Showtime (Rebranded as Movian)
 | STOK01340 | CFWLoad
 | STOK01342 | PSIDPatch
-| SUIT11111 | SuiteApp (image/text viewer)
+| SUIT11111 | SuiteApp (Image/text viewer)
 | SUPERJUMP | Super Pixel Jumper
 | SWINGBAL2 | Swingball 2
 | SWINGCOP0 | Swing Copter
@@ -294,14 +306,19 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | SXNE10004 | StandAlone RetroArch Genesis Plus GX Core
 | SXNE10008 | StandAlone RetroArchh VBA Next Core
 | SXNE10009 | StandAlone RetroArch Virtual Boy Core
+| SXNE10010 | StandAlone RetroArchh PSX Core.
 | SXNE10010 | StandAlone RetroArchh PSX™ Core.
 | SXNE10011 | StandAlone RetroArchh Snex9X Next Core
 | SXNE10012 | StandAlone RetroArchh Mednafen Neo Pop Core
 | TBOI83296 | The Binding of Isaac Rebirth
 | TEMP02000 | Tempest 2000
 | TEMPMON00 | TempMON
+| TEST00000 | PS3™ Model Detection
+| TEST00003 | PS3Tetris
+| TEST12345 | PS3Pong/Gears Of Kombat
 | TETRISEOL | TetrisEOL (Repacked)
 | THATOPONG | That Other Pong
+| TITLE ID  | TITLE NAME
 | TJARMIND3 | The Jarred Mind 3
 | TOGGLEQAF | Rebug Toggle QA
 | TOSC66666 | That Other Space Shooter 
@@ -313,7 +330,7 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | UFOR00000 | UFO Racer
 | ULES95749 | Pizza Tower
 | UNMAPPEDF | The Unmapped Forest
-| UPDWEBMOD | WebMan Mod Installer by aldotools
+| UPDWEBMOD | WebMan Mod Installer
 | VBAM90000 | VBA
 | VECX10000 | PS3Vecx
 | VERSPOOFA | Rebug's 4.00 Version Spoofer
@@ -322,28 +339,30 @@ Custom recently played database with homebrew support for PS3™ 4K Pro.
 | VICE90002 | Vice Commodore PlusS4 emulator
 | VICE90003 | Vice Commodore VIC20 emulator
 | VNC0VIEWER1 | VNC Viewer
-| VNCVIEWER | VNC Viewer (Repacked)
+| VNCVIEWER | VNC Viewer
 | VSHU00100 | Vsh.self patcher for reActPSN
 | WARCRAFTD | Warcraft Orcs and Humans
 | WHATSNEW1 | What's New on PSX-Place
+| WINDOS123 | WinDOS Emulator
 | WINTERSEN | Winters End
 | WIPE01337 | Wipe History
 | WIRC12345 | PS3™ IRC
 | WRNOWHERE | We Are Nowhere
 | XMBGREEK0 | Greek XMB™ Pack
 | XMBLOCK00 | XMB™ Lock
-| XMBMANPLS | XMBM+ 2017
+| XMBMANPLS | XMB Manager Plus / XMBM+ 2017
 | XMBMANPLS | XMB™ Manager Plus
 | XMBMODMAN | XMB™ Mod Man
 | XMBPDINST | XMBPD Installer
 | XMBPLSMOD | Unofficial Rebug Updater
 | XREG00001 | xReg Plus (Backup/restore xRegistry.sys)
-| ZMODMASTE | Master System Emulator - Zmod
-| ZMODNES00 | Nes Emulator - Zmod
-| ZMODSGEN0 | Mega Drive Emulator - Zmod
-| ZMODSNES0 | Snes Emulator - Zmod
-| ZZZZ00001 | PS3 RAM Dumper
+| ZMODMASTE | Master System Emulator
+| ZMODNES00 | Nes Emulator
+| ZMODSGEN0 | Mega Drive Emulator
+| ZMODSNES0 | Snes Emulator
+| ZZZZ00001 | PS3Ram Dumper
 | one11111 | PS One
+|-----------|---------------
 
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
