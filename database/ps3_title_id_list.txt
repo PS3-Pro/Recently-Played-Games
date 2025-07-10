@@ -5,7 +5,6 @@ ASIA00050 | Ultimate Adventure Pack: Uncharted 3: Drake's Deception / God of War
 ASIA00051 | PS3 Best Hit Collection Vol. 1: Uncharted 3: Drake's Deception / LittleBigPlanet 2
 ASIA00052 | PS3 Best Hit Collection Vol. 2: Resistance 3 / God of War III
 ASIA00074 | Ultimate Uncharted Pack
-ASMO00001 | DECRSDAT
 ATS201009 | Catherine Best Selection
 BCAS01594 | Ratchet & Clank: QForce
 BCAS20001 | Ridge Racer 7
@@ -14,7 +13,6 @@ BCAS20003 | Resistance: Fall of Man
 BCAS20004 | MotorStorm
 BCAS20005 | Armored Core 4
 BCAS20006 | NBA '07
-BLUS30017 | Mobile Suit Gundam: Crossfire
 BCAS20007 | Railfan
 BCAS20008 | Enchanted Arms
 BCAS20009 | Formula One: Championship Edition
@@ -4834,6 +4832,7 @@ BLUS30012 | Call of Duty® 3
 BLUS30013 | Tiger Woods PGA TOUR® 07
 BLUS30014 | Madden NFL 07
 BLUS30016 | Need for Speed™ Carbon
+BLUS30017 | Mobile Suit Gundam: Crossfire
 BLUS30018 | Tom Clancy's Rainbow Six® Vegas
 BLUS30019 | FIGHT NIGHT ROUND 3
 BLUS30020 | Virtua Fighter 5

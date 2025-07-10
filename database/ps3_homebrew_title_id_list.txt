@@ -4,6 +4,7 @@ ACTRLPS30 | Application Controller (VNC)
 ALIENBRED | Hazed Alienbreed
 APPTITLID | XMB™ Manager Plus
 ARTPS3001 | Artemis Cheat Tool
+ASMO00001 | DECRSDAT
 AVCD00001 | Simple AVCHD Manager
 AVOIDANCE | Avoidance
 BACKUTILS | Restore backup utility on 3.55 DEX
