@@ -2,8 +2,8 @@ ALCH00038 | Gal*Gun
 ASIA00048 | Ultimate Shooter Pack: Resistance 3 / Killzone 3
 ASIA00049 | Square Enix Adventure Pack: Tomb Raider / Sleeping Dogs
 ASIA00050 | Ultimate Adventure Pack: Uncharted 3: Drake's Deception / God of War III
-ASIA00051 | PS3 Best Hit Collection Vol. 1: Uncharted 3: Drake's Deception / LittleBigPlanet 2
-ASIA00052 | PS3 Best Hit Collection Vol. 2: Resistance 3 / God of War III
+ASIA00051 Best Hit Collection Vol. 1: Uncharted 3: Drake's Deception / LittleBigPlanet 2
+ASIA00052 Best Hit Collection Vol. 2: Resistance 3 / God of War III
 ASIA00074 | Ultimate Uncharted Pack
 ATS201009 | Catherine Best Selection
 BCAS01594 | Ratchet & Clank: QForce
@@ -215,6 +215,7 @@ BCAS20229 | Gran Turismo 5: Spec II
 BCAS20230 | Twisted Metal™
 BCAS20233 | TOKYO JUNGLE
 BCAS20234 | Blazblue: Continuum Shift Extend
+BCAS20235 | Sorcery™
 BCAS20236 | Mugen Souls [Attouteki Yuugi: Mugen Souls]
 BCAS20237 | MLB 12: The Show™
 BCAS20239 | Totori no Atelier: Arland no Renkinjutsushi 2
@@ -238,6 +239,7 @@ BCAS20259 | Disney•Pixar Toy Story Mania!
 BCAS20261 | Dream C Club: Complete Edipyon!
 BCAS20263 | Hitman: Absolution™
 BCAS20264 | Minna no Golf 6
+BCAS20265 | Wonderbook™: Book of Spells
 BCAS20266 | The Guided Fate Paradox
 BCAS20267 | Gran Turismo 5: 2013 Edition
 BCAS20268 | Dream C Club Zero: Special Edipyon!
@@ -277,6 +279,7 @@ BCAS20309 | FINAL FANTASY® X / X-2 HD Remaster
 BCAS20310 | Akiba's Trip 2
 BCAS20311 | Drag-On Dragoon 3
 BCAS20312 | Lightning Returns: Final Fantasy Xiii
+BCAS20313 | BLAZBLUE CHRONOPHANTASMA
 BCAS20315 | FINAL FANTASY® X / X-2 HD Remaster
 BCAS20316 | NAtURAL DOCtRINE
 BCAS20317 | Ragnarok Odyssey ACE
@@ -291,6 +294,7 @@ BCAS20330 | Kingdom Hearts HD 1.5 + 2.5 ReMIX (Limited Edition)
 BCAS20333 | The Evil Within
 BCAS20336 | Natural Doctrine
 BCAS20338 | Guilty Gear Xrd -SIGN-
+BCAS20343 | Persona4 the ULTIMAX Ultra Suplex Hold
 BCAS20519 | Gran Turismo 6 (Anniversary Edition)
 BCAS20520 | Gran Turismo 6 (Anniversary Edition)
 BCAS20521 | Gran Turismo 6 (Collector's Edition)
@@ -422,6 +426,7 @@ BCES00081 | Killzone®2
 BCES00096 | PlayTV™ [TV]
 BCES00098 | Buzz!™: Quiz TV
 BCES00099 | Buzz!™: Quiz TV [Bundle]
+BCES00100 | BIG!: Quiz TV
 BCES00104 | Gran Turismo 5: Prologue
 BCES00112 | NBA 08
 BCES00123 | Heavenly Sword
@@ -610,6 +615,7 @@ BCES01279 | Medieval Moves: Deadmund's Quest™
 BCES01284 | Sly Cooper: Thieves in Time™
 BCES01285 | Sly Cooper: Thieves in Time™
 BCES01289 | Puppeteer™
+BCES01293 | HEAVY RAIN™ ÉDITION MODIFIÉE
 BCES01325 | The Jak and Daxter Trilogy
 BCES01334 | Move Mind Benders™
 BCES01335 | After Hours Athletes
@@ -671,12 +677,14 @@ BCES01908 | Ratchet & Clank™: Nexus
 BCES01915 | Singstar Suomihelmet
 BCES01949 | Ratchet & Clank™: Nexus
 BCES01953 | Wonderbook: Walking with Dinosaurs
+BCES01970 | Invizimals™: Το Χαμένο Βασίλειο (GRE)
 BCES01977 | Gran Turismo®6
 BCES02025 | SingStar® Ultimate Party
 BCES02042 | SingStar Ultimate Party
 BCES02043 | SingStar MegaHits
 BCES02044 | SingStar SuomiBileet
 BCES02045 | SingStar Nova Geração
+BCES02046 | SingStar™ Mistrzowska Impreza
 BCES02068 | LittleBigPlanet™ 3
 BCES02111 | SingStar Frozen: Il Regno di Ghiaccio
 BCES02112 | SingStar Die Eiskönigin: Völlig unverfroren
@@ -721,6 +729,7 @@ BCET70050 | God of War® Ascension
 BCET70052 | PlayStation All-Stars Battle Royale
 BCET70053 | PlayStation All-Stars Battle Royale
 BCJB95001 | Minna no Golf 5
+BCJB95002 | メモーション
 BCJB95003 | LittleBigPlanet
 BCJB95006 | Torne [TV]
 BCJB95008 | Beat Sketch!
@@ -730,8 +739,10 @@ BCJB95503 | Gran Turismo 6
 BCJN29601 | LittleBigPlanet™ (w/Dual Shock 3 - Clear Black)
 BCJN29602 | LittleBigPlanet™ (w/Dual Shock 3 - Ceramic White)
 BCJN29603 | LittleBigPlanet™ (w/Dual Shock 3 - Satin Silver)
+BCJS10037 | Fracture
 BCJS10078 | BioShock® 2
 BCJS10120 | Tales of Xillia
+BCJS10121 | Duke Nukem Forever
 BCJS30001 | Gran Turismo 5 (First Print Limited Edition)
 BCJS30002 | Genji: Kamui Souran
 BCJS30003 | Resistance: Jinrui Botsuraku no Hi
@@ -978,9 +989,12 @@ BCUS90190 | The Ico &amp; Shadow of the Colossus Collection
 BCUS90260 | LittleBigPlanet 2: Special Edition
 BCUS90491 | Killzone®3 [Greatest Hits]
 BCUS90528 | God Of War Saga
+BCUS90635 | MLB 12 The Show™
+BCUS90636 | MLB 12 The Show™
 BCUS90637 | MLB 12: The Show™
 BCUS90640 | UNCHARTED: Drake's Fortune® [Greates Hits]
 BCUS90641 | UNCHARTED 2: Among Thieves™ [Game of the Year Edition]
+BCUS90660 | PlayStation®Move Demo Disc 2
 BCUS90662 | Playstation Move Demo Disc Volume 2
 BCUS90664 | Resistance 2™
 BCUS90675 | UNCHARTED 3: Drake's Deception™
@@ -1114,6 +1128,7 @@ BCUS98362 | LittleBigPlanet™ 3
 BCUS98365 | Everybody Dance
 BCUS98366 | UNCHARTED 3: Drake's Deception™ [Collector's Edition]
 BCUS98367 | Resistance 3 [Doomsday Edition]
+BCUS98368 | PlayStation™Move Puzzle Collection
 BCUS98369 | PlayStation™Move Indoor Sports Collection
 BCUS98372 | LittleBigPlanet™ 2 [Special Edition]
 BCUS98374 | Tiger Woods PGA TOUR® 12: The Masters®
@@ -1121,6 +1136,7 @@ BCUS98375 | UNCHARTED™ Greatest Hits Dual Pack
 BCUS98376 | Resistance Dual Pack: Resistance Fall of Man + Resistance 2
 BCUS98377 | Journey™ [Collector's Edition]
 BCUS98380 | Ratchet & Clank™: Full Frontal Assault
+BCUS98387 | Everybody Dance™ Demo
 BCUS98394 | Gran Turismo 5 [XL Edition]
 BCUS98466 | Everybody Dance 2
 BCUS98472 | PlayStation® All-Stars Battle Royale
@@ -1263,6 +1279,7 @@ BLAS50133 | G.I. JOE The Rise of Cobra
 BLAS50134 | Madden NFL 10
 BLAS50135 | Batman: Arkham Asylum™
 BLAS50136 | Need for Speed™ Shift
+BLAS50137 | Need for Speed™ SHIFT
 BLAS50138 | Cloudy with a Chance of Meatballs
 BLAS50141 | Heroes Over Europe
 BLAS50142 | Musou Orochi Z [PlayStation®3 the Best]
@@ -1422,6 +1439,7 @@ BLAS50350 | Super Street Fighter IV Arcade Edition
 BLAS50351 | UFC® Personal Trainer
 BLAS50352 | Call Of Juarez® The Cartel
 BLAS50353 | XCOM: Enemy Unknown
+BLAS50354 | JIKKYOU PAWAFURU PUROYAKYU 2011
 BLAS50355 | Biohazard: Revival Selection
 BLAS50356 | Captain America™: Super Soldier
 BLAS50357 | Ninja Gaiden Sigma 2 [PlayStation®3 the Best]
@@ -1686,6 +1704,7 @@ BLAS50717 | Dynasty Warriors: GUNDAM Reborn
 BLAS50718 | Watch Dogs
 BLAS50720 | Plants vs. Zombies: Garden Warfare
 BLAS50722 | Murdered: Soul Suspect™
+BLAS50723 | 初音未來 -Project DIVA- F 2nd
 BLAS50724 | GRID Autosport
 BLAS50725 | BATTLEFIELD™ HARDLINE
 BLAS50726 | Wolfenstein: The New Order
@@ -1697,6 +1716,7 @@ BLAS50736 | Sacred 3
 BLAS50737 | Risen 3: Titan Lords
 BLAS50738 | Destiny
 BLAS50740 | Eiyuu Densetsu: Sen No Kiseki II
+BLAS50741 | 영웅전설 섬의 궤적II
 BLAS50742 | FIFA 15
 BLAS50744 | WORLD SOCCER Winning Eleven 2015
 BLAS50745 | Shining Resonance
@@ -1712,6 +1732,7 @@ BLAS50768 | Call of Duty: Advanced Warfare
 BLAS50770 | Gundam Breaker 2
 BLAS50771 | Atelier Shallie: Alchemists of the Dusk Sea
 BLAS50772 | Bladestorm: Nightmare
+BLAS50778 | 真・三國無雙７ Empires
 BLAS50785 | Dark Souls™ II Scholar of the First Sin
 BLAS50789 | Sword Art Online: Lost Song (Chinese)
 BLAS50790 | Sword Art Online: Lost Song
@@ -1996,6 +2017,7 @@ BLES00327 | Pure
 BLES00328 | Mercenaries 2: World in Flames
 BLES00329 | Fracture
 BLES00330 | Tom Clancy's H.A.W.X
+BLES00331 | Hail to the Chimp
 BLES00332 | LEGO® Batman™: The Videogame
 BLES00333 | FALLOUT 3
 BLES00334 | FALLOUT 3
@@ -2026,6 +2048,7 @@ BLES00375 | Saints Row 2
 BLES00376 | Tom Clancy's EndWar™
 BLES00377 | Saints Row 2
 BLES00378 | Disney Sing It
+BLES00379 | Disney Sing It
 BLES00380 | Disney Sing It
 BLES00382 | The Legend of Spyro™: Dawn of the Dragon
 BLES00383 | The Legend of Spyro™: Dawn of the Dragon
@@ -2097,6 +2120,7 @@ BLES00479 | Guitar Hero: Metallica
 BLES00480 | Wheelman
 BLES00481 | Street Fighter IV
 BLES00485 | RESIDENT EVIL 5
+BLES00486 | Tom Clancy's H.A.W.X
 BLES00487 | Tom Clancy's EndWar™
 BLES00488 | Trivial Pursuit™
 BLES00489 | Skate 2
@@ -2114,6 +2138,7 @@ BLES00507 | Command & Conquer®: Alerte Rouge™ 3: Ultimate Edition
 BLES00508 | Command & Conquer®: Alerte Rouge™ 3
 BLES00512 | MiNi NiNJAS™
 BLES00513 | Stormrise
+BLES00514 | Stormrise
 BLES00515 | Stormrise
 BLES00516 | AFRO SAMURAI
 BLES00517 | Just Cause 2
@@ -2128,6 +2153,7 @@ BLES00529 | Superstars V8 Racing
 BLES00530 | Tiger Woods PGA TOUR® 10
 BLES00532 | The Beatles: Rock Band
 BLES00533 | Sacred 2: Fallen Angel
+BLES00535 | Trivial Pursuit™
 BLES00536 | SBK '09 Superbike World Championship
 BLES00537 | Terminator: Salvation
 BLES00538 | FIGHT NIGHT ROUND 4
@@ -2141,6 +2167,8 @@ BLES00545 | Disney Pixar's UP: The Video Game
 BLES00546 | Marvel Ultimate Alliance 2
 BLES00549 | Guitar Hero Greatest Hits
 BLES00550 | Disney/Pixar Up
+BLES00551 | UP
+BLES00552 | UP
 BLES00553 | Leisure Suit Larry: Box Office Bust
 BLES00554 | The Chronicles of Riddick™ Assault on Dark Athena
 BLES00556 | Call of Juarez® Bound in Blood
@@ -2287,6 +2315,7 @@ BLES00763 | LEGO® Indiana Jones™ 2: The Adventure Continues
 BLES00765 | Prison Break The Conspiracy
 BLES00766 | Prison Break The Conspiracy
 BLES00767 | STAR OCEAN THE LAST HOPE -INTERNATIONAL-
+BLES00768 | Tony Hawk: RIDE
 BLES00769 | Nat Geo Quiz! Wild Life
 BLES00770 | Super Street Fighter IV Arcade Edition
 BLES00771 | Superstars V8 Next Challenge
@@ -2341,9 +2370,11 @@ BLES00878 | Toy Story 3
 BLES00879 | Toy Story 3
 BLES00884 | Test Drive Unlimited 2
 BLES00885 | Iron Man™ 2: The Video Game
+BLES00886 | Chaotic™: Shadow Warriors
 BLES00887 | Grand Theft Auto Episodes from Liberty City
 BLES00888 | World of Outlaws Sprint Cars™
 BLES00889 | Disney Sing It: Family Hits
+BLES00890 | Disney Sing It: Family Hits
 BLES00891 | Driver: San Francisco
 BLES00892 | Driver: San Francisco
 BLES00893 | Star Wars: The Force Unleashed II
@@ -2425,6 +2456,7 @@ BLES00992 | WRC: FIA World Rally Championship
 BLES00993 | Red Faction: Armageddon
 BLES00994 | Red Faction: Armageddon
 BLES00995 | WWE® All Stars™
+BLES00996 | NBA ELITE 11
 BLES00997 | JASF: Jane's Advanced Strike Fighters
 BLES00998 | The Lord of the Rings: Aragorn's Quest™
 BLES01000 | Racket Sports
@@ -2456,6 +2488,7 @@ BLES01038 | AFL Live
 BLES01039 | FIGHT NIGHT CHAMPION
 BLES01040 | Dead Space™ 2
 BLES01041 | Dead Space™ 2 [ITA-ESP]
+BLES01042 | Dead Space™ 2
 BLES01044 | Create™
 BLES01045 | WWE SmackDown! vs. RAW 2011
 BLES01046 | Blood Drive
@@ -2522,6 +2555,7 @@ BLES01150 | Deus Ex: Human Revolution
 BLES01151 | Deus Ex: Human Revolution
 BLES01152 | Deus Ex: Human Revolution
 BLES01153 | TRANSFORMERS: Fall of Cybertron
+BLES01154 | Naughty Bear Gold Edition
 BLES01157 | Spec Ops: The Line
 BLES01159 | Zumba Fitness
 BLES01160 | de Blob 2
@@ -2695,6 +2729,7 @@ BLES01418 | NBA 2K12
 BLES01419 | Metal Gear Solid: HD Collection
 BLES01420 | Cyberbike 2 Cycling Sports
 BLES01421 | Saint Seiya: Sanctuary Battle
+BLES01424 | Grease Dance
 BLES01425 | Happy Feet™ Two: The Videogame
 BLES01426 | RAGE ®
 BLES01427 | Crash Time 4: The Syndicate
@@ -2709,6 +2744,7 @@ BLES01437 | SSX™
 BLES01439 | WWE '12
 BLES01440 | Armored Core V
 BLES01442 | WRC 2 FIA World Rally Championship
+BLES01443 | Deadliest Catch: Sea of Chaos
 BLES01444 | Beat the Star: The 2nd Game [Schlag Den Raab: Das 2 Spiel]
 BLES01445 | Tiger Woods PGA TOUR® 13
 BLES01446 | Silent Hill: Downpour
@@ -2735,8 +2771,10 @@ BLES01472 | Rugby League Live 2
 BLES01474 | Pictionary™ [Ultimate Edition]
 BLES01475 | Fallout: New Vegas [Ultimate Edition]
 BLES01476 | Fallout: New Vegas [Ultimate Edition]
+BLES01477 | Fallout New Vegas: Ultimate Edition
 BLES01478 | Fallout: New Vegas [Ultimate Edition]
 BLES01479 | Fallout: New Vegas: Ultimate Edition
+BLES01480 | Top Gun: Hard Lock
 BLES01481 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM Generations
 BLES01484 | Two Worlds II: Game of the Year Edition
 BLES01485 | The Testament of Sherlock Holmes
@@ -2773,7 +2811,9 @@ BLES01533 | [PROTOTYPE 2]™ [ES/IT]
 BLES01534 | [PROTOTYPE 2]™
 BLES01535 | [PROTOTYPE 2]™
 BLES01536 | [PROTOTYPE 2]™
+BLES01541 | NBA 2K12 Showcase Edition
 BLES01542 | Disney•Pixar's Brave
+BLES01543 | 4 in 1 Action Pack
 BLES01547 | The Amazing Spider-Man™
 BLES01548 | DiRT 3 [Complete Edition]
 BLES01549 | Men In Black: Alien Crisis
@@ -2803,6 +2843,8 @@ BLES01604 | Air Conflicts: Pacific Carriers
 BLES01610 | Worms™ Collection
 BLES01613 | LEGO® Batman™ 2: DC Super Heroes
 BLES01614 | 007™ Legends
+BLES01615 | Disney Universe Ultimate Edition
+BLES01616 | Disney Universe Ultimate Edition
 BLES01617 | Tales of Graces™ f
 BLES01618 | The Amazing Spider-Man™
 BLES01620 | Crash Time 5: Undercover [Alarm für Cobra 11: Undercover]
@@ -2816,6 +2858,7 @@ BLES01632 | Disney/Pixar Brave
 BLES01633 | Disney•Pixar's Brave: The Video Game
 BLES01636 | Medal of Honor™ Warfighter
 BLES01639 | Sleeping Dogs™
+BLES01640 | Hitman: Absolution™
 BLES01641 | Hitman: Absolution™ [RUS]
 BLES01643 | Agarest Generation of War 2
 BLES01644 | Castlevania: Lords of Shadow 2
@@ -2972,6 +3015,7 @@ BLES01857 | Destiny™
 BLES01858 | Air Conflicts: Vietnam
 BLES01859 | Don Bradman Cricket 14
 BLES01860 | Skylanders™ SWAP Force
+BLES01861 | Fast & Furious™: Showdown
 BLES01862 | Rocksmith 2014 Edition
 BLES01863 | Rayman® Legends
 BLES01864 | Tales Of Symphonia Chronicles
@@ -3011,6 +3055,7 @@ BLES01907 | DEAD OR ALIVE 5 Ultimate
 BLES01909 | Wolfenstein®: The New Order
 BLES01910 | Wolfenstein®: The New Order
 BLES01911 | Nickelodeon SpongeBob SquarePants: Plankton's Robotic Revenge
+BLES01912 | Губка Боб Квадратные Штаны: Планктон Месть роботов
 BLES01913 | One Piece: Pirate Warriors 2
 BLES01916 | The Evil Within
 BLES01920 | NBA 2K14
@@ -3044,11 +3089,13 @@ BLES01956 | Dead Island: Riptide: Complete Edition
 BLES01957 | Rugby League Live 2: World Cup Edition
 BLES01958 | Dead Island: Double Pack
 BLES01959 | Dark Souls™ II
+BLES01960 | Angry Birds Star Wars
 BLES01961 | Adventure Time: Explore the Dungeon Because I DON'T KNOW!
 BLES01962 | Tales of Xillia 2
 BLES01963 | RAMBO THE VIDEO GAME
 BLES01964 | LEGO® Movie Videogame, The
 BLES01965 | Borderlands™ 2 [Game of the Year Edition]
+BLES01966 | Skylanders SWAP Force
 BLES01967 | Injustice: Gods Among Us [Ultimate Edition]
 BLES01968 | Assassin's Creed: Heritage Collection
 BLES01969 | Disney DuckTales: Remastered
@@ -3065,6 +3112,8 @@ BLES01986 | JoJo's Bizarre Adventure: All Star Battle
 BLES01987 | The Witch and The Hundred Knights
 BLES01988 | BloodBath
 BLES01989 | The Amazing Spider-Man 2™
+BLES01990 | The Amazing Spider-Man 2™
+BLES01991 | Young Justice: Legacy
 BLES01992 | Atelier Escha & Logy ~Alchemists of the Dusk Sky~
 BLES01993 | IHF Handball Challenge 14
 BLES01994 | EA SPORTS™ 2014 FIFA World Cup Brazil™
@@ -3135,6 +3184,7 @@ BLES02085 | Assassin's Creed : Birth of a New World - The American Saga
 BLES02086 | Rugby World Cup 2015
 BLES02087 | Ar nosurge: Ode to an Unborn Star
 BLES02088 | PES 2015: Pro Evolution Soccer
+BLES02089 | Pro Evolution Soccer 2015
 BLES02090 | Los 40 Principales: Karaoke Party
 BLES02092 | La Voz Vol. 2
 BLES02093 | The Evil Within
@@ -3148,6 +3198,7 @@ BLES02100 | Disney Infinity 2.0
 BLES02101 | F1® 2014
 BLES02102 | Metal Gear Solid V: The Phantom Pain
 BLES02103 | Motorcycle Club
+BLES02104 | Legend of Kay Anniversary
 BLES02105 | LEGO® Dimensions™
 BLES02107 | Tokyo Twilight Ghost Hunters
 BLES02108 | Farming Simulator 15
@@ -3188,11 +3239,13 @@ BLES02156 | Tales of Symphonia Chronicles + Tales of Graces f
 BLES02157 | XBlaze: Code: Embryo
 BLES02161 | FIFA 16
 BLES02162 | MotoGP™ 15
+BLES02163 | FIFA 16
 BLES02164 | Godzilla
 BLES02165 | WRC 5 FIA World Rally Championship
 BLES02166 | Call Of Duty®: Black Ops III
 BLES02168 | Call Of Duty®: Black Ops III
 BLES02169 | LEGO® MARVEL's Avengers
+BLES02171 | Far Cry® 4 (MENA)
 BLES02172 | Skylanders™ SuperChargers
 BLES02173 | Le Tour De France 2015
 BLES02174 | Rugby World Cup 2015
@@ -3236,11 +3289,15 @@ BLES02225 | Madden NFL 17
 BLES02226 | Saints Row: Game of the Century Edition &amp; Gat out of Hell
 BLES02227 | Aegis of Earth: Protonovus Assault
 BLES02228 | PES 2016: Pro Evolution Soccer
+BLES02229 | UEFA EURO 2016 / PES 2016
 BLES02230 | BlazBlue: Central Fiction
 BLES02231 | Just Dance® 2017
 BLES02232 | Guilty Gear Xrd: Revelator
 BLES02233 | FIFA 17
+BLES02234 | FIFA 17
+BLES02235 | Mafia II
 BLES02237 | PES 2017: Pro Evolution Soccer
+BLES02238 | Pro Evolution Soccer 2017
 BLES02239 | WWE 2K17
 BLES02240 | Skylanders: Imaginators
 BLES02241 | Odin Sphere: Leifthrasir
@@ -3471,6 +3528,7 @@ BLJM60105 | Mahjong Taikai IV [Koei the Best]
 BLJM60106 | Pro Yakyuu Spirits 5 Kanzenban [First Print Limited Edition]
 BLJM60107 | Prince of Persia
 BLJM60108 | Far Cry® 2
+BLJM60109 | リトルバスターズ！Converted Edition
 BLJM60110 | Assassin's Creed ™ [UBI the Best]
 BLJM60111 | Gundam Musou 2
 BLJM60112 | Sonic World Adventure
@@ -3782,6 +3840,7 @@ BLJM60428 | White Album
 BLJM60429 | EA SPORTS™ Grand Slam® Tennis 2
 BLJM60430 | Shinken de Watashi ni Koi Shinasai! R
 BLJM60431 | Rayman® Origins
+BLJM60432 | L.A. Noire: Complete Edition
 BLJM60433 | Biohazard Chronicles HD Selection
 BLJM60434 | Gal*Gun
 BLJM60435 | Trinity: Zill Ol'll Zero [koei Tecmo The Best]
@@ -4184,12 +4243,14 @@ BLJM61266 | Gendai Daisenryaku 2016: Chitsujo no Houkai - Haken Kokka Shittsui
 BLJM61267 | Kagero Mou Hitori no Princess
 BLJM61268 | Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen (Limited Edition)
 BLJM61269 | Chaos;Child
+BLJM61270 | Middle-Earth™: Shadow of Mordor™
 BLJM61271 | Monster Hunter Frontier G7 (Premium Pack)
 BLJM61272 | Biohazard Zero: HD Remaster
 BLJM61274 | Koihime Enbu
 BLJM61281 | FIFA 16
 BLJM61282 | Final Fantasy XIV Online
 BLJM61283 | Final Fantasy XIV: Souten no Ishgard
+BLJM61284 | ドラゴンズドグマ オンライン
 BLJM61285 | FIFA 15 (EA Best Hits)
 BLJM61287 | Assassin's Creed: Connor Saga (Ubi the Best)
 BLJM61288 | Utawarerumono: Itsuwari No Kamen
@@ -4230,6 +4291,7 @@ BLJM61340 | FIFA 17
 BLJM61341 | Dragon Quest Heroes II
 BLJM61342 | The Walking Dead: Season 2
 BLJM61344 | Toukiden 2
+BLJM61345 | Winning Eleven 2017
 BLJM61346 | Persona 5
 BLJM61347 | Shin Sangoku Musou Eiketsuden
 BLJM61348 | FIFA 17 (Deluxe Edition)
@@ -4237,6 +4299,7 @@ BLJM61349 | Sangokushi 13 with Power Up Kit
 BLJM61350 | Sengoku Musou: Sanada Maru
 BLJM61351 | Adventure Time: Secrets of the Nameless Kingdom
 BLJM61352 | Dragon Quest Builders Alefgard o Fukkatsu Seyo (Ultimate Hits)
+BLJM61353 | Winning Post 8 2017
 BLJM61357 | Winning Eleven 2018
 BLJM66125 | Call Of Duty® Ghosts
 BLJM66126 | Call Of Duty® Ghosts
@@ -4434,6 +4497,7 @@ BLJS10179 | Sangoku Hime: Senkou no Taika: Akatsuki no Haryuu Deluxe
 BLJS10180 | Assassin's Creed Trilogy: Ezio Saga
 BLJS10181 | Toki to Eien - Toki Towa
 BLJS10182 | Macross 30: Ginga O Tsunagu Utagoe (30th Anniversary Edition)
+BLJS10183 | シェリル・ノーム超時空ヴァーチャルクリップ～射手座☆午後九時Don't be late～
 BLJS10184 | Macross 30: Ginga o Tsunagu Utagoe
 BLJS10185 | Ni no Kuni: Wrath of the White Witch
 BLJS10186 | Homefront [Spike Chunksoft the Best]
@@ -4560,8 +4624,10 @@ BLJS10315 | Saint Seiya: Soldiers' Soul
 BLJS10316 | Mato Kurenai Yuugekitai: Daybreak Special Gigs
 BLJS10318 | JoJo no Kimyou na Bouken: Eyes of Heaven
 BLJS10319 | Kamen Rider: Battride War Sousei
+BLJS10322 | NBA 2K16
 BLJS10323 | Disney Infinity 3.0
 BLJS10324 | Kamen Rider: Battride War Sousei [Memorial TV Sound Edition]
+BLJS10325 | テイルズ オブ ゼスティリア Tales of the Best
 BLJS10329 | Guilty Gear Xrd -Revelator-
 BLJS10330 | Tales Of Berseria
 BLJS10332 | BlazBlue: Central Fiction
@@ -4727,6 +4793,7 @@ BLKS20117 | Biohazard 5 [PlayStation®3 the Best]
 BLKS20119 | F.E.A.R. 2 Project Origin
 BLKS20120 | WANTED: Weapons of Fate
 BLKS20121 | UFC® Undisputed™ 2009
+BLKS20122 | Terminator Salvation
 BLKS20123 | Major League Baseball 2K9
 BLKS20124 | Monsters vs. Aliens (TM)
 BLKS20126 | Devil May Cry 4
@@ -4764,6 +4831,7 @@ BLKS20184 | Dante's Inferno™
 BLKS20187 | Super Street Fighter IV Arcade Edition
 BLKS20192 | BATTLEFIELD: Bad Company 2™
 BLKS20193 | Prince of Persia The Forgotten Sands™
+BLKS20196 | Assassin's Creed II ™
 BLKS20198 | Grand Theft Auto Episodes from Liberty City
 BLKS20200 | World Soccer: Winning Eleven 2010
 BLKS20201 | Trinity Universe
@@ -4786,6 +4854,7 @@ BLKS20271 | Warriors: Legends of Troy
 BLKS20278 | World Soccer: Winning Eleven 2011
 BLKS20281 | Operation Flashpoint® Red River™
 BLKS20289 | Red Faction: Armageddon
+BLKS20300 | Record of Agarest War II
 BLKS20301 | World Soccer: Winning Eleven 2012
 BLKS20315 | Red Dead Redemption [Game of the Year Edition]
 BLKS20316 | Metal Gear Solid: HD Collection
@@ -4793,6 +4862,9 @@ BLKS20317 | Warhammer 40,000: Space Marine
 BLKS20318 | Dead Island
 BLKS20320 | The Cursed Crusade
 BLKS20321 | Assassin's Creed: Brotherhood
+BLKS20325 | AC Revelations
+BLKS20333 | Saints Row: The Third
+BLKS20353 | Hyperdimention Neptune mk2
 BLKS20375 | PES 2013: Pro Evolution Soccer
 BLKS20384 | Shin Sangoku Musou: Multi Raid 2 Hd Version
 BLKS20385 | Attouteki Yuugi: Mugen Souls
@@ -4803,7 +4875,12 @@ BLKS20438 | PES 2014: Pro Evolution Soccer
 BLKS20442 | Grand Theft Auto V
 BLKS20443 | Saints Row IV
 BLKS20449 | Saint Seiya: Brave Soldiers
+BLKS20467 | STEINS;GATE
+BLKS20468 | STEINS;GATE 비익연리의 달링
+BLKS20469 | STEINS;GATE 선형구속의 페노그램
 BLKS20475 | Fairy Fencer F
+BLKS20481 | Bound by Flame
+BLKS20514 | SPACE HULK
 BLKS25001 | Metal Gear Solid 4: Guns of the Patriots
 BLKS25002 | Metal Gear Solid 4: Guns of the Patriots
 BLKS25003 | Metal Gear Solid 4: Guns of the Patriots [PlayStation®3 Big Hit Series]
@@ -4978,6 +5055,7 @@ BLUS30162 | Ferrari Challenge: Trofeo Pirelli
 BLUS30164 | Guitar Hero: World Tour
 BLUS30165 | Brothers in Arms: Hell's Highway™
 BLUS30166 | BioShock®
+BLUS30167 | Prince Caspian
 BLUS30168 | NHL™ 09
 BLUS30169 | Silent Hill: Homecoming
 BLUS30170 | Madden NFL 09 [En Espanol]
@@ -5226,6 +5304,7 @@ BLUS30444 | NCAA® Basketball 10
 BLUS30445 | Star Wars: The Force Unleashed: Ultimate Sith Edition
 BLUS30446 | Assassin's Creed II ™
 BLUS30447 | Scene It?® Bright Lights! Big Screen!
+BLUS30448 | Scene It?® Lumières ! Action !
 BLUS30450 | Call of Duty® Modern Warfare® 2
 BLUS30451 | FALLOUT 3 [Game of the Year Edition]
 BLUS30453 | Super Street Fighter IV
@@ -5245,6 +5324,7 @@ BLUS30467 | Prison Break The Conspiracy
 BLUS30469 | LEGEND of the GUARDIANS: The OWLS of GA'HOOLE
 BLUS30471 | Dynasty Warriors: Strikeforce
 BLUS30472 | Majin and the Forsaken Kingdom™
+BLUS30473 | Tony Hawk: RIDE
 BLUS30474 | EA SPORTS™ 2010 FIFA World Cup South Africa™
 BLUS30476 | Deus Ex: Human Revolution
 BLUS30478 | R.U.S.E.
@@ -5317,6 +5397,7 @@ BLUS30548 | SAW 2
 BLUS30549 | CSI: Fatal Conspiracy
 BLUS30550 | Two Worlds II
 BLUS30551 | DEF JAM: RAPSTAR
+BLUS30552 | Superstars V8 Racing
 BLUS30553 | Truth or Lies®
 BLUS30554 | L.A. Noire™
 BLUS30555 | Apache: Air Assault
@@ -5426,6 +5507,7 @@ BLUS30680 | Dead Space™ 2 [Collector's Edition]
 BLUS30681 | TRANSFORMERS: Fall of Cybertron
 BLUS30682 | Grand Theft Auto IV: The Complete Edition
 BLUS30683 | SBK X: Superbike World Championship
+BLUS30684 | Superstars® V8 Next Challenge
 BLUS30686 | Record of Agarest War Zero
 BLUS30687 | Far Cry® 3
 BLUS30688 | Earth Defense Force®: Insect Armageddon™
@@ -5438,6 +5520,7 @@ BLUS30694 | Mayhem 3D
 BLUS30695 | Call of Duty® Modern Warfare [Collection]
 BLUS30696 | NBA JAM
 BLUS30697 | Michael Jackson The Experience
+BLUS30699 | WRC FIA World Rally Championship
 BLUS30700 | Naughty Bear [Gold Edition]
 BLUS30701 | Hyperdimension Neptunia
 BLUS30703 | Dynasty Warriors: GUNDAM 3
@@ -5541,6 +5624,7 @@ BLUS30813 | Marvel Super Hero Squad: Comic Combat
 BLUS30815 | Adidas Micoach
 BLUS30816 | Just Dance® Kids 2
 BLUS30817 | Batman: Arkham City™ [Collector's Edition]
+BLUS30818 | Everyone Sing
 BLUS30819 | Cabela's® Survival: Shadows of Katmai
 BLUS30821 | uDraw Studio: Instant Artist
 BLUS30822 | BEN 10™ GALACTIC RACING
@@ -5595,6 +5679,7 @@ BLUS30886 | Back to The Future: The Game
 BLUS30887 | Call of Duty: Modern Warfare® 3
 BLUS30888 | Fallout: New Vegas [Ultimate Edition]
 BLUS30889 | Fallout: New Vegas: Ultimate Edition
+BLUS30890 | Fallout New Vegas: Ultimate Edition
 BLUS30891 | Tiger Woods PGA TOUR® 13: The Masters®
 BLUS30892 | TEKKEN Hybrid [Limited Edition]
 BLUS30897 | Jimmie Johnson's Anything with an Engine
@@ -5608,6 +5693,7 @@ BLUS30905 | Assassin's Creed : Revelations
 BLUS30906 | Metal Gear Solid: HD Collection [Limited Edition]
 BLUS30907 | Disney•Pixar's Brave
 BLUS30908 | Summer Stars 2012
+BLUS30910 | 4 in 1 Action Pack
 BLUS30911 | Deadliest Warrior: Ancient Combat
 BLUS30912 | Street Fighter X Tekken [Special Edition]
 BLUS30913 | Battleship
@@ -5645,6 +5731,7 @@ BLUS30964 | The Witch and The Hundred Knights
 BLUS30965 | Prototype 2
 BLUS30966 | DRAGON BALL® Z Budokai/DRAGON BALL® Z Budokai 3
 BLUS30967 | Ninja Gaiden 3
+BLUS30968 | Skylanders Giants
 BLUS30969 | NBA JAM
 BLUS30971 | DEAD OR ALIVE 5
 BLUS30973 | Madden NFL 13
@@ -5680,6 +5767,7 @@ BLUS31017 | BEN 10 OMNIVERSE™
 BLUS31018 | Injustice: Gods Among Us
 BLUS31019 | Damage Inc. Pacific Squadron WWII
 BLUS31020 | LOST PLANET 3
+BLUS31023 | Ice Age™: Continental Drift: Arctic Games
 BLUS31024 | Doom 3 BFG Edition
 BLUS31025 | Tom Clancy's™ Splinter Cell® Blacklist™
 BLUS31026 | Dead Island [Game of the Year]
@@ -5828,6 +5916,7 @@ BLUS31351 | Saints Row IV (super Dangerous Wub Wub Edition)
 BLUS31352 | KILLER IS DEAD
 BLUS31354 | Rocksmith 2014 Edition
 BLUS31357 | Os Cavaleiros do Zodíaco: Bravos Soldados [Saint Seiya: Brave Soldiers]
+BLUS31359 | Dead Island Riptide Complete Edition
 BLUS31364 | Injustice: Gods Among Us - Ultimate Edition
 BLUS31366 | CAPCOM Essentials
 BLUS31367 | XBLAZE Code: Embryo
@@ -5846,15 +5935,18 @@ BLUS31386 | Ragnarok Odyssey ACE
 BLUS31387 | RAMBO THE VIDEO GAME
 BLUS31388 | How to Train Your Dragon™ 2
 BLUS31389 | EA SPORTS™ 2014 FIFA World Cup Brazil™
+BLUS31390 | EA SPORTS™ 2014 FIFA World Cup Brazil™
 BLUS31391 | Atelier Escha & Logy ~Alchemists of the Dusk Sky~
 BLUS31392 | LEGO® The Hobbit™
 BLUS31393 | Far Cry Compliation
 BLUS31396 | Deception IV: Blood Ties
 BLUS31397 | Tales of Xillia 2
+BLUS31398 | F1® 2013
 BLUS31401 | SNIPER ELITE 3
 BLUS31402 | Dynasty Warriors 8 Xtreme Legends
 BLUS31405 | JoJo's Bizarre Adventure: All Star Battle
 BLUS31406 | South Park™: The Stick Of Truth
+BLUS31408 | Putty Squad
 BLUS31410 | Plants vs. Zombies: Garden Warfare
 BLUS31411 | Bound by Flame
 BLUS31412 | Sherlock Holmes: Crimes and Punishments
@@ -5920,6 +6012,7 @@ BLUS31488 | The Walking Dead: Season Two: A Telltale Games Series
 BLUS31489 | The Wolf Among Us: A Telltale Games Series
 BLUS31490 | Under Night In-Birth: Exe:Late
 BLUS31491 | Metal Gear Solid V: The Phantom Pain
+BLUS31492 | Legend of Kay Anniversary
 BLUS31493 | MXGP - The Official Motocross Videogame
 BLUS31494 | MotoGP™ 14
 BLUS31496 | Saints Row: Gat Out of Hell
@@ -5932,6 +6025,7 @@ BLUS31508 | Motorcycle Club
 BLUS31509 | WRC 4 FIA World Rally Championship
 BLUS31513 | BlazBlue: Chrono Phantasma Extend
 BLUS31515 | Dragon Age™ Inquisition
+BLUS31516 | Falling Skies: The Game
 BLUS31518 | LEGO® Jurassic World
 BLUS31519 | J-Stars Victory VS+
 BLUS31520 | Teslagrad
@@ -5953,12 +6047,14 @@ BLUS31540 | NHL® Legacy Edition
 BLUS31542 | NBA 2K16
 BLUS31543 | FIFA 16
 BLUS31545 | Skylanders® SuperChargers
+BLUS31547 | Tour de France 2015
 BLUS31549 | WRC 5 FIA World Rally Championship
 BLUS31550 | LEGO® MARVEL's Avengers
 BLUS31551 | Ultimate Action Triple Pack
 BLUS31552 | Ultimate Stealth Triple Pack
 BLUS31553 | FIFA 16
 BLUS31554 | Lost Dimension
+BLUS31555 | Rugby World Cup 2015
 BLUS31556 | Guitar Hero Live
 BLUS31557 | Handball 16
 BLUS31558 | Just Dance® 2016
@@ -5975,6 +6071,7 @@ BLUS31569 | King's Quest
 BLUS31570 | Adam's Venture: Chronicles
 BLUS31571 | Monster High: New Ghoul in School
 BLUS31572 | Legend of Heroes, The: Trails of Cold Steel
+BLUS31573 | Tower of Guns: Special Edition
 BLUS31576 | The Jackbox Party Pack
 BLUS31577 | The Disgaea Triple Play Collection
 BLUS31578 | LEGO® Star Wars: The Force Awakens
@@ -5989,7 +6086,9 @@ BLUS31588 | Guilty Gear Xrd -Revelator-
 BLUS31589 | Madden NFL 17
 BLUS31591 | BlazBlue: Central Fiction
 BLUS31593 | FIFA 17
+BLUS31594 | FIFA 17
 BLUS31595 | Just Dance® 2017
+BLUS31596 | Mafia II
 BLUS31597 | The Legend of Heroes: Trails of Cold Steel II
 BLUS31598 | PES 2017: Pro Evolution Soccer
 BLUS31599 | WWE 2K17
@@ -6140,15 +6239,22 @@ NPEA00029 | Calling All Cars
 NPEA00030 | Mesmerize
 NPEA00036 | LocoRoco Cocoreccho!
 NPEA00037 | Snakeball [Demo]
+NPEA00038 | Feel Ski™
 NPEA00039 | Go! Sudoku
 NPEA00041 | TORI EMAKI
+NPEA00044 | Sky Diving™
 NPEA00047 | High Velocity Bowling™
 NPEA00050 | Gran Turismo Prologue 5
+NPEA00051 | Dark Mist™
 NPEA00052 | TOY HOME™
 NPEA00053 | PixelJunk™ Racers
 NPEA00054 | PAIN
 NPEA00055 | Elefunk™
 NPEA00057 | WipEout® HD
+NPEA00058 | PLAY FACTORY™ Kung Fu
+NPEA00059 | PLAY FACTORY™ Table Tennis
+NPEA00060 | PLAY FACTORY™ Bubble Pop
+NPEA00061 | PLAY FACTORY™ DIY
 NPEA00063 | Riff: Everyday Shooter
 NPEA00065 | Piyotama
 NPEA00066 | Linger in Shadows
@@ -6164,7 +6270,10 @@ NPEA00094 | Flower
 NPEA00095 | SIREN: Blood Curse™
 NPEA00103 | Rag Doll Kung Fu™: Fists of Plastic
 NPEA00104 | Savage Moon™
+NPEA00105 | PixelJunk™ Monsters Soundtrack
+NPEA00106 | Ratchet & Clank™: Quest for Booty
 NPEA00107 | CRASH COMMANDO™ [Demo]
+NPEA00110 | PixelJunk™ Eden Soundtrack
 NPEA00111 | Fat Princess
 NPEA00112 | Buzz!™: Junior: Dinos
 NPEA00117 | Warhawk™ [Demo]
@@ -6175,6 +6284,7 @@ NPEA00122 | Buzz!™: Junior: Dinomania
 NPEA00123 | Hustle Kings™
 NPEA00124 | Bejeweled 2
 NPEA00126 | Zuma
+NPEA00129 | Groovin' Blocks
 NPEA00130 | Heavy Weapon
 NPEA00131 | Peggle
 NPEA00132 | Feeding Frenzy 2 - Shipwreck Showdown
@@ -6194,6 +6304,7 @@ NPEA00154 | Gravity Crash™
 NPEA00181 | PixelJunk™ Shooter 2
 NPEA00182 | PixelJunk™ Racers 2nd Lap
 NPEA00184 | HEAVY RAIN™ Original Videogame Score - Surround Sound Version
+NPEA00185 | Flower: Original Soundtrack from the Video Game
 NPEA00186 | God of War® III - Blood and Metal Soundtrack
 NPEA00187 | Buzz!™: Quiz Player [EN]
 NPEA00189 | Gundemonium Recollection
@@ -6211,12 +6322,14 @@ NPEA00205 | Acceleration of Suguri: X Edition
 NPEA00206 | Swords and Soldiers
 NPEA00207 | Terrover
 NPEA00208 | Akimi Village
+NPEA00238 | Super Stardust™ HD OST
 NPEA00239 | Tumble [Move]
 NPEA00241 | LittleBigPlanet™
 NPEA00243 | LittleBigPlanet™: Sackboy's Prehistoric Moves
 NPEA00244 | MotorStorm 3D Rift
 NPEA00247 | EyePet™ [Move Edition]
 NPEA00250 | Flower
+NPEA00251 | ModNation™ Racers: Original Soundtrack from the Video Game
 NPEA00252 | inFamous
 NPEA00253 | echochrome™ ii
 NPEA00255 | God of War® HD
@@ -6229,21 +6342,26 @@ NPEA00266 | DC Universe Online
 NPEA00271 | Plants vs. Zombies
 NPEA00274 | Slam Bolt Scrappers
 NPEA00275 | TOKYO JUNGLE
+NPEA00276 | God of War®: Original Soundtracks from the Video Game Trilogy
 NPEA00278 | MAG™
 NPEA00279 | ICO™ [PS2]
 NPEA00280 | Shadow of the Colossus™ [PS2]
+NPEA00281 | The Fight: Soundtrack
 NPEA00282 | Beat Sketch !™ [Demo]
 NPEA00283 | TV Superstars™
+NPEA00286 | echochrome™ ii -a soundtrack-
 NPEA00287 | Eat Them!™
 NPEA00288 | Journey™
 NPEA00289 | Sound Shapes™
 NPEA00290 | Killzone®3
 NPEA00291 | ModNation™ Racers
+NPEA00294 | MotorStorm®: Apocalypse - Original Soundtrack
 NPEA00299 | Free Realms MMORPG
 NPEA00300 | DEAD NATION™ Road Of Devastation
 NPEA00303 | PlayStation®Move Heroes
 NPEA00304 | PlayStation Move Heroes
 NPEA00306 | PixelJunk SideScroller
+NPEA00307 | SOCOM: Special Forces Original Soundtrack
 NPEA00308 | God of War® Chains of Olympus HD
 NPEA00309 | God of War: Ghost of Sparta
 NPEA00311 | Ape Escape
@@ -6253,6 +6371,7 @@ NPEA00318 | inFamous 2
 NPEA00321 | Killzone®3 Multiplayer
 NPEA00322 | InFamous: Festival of Blood
 NPEA00324 | LittleBigPlanet™ 2
+NPEA00325 | SingStar®
 NPEA00326 | TEKKEN TAG TOURNAMENT HD
 NPEA00327 | TEKKEN TAG TOURNAMENT 2 Prologue
 NPEA00329 | UNCHARTED 2: Among Thieves™ [Soundtrack]
@@ -6290,32 +6409,47 @@ NPEA00363 | UNCHARTED: Drake's Fortune®
 NPEA00364 | UNCHARTED 2: Among Thieves™
 NPEA00365 | UNCHARTED 2: Among Thieves™
 NPEA00366 | Malicious
+NPEA00367 | MOVE FITNESS™ DIGITAL (NPEA00367)
 NPEA00368 | Kite Fight
+NPEA00369 | Uncharted 2: Among Thieves™ 1.10
 NPEA00370 | Sports Champions™
+NPEA00371 | Resistance 3 Original Soundtrack
 NPEA00372 | When Vikings Attack!™
+NPEA00373 | Medieval Moves Original Soundtrack
 NPEA00374 | SingStar®
 NPEA00375 | Datura
 NPEA00376 | PixelJunk™ 4am
+NPEA00377 | Malicious™ Original Soundtrack
 NPEA00378 | Ratchet & Clank™: QForce
+NPEA00380 | Twisted Metal™ Soundtrack
 NPEA00381 | Sports Champions™ 2
+NPEA00383 | ModNation™ Racers: Road Trip Original Soundtrack
+NPEA00384 | Uncharted: Golden Abyss™ Original Soundtrack
 NPEA00385 | Ratchet & Clank [PS2]
 NPEA00386 | Ratchet & Clank 2: Going Commando [PS2]
 NPEA00387 | Ratchet & Clank 3: Up Your Arsenal [PS2]
 NPEA00388 | Ratchet: Deadlocked™ [PS2]
+NPEA00390 | Unit 13™ Original Soundtrack
 NPEA00394 | Rain™
 NPEA00395 | The Unfinished Swam
 NPEA00396 | Pro Foosball
 NPEA00397 | Move Street Cricket II
+NPEA00400 | Sorcery™ Original Soundtrack
 NPEA00407 | Ratchet & Clank™: All 4 One [Sound Track]
 NPEA00410 | Starhawk™ (Solo Campaign)
+NPEA00411 | Starhawk™ (Digital Download)
 NPEA00412 | Move Fitness
 NPEA00413 | PlayStation® All-Stars Battle Royale
+NPEA00415 | Grave Diggers
+NPEA00416 | Duke War!!
+NPEA00417 | Nostril Shot
 NPEA00418 | Killzone®1 HD
 NPEA00420 | Dancestar Digital
 NPEA00421 | Little Big Planet: Karting
 NPEA00422 | UNCHARTED 3: Drake's Deception™ [Multiplayer]
 NPEA00423 | Ratchet: Deadlocked™ [PS2]
 NPEA00424 | Everybody's Golf®
+NPEA00425 | Journey™ Collector's Edition
 NPEA00427 | Bentleys Hackpack
 NPEA00429 | Sly Cooper: Thieves in Time™
 NPEA00430 | Resistance: Fall of Man
@@ -6328,11 +6462,17 @@ NPEA00438 | Journey™
 NPEA00439 | Puppeteer™
 NPEA00440 | WebMAF Development Environment
 NPEA00441 | God of War® Ascension
+NPEA00442 | Diggs Nightcrawler™
+NPEA00444 | Sly Cooper: Thieves in Time™ Original Soundtrack
 NPEA00445 | God of War® Ascension
+NPEA00449 | LittleBigPlanet™ HUB
+NPEA00450 | Soul Sacrifice™ Original Soundtrack
 NPEA00452 | Ratchet & Clank Future: Tools of Destruction™
 NPEA00453 | Ratchet & Clank: A Crack in Time
 NPEA00454 | Last of Us, The - Original Soundtrack
+NPEA00455 | Diggs Nightcrawler™ Original Soundtrack
 NPEA00457 | Ratchet & Clank™: Nexus
+NPEA00458 | Puppeteer™ (Original Soundtrack)
 NPEA00459 | CounterSpy™
 NPEA00460 | Doki-Doki Universe
 NPEA00461 | InviZimals: The Lost Kingdom
@@ -6341,18 +6481,47 @@ NPEA00466 | Wonderbook: Walking with Dinosaurs
 NPEA00467 | Rain - Music Montage
 NPEA00473 | InviZimals: The Lost Kingdom
 NPEA00474 | Hohokum
+NPEA00475 | Killzone™ Mercenary - Original Soundtrack
 NPEA00476 | Pulse Headphone Manager
+NPEA00478 | Invizimals™: Το Χαμένο Βασίλειο (GRE ψηφιακή έκδοση)
+NPEA00479 | Beyond: Two Souls™ Making Of Featurettes Installer [ENG]
+NPEA00480 | Beyond: Two Souls™ Making Of Featurettes Installer [FRE]
+NPEA00481 | Beyond: Two Souls™ Making Of Featurettes Installer [ITA]
+NPEA00482 | Beyond: Two Souls™ Making Of Featurettes Installer [GER]
+NPEA00483 | Beyond: Two Souls™ Making Of Featurettes Installer [SPA]
+NPEA00484 | Beyond: Two Souls™ Making Of Featurettes Installer [DUT]
+NPEA00485 | Beyond: Two Souls™ Making Of Featurettes Installer [POL]
+NPEA00486 | Beyond: Two Souls™ Making Of Featurettes Installer [POR]
+NPEA00487 | Beyond: Two Souls™ Making Of Featurettes Installer [RUS]
+NPEA00488 | Beyond: Two Souls™ Making Of Featurettes Installer [SWE]
+NPEA00489 | Beyond: Two Souls™ Making Of Featurettes Installer [NOR]
+NPEA00490 | Beyond: Two Souls™ Making Of Featurettes Installer [FIN]
+NPEA00491 | Beyond: Two Souls™ Making Of Featurettes Installer [DAN]
+NPEA00492 | Beyond: Two Souls™ Making Of Featurettes Installer [TUR]
+NPEA00493 | Beyond: Two Souls™ Making Of Featurettes Installer [GRE]
+NPEA00494 | Beyond: Two Souls™ Making Of Featurettes Installer [CZE]
+NPEA00495 | Beyond: Two Souls™ Making Of Featurettes Installer [CRO]
+NPEA00496 | Beyond: Two Souls™ Making Of Featurettes Installer [HUN]
+NPEA00498 | rain™ (Original Soundtrack)
 NPEA00501 | Tearaway Soundtrack
 NPEA00502 | Gran Turismo®6
+NPEA00504 | Beyond: Two Souls™ Extended Soundtrack Installer
 NPEA00505 | HELLDIVERS™
+NPEA00506 | Tearaway™ Soundtrack (with bonus tracks)
+NPEA00508 | Invizimals™: The Lost Kingdom Soundtrack
+NPEA00509 | Invizimals™: Το Χαμένο Βασίλειο (NPEA00509)
+NPEA00512 | Beyond: Two Souls™ (NPEA00512)
 NPEA00513 | Beyond: Two Souls™
 NPEA00514 | Beyond: Two Souls™
 NPEA00515 | LittleBigPlanet™ 3
+NPEA00517 | The Last of Us™ Volume 2 (Original Soundtrack)
 NPEA00518 | Entwined™
+NPEA00521 | The Last of Us™ Left Behind
 NPEA00525 | Guilty Gear Xrd -SIGN-
 NPEA90001 | Resistance: Fall of Man [Demo]
 NPEA90002 | Gran Turismo HD Concept
 NPEA90003 | Formula One: Championship Edition [Demo]
+NPEA90004 | LEMMINGS™ Trial Version
 NPEA90006 | MotorStorm [Demo]
 NPEA90008 | Genji: Days of the Blade [Demo]
 NPEA90009 | Blast Factor™ [Demo]
@@ -6430,6 +6599,7 @@ NPEA90122 | The Last of Us™ [Demo]
 NPEA90123 | God of War® Ascension: Prison of the Damned [Demo]
 NPEA90124 | Gran Turismo®6 [Demo] [Nissan GT Academy 2013]
 NPEA90125 | Puppeteer™ [Demo]
+NPEA90126 | Wonderbook™: Walking with Dinosaurs Demo
 NPEA90127 | Beyond: Two Souls™ [Demo]
 NPEB00001 | GripShift
 NPEB00002 | Mortal Kombat II
@@ -6453,8 +6623,12 @@ NPEB00034 | Geon
 NPEB00035 | Age of Booty
 NPEB00036 | Super Street Fighter 2 Turbo HD
 NPEB00037 | Mega Man 9
+NPEB00040 | Hail to the Chimp
 NPEB00041 | NovaStrike
 NPEB00043 | Burnout™ Paradise
+NPEB00046 | Puzzle Quest: Challenge of the Warlords - Revenge of the Plague Lord
+NPEB00047 | FACEBREAKER™
+NPEB00048 | Tiger Woods PGA TOUR® 09
 NPEB00049 | Dead Space™
 NPEB00050 | Dead Space™
 NPEB00051 | Dead Space™
@@ -6462,6 +6636,7 @@ NPEB00052 | Mirror's Edge™
 NPEB00053 | Mercenaries 2: World in Flames
 NPEB00059 | Burn Zombie Burn!
 NPEB00060 | GTI Club+ Rally Cote D'Azur
+NPEB00061 | Burn Zombie Burn!
 NPEB00062 | Supersonic Acrobatic Rocket-Powered Battle-Cars
 NPEB00063 | Noby Noby Boy
 NPEB00064 | Brain Challenge
@@ -6477,12 +6652,14 @@ NPEB00073 | OutRun™ Online Arcade
 NPEB00074 | Söldner-X: Himmelsstürmer
 NPEB00075 | Cellfactor: Psychokinetic Wars [Demo]
 NPEB00076 | Bomberman Ultra
+NPEB00077 | Soldner-X: Himmelssturmer
 NPEB00078 | Flock!
 NPEB00079 | PowerUp Forever
 NPEB00080 | 3 on 3 NHL™ Arcade
 NPEB00081 | Worms™
 NPEB00082 | Penny Arcade Adventures - On the Rain-Slick Precipice of Darkness - Episode 2
 NPEB00083 | Texas Cheat ‘Em
+NPEB00086 | Inferno Pool
 NPEB00087 | MARVEL VS. CAPCOM 2 - New Age of Heroes [Demo]
 NPEB00091 | Puzzle Quest: Galactrix
 NPEB00092 | BATTLEFIELD 1943™
@@ -6505,6 +6682,7 @@ NPEB00113 | Call Of Duty® Classic [FR]
 NPEB00114 | Call Of Duty® Classic [IT]
 NPEB00115 | Call Of Duty® Classic [ES]
 NPEB00116 | Call Of Duty® Classic [DE]
+NPEB00117 | Hasbro Family Game Night
 NPEB00118 | Shatter
 NPEB00119 | Smash Cars
 NPEB00120 | Mushroom Wars
@@ -6513,6 +6691,9 @@ NPEB00122 | Wakeboarding HD
 NPEB00123 | Interpol The Trail of Dr. Chaos™
 NPEB00124 | Command & Conquer®: Red Alert™ 3: Commander's Challenge
 NPEB00128 | Zombie Apocalypse
+NPEB00129 | Droplitz
+NPEB00131 | Military Madness: Nectaris
+NPEB00132 | Diner Dash®
 NPEB00133 | Matt Hazard: Blood Bath and Beyond [Demo]
 NPEB00134 | Tank Battles
 NPEB00140 | Hyperballoid HD
@@ -6549,15 +6730,26 @@ NPEB00179 | Hamster Ball
 NPEB00180 | Catan
 NPEB00181 | Sam & Max: The Devil's Playhouse Episode 1: The Penal Zone
 NPEB00183 | Voodoo Dice
+NPEB00184 | NBA Unrivaled
 NPEB00185 | Ferrari: The Race Experience
 NPEB00186 | Rocket Knight
+NPEB00190 | FirstPlay Episode 001
 NPEB00191 | Monkey Island Special Edition Collection
 NPEB00192 | Sky Fighter
 NPEB00195 | FirstPlay Episode 002
+NPEB00196 | AquaPanic!
+NPEB00197 | FirstPlay Episode 003
+NPEB00198 | FirstPlay Episode 004
+NPEB00199 | FirstPlay Episode 005
 NPEB00200 | Section 8
 NPEB00201 | Lead and Gold: Gangs of the Wild West
 NPEB00202 | Shatter
 NPEB00205 | Joe Danger
+NPEB00208 | FirstPlay Episode 006
+NPEB00209 | FirstPlay Episode 007
+NPEB00210 | FirstPlay Episode 008
+NPEB00211 | FirstPlay Episode 009
+NPEB00212 | FirstPlay Episode 010
 NPEB00213 | Test Yourself
 NPEB00214 | Sam & Max: The Devil's Playhouse Episode 2: The Tomb of Sammun-Mak
 NPEB00215 | Sam & Max: The Devil's Playhouse Episode 3: They Stole Max's Brain!
@@ -6569,6 +6761,10 @@ NPEB00222 | Pinballistik
 NPEB00223 | Ricochet HD [Demo]
 NPEB00225 | Death Spank
 NPEB00226 | Earthworm Jim HD
+NPEB00234 | FirstPlay Episode 012
+NPEB00235 | FirstPlay Episode 013
+NPEB00236 | FirstPlay Episode 014
+NPEB00237 | FirstPlay Episode 011
 NPEB00238 | Kick-Ass The Game
 NPEB00239 | Gotham City Impostors
 NPEB00242 | Magician Lord
@@ -6577,13 +6773,32 @@ NPEB00244 | Fatal Fury: The King of Fighter [NeoGeo]
 NPEB00245 | Crysis®3
 NPEB00246 | Alpha Mission II
 NPEB00247 | Samurai Shodown [NeoGeo]
+NPEB00248 | NEOGEO STATION Art Of Fighting
+NPEB00250 | NEOGEO STATION The King Of Fighters'94
+NPEB00251 | NEOGEO STATION Baseballstars Professional
 NPEB00252 | Time Machine - Rogue Pilot
 NPEB00253 | Monkey Island 2: LeChuck's Revenge Special Edition
+NPEB00254 | SPACE INVADERS INFINITY GENE
 NPEB00255 | Elemental Monster
 NPEB00257 | Machinarium
 NPEB00258 | Scott Pilgrim vs. The World
 NPEB00260 | Alien Breed Impact
 NPEB00265 | Tales of Monkey Island 1: Launch of the Screaming Narwhal
+NPEB00266 | Tales of Monkey Island - Chapter 2: The Siege of Spinner Cay
+NPEB00267 | Tales of Monkey Island - Chapter 3: Lair of the Leviathan
+NPEB00268 | Tales of Monkey Island - Chapter 4: The Trial and Execution of Guybrush Threepwood
+NPEB00269 | Tales of Monkey Island - Chapter 5: Rise of the Pirate God
+NPEB00271 | FirstPlay Episode 015
+NPEB00272 | FirstPlay Episode 016
+NPEB00273 | FirstPlay Episode 017
+NPEB00274 | FirstPlay Episode 018
+NPEB00275 | FirstPlay Episode 019
+NPEB00276 | FirstPlay Episode 020
+NPEB00277 | FirstPlay Episode 021
+NPEB00278 | FirstPlay Episode 022
+NPEB00279 | FirstPlay Episode 023
+NPEB00280 | FirstPlay Episode 024
+NPEB00281 | FirstPlay Episode 025
 NPEB00283 | Stacking
 NPEB00284 | Costume Quest
 NPEB00285 | Who Wants to be a Millionaire
@@ -6595,6 +6810,11 @@ NPEB00290 | Modern Combat: Domination
 NPEB00291 | DeathSpank: Thongs of Virtue
 NPEB00292 | Worms™ 2 Armageddon
 NPEB00293 | Castle Crashers
+NPEB00294 | FirstPlay Episode 026
+NPEB00295 | FirstPlay Episode 027
+NPEB00296 | FirstPlay Episode 028
+NPEB00297 | FirstPlay Episode 029
+NPEB00298 | FirstPlay Episode 030
 NPEB00299 | Rush'N Attack Ex-Patriot
 NPEB00300 | Red Faction: Battlegrounds
 NPEB00301 | Spare Parts
@@ -6611,6 +6831,12 @@ NPEB00315 | Pac-Man Championship Edition DX
 NPEB00316 | All Zombies Must Die!
 NPEB00317 | Castle Crashers
 NPEB00318 | Dead Space Extraction
+NPEB00320 | FirstPlay Episode 031
+NPEB00321 | FirstPlay Episode 032
+NPEB00322 | FirstPlay Episode 033
+NPEB00323 | FirstPlay Episode 034
+NPEB00324 | FirstPlay Episode 035
+NPEB00325 | FirstPlay Episode 036
 NPEB00326 | Joe Danger
 NPEB00327 | Medal of Honor Frontline
 NPEB00328 | Faery: Legends of Avalon
@@ -6624,6 +6850,7 @@ NPEB00336 | MicroBot
 NPEB00337 | Crazy Machines Elements
 NPEB00338 | Dead Space: Ignition
 NPEB00339 | The Fancy Pants Adventures
+NPEB00340 | PooYoos - Episode 1
 NPEB00341 | Prince of Persia Sands of Time HD [PS2]
 NPEB00342 | RESIDENT EVIL 4 HD [PS2]
 NPEB00344 | Amazon Instant Prime LoveFilm
@@ -6654,14 +6881,20 @@ NPEB00383 | The UnderGarden
 NPEB00384 | GHOSTBUSTERS: Sanctum of Slime
 NPEB00385 | Dungeons & Dragons: Daggerdale
 NPEB00386 | Section 8 Prejudice
+NPEB00387 | Red Johnson's Chronicles
 NPEB00388 | Tales From Space: About A Blob
 NPEB00389 | Prince of Persia Warrior Within HD [PS2]
 NPEB00390 | Prince of Persia The Two Thrones HD [PS2]
 NPEB00393 | Assassin's Creed ™
 NPEB00394 | Tom Clancy's Rainbow Six® Vegas 2
 NPEB00395 | HOARD™
+NPEB00399 | 4 Elements HD
 NPEB00401 | Puzzle Dimension
+NPEB00402 | StrongBad's Cool Game For Attractive People - Episode 2: StrongBadia The Free
+NPEB00403 | StrongBad's Cool Game For Attractive People - Episode 1: Homestar Ruiner
+NPEB00404 | StrongBad's Cool Game For Attractive People - Episode 3: Baddest of the Bands
 NPEB00405 | StrongBad's Cool Game For Attractive People - Episode 4: Dangeresque 3
+NPEB00406 | StrongBad's Cool Game For Attractive People - Episode 5: 8 Bit Is Enough
 NPEB00409 | Dead Storm Pirates
 NPEB00410 | RISK: FACTIONS
 NPEB00411 | Wonder Boy In Monster World
@@ -6669,15 +6902,31 @@ NPEB00413 | The Revenge of Shinobi
 NPEB00414 | Putty Squad
 NPEB00415 | Alex Kidd In Miracle World
 NPEB00416 | Monster World IV
+NPEB00420 | FirstPlay Episode 037
+NPEB00421 | FirstPlay Episode 038
+NPEB00422 | FirstPlay Episode 039
+NPEB00423 | FirstPlay Episode 040
+NPEB00424 | FirstPlay Episode 041
+NPEB00425 | FirstPlay Episode 042
+NPEB00426 | FirstPlay Episode 043
+NPEB00427 | FirstPlay Episode 044
+NPEB00428 | FirstPlay Episode 045
+NPEB00429 | FirstPlay Episode 046
+NPEB00430 | FirstPlay Episode 047
+NPEB00431 | FirstPlay Episode 048
+NPEB00432 | FirstPlay Episode 049
+NPEB00433 | FirstPlay Episode 050
 NPEB00435 | Beyond Good & Evil HD
 NPEB00436 | [PROTOTYPE]™
 NPEB00437 | Fast Draw Shotdown [Move]
 NPEB00438 | Dragon's Lair II Time Warp
 NPEB00439 | Space Ace
+NPEB00440 | Dragon's Lair
 NPEB00441 | Puddle
 NPEB00445 | Tetris®
 NPEB00446 | Renegade Ops
 NPEB00447 | Back to the Future: The Game: Episode 1: It's About Time
+NPEB00448 | Assassin's Creed Ascendance
 NPEB00454 | Sine Mora
 NPEB00457 | Jeremy McGrath's Offroad
 NPEB00458 | Borderlands™
@@ -6686,6 +6935,7 @@ NPEB00461 | Dead Block
 NPEB00462 | Assassin's Creed II ™
 NPEB00463 | Outland
 NPEB00464 | X-Men: The Arcade Game
+NPEB00465 | Prince of Persia
 NPEB00466 | From Dust
 NPEB00468 | Filmy (Evaluation)
 NPEB00469 | Spelunker HD
@@ -6701,6 +6951,16 @@ NPEB00481 | Back to the Future - Episode 5 - Outatime
 NPEB00482 | Back to the Future - Episode 4 - Double Visions
 NPEB00484 | Eufloria
 NPEB00486 | Rainbow Moon
+NPEB00489 | Nelson Tethers: Puzzle Agent
+NPEB00490 | FirstPlay Episode 057
+NPEB00491 | FirstPlay Episode 054
+NPEB00492 | FirstPlay Episode 060
+NPEB00493 | FirstPlay Episode 059
+NPEB00494 | FirstPlay Episode 058
+NPEB00495 | FirstPlay Episode 052
+NPEB00496 | FirstPlay Episode 055
+NPEB00497 | FirstPlay Episode 051
+NPEB00498 | FirstPlay Episode 053
 NPEB00503 | Mass Effect™ 2
 NPEB00505 | Worms™ Ultimate Mayhem
 NPEB00506 | Split-Second - Velocity
@@ -6723,6 +6983,7 @@ NPEB00531 | Star Raiders
 NPEB00532 | Call of Juarez - Bound in Blood
 NPEB00534 | de Blob 2
 NPEB00540 | Alien Zombie Megadeath
+NPEB00541 | Tiger Woods PGA TOUR® 12: The Masters®
 NPEB00542 | Wrecked: Revenge Revisited
 NPEB00544 | Battle: Los Angeles
 NPEB00545 | Rust Buccaneers
@@ -6743,6 +7004,7 @@ NPEB00561 | Wonder Boy In Monster Land
 NPEB00563 | Castlevania: Harmony of Despair
 NPEB00564 | LIMBO
 NPEB00566 | SkyDrift
+NPEB00567 | Söldner-X 2: Final Prototype Complete Soundtrack
 NPEB00569 | Dragon Age™ II
 NPEB00570 | Twisted Lands: Shadow Town
 NPEB00571 | Dragon Age™ Origins
@@ -6751,7 +7013,15 @@ NPEB00573 | Dragon Age™ Origins
 NPEB00575 | Crysis® HD
 NPEB00576 | Zombie Apocalypse: Never Die Alone
 NPEB00577 | EA SPORTS™ MMA
+NPEB00580 | FirstPlay Episode 061
+NPEB00581 | FirstPlay Episode 063
+NPEB00582 | FirstPlay Episode 064
+NPEB00583 | FirstPlay Episode 062
+NPEB00586 | Sam & Max: Beyond Time and Space - Episode 5 - What's New Beelzebub?
 NPEB00587 | Need For Speed™ Hot Pursuit
+NPEB00588 | Sam & Max: Beyond Time and Space - Episode 2 - Moai Better Blues
+NPEB00589 | Sam & Max: Beyond Time and Space - Episode 4 - Chariots of the Dogs
+NPEB00590 | Sam & Max: Beyond Time and Space - Episode 3 - Night of the Raving Dead
 NPEB00591 | Sam & Max: Beyond Time and Space Episode 1: Ice Station Santa
 NPEB00592 | BACKBREAKER: Vengeance
 NPEB00593 | Wizardry The Labyrinth Of Lost Souls
@@ -6764,16 +7034,20 @@ NPEB00600 | Assassin's Creed Brotherhood ™
 NPEB00601 | Tom Clancy's™ Splinter Cell® Trilogy HD
 NPEB00602 | Mortal Kombat Arcade Kollection
 NPEB00603 | Deep Black
+NPEB00610 | NEOGEO STATION THE KING OF FIGHTERS '95
+NPEB00611 | NEOGEO STATION BASEBALL STARS 2
 NPEB00612 | Red Faction: Armageddon
 NPEB00614 | ARKEDO SERIES - 02 SWAP!
 NPEB00615 | ARKEDO SERIES - 03 PIXEL!
 NPEB00617 | Babel Rising
 NPEB00618 | Need for Speed™ SHIFT 2 UNLEASHED™
+NPEB00619 | Under Siege™ Original Soundtrack
 NPEB00620 | Beat Hazard Ultra
 NPEB00621 | Okabu
 NPEB00622 | Bulletstorm
 NPEB00623 | Bulletstorm
 NPEB00625 | Alice: Madness Returns™
+NPEB00626 | Disney Bolt
 NPEB00630 | Daytona USA
 NPEB00631 | Death Spank: The Baconing
 NPEB00632 | Driver: San Francisco
@@ -6801,8 +7075,12 @@ NPEB00662 | Disney Pixar's Cars 2: The Video Game
 NPEB00668 | Trine™ 2
 NPEB00669 | Rock of Ages
 NPEB00670 | Awesomenauts
+NPEB00671 | Homefront
 NPEB00673 | Red Johnson's Chronicles
+NPEB00675 | James Cameron's AVATAR™: THE GAME
 NPEB00677 | CastleStorm
+NPEB00678 | NEOGEO STATION THE KING OF FIGHTERS '96
+NPEB00679 | NEOGEO STATION WORLD HEROES
 NPEB00681 | Metal Slug 2
 NPEB00682 | NASCAR The Game 2011
 NPEB00683 | BBC iPlayer
@@ -6833,6 +7111,7 @@ NPEB00723 | BATTLEFIELD 3™
 NPEB00724 | BATTLEFIELD: Bad Company 2™
 NPEB00726 | Darksiders
 NPEB00727 | The Simpsons™ Arcade Game
+NPEB00729 | Hasbro Family Game Night 3
 NPEB00730 | FIGHT NIGHT CHAMPION
 NPEB00731 | Call of Duty® Modern Warfare® 2
 NPEB00732 | Call of Duty - Modern Warfare 2
@@ -6844,8 +7123,13 @@ NPEB00751 | Just Cause 2
 NPEB00754 | Real Steel
 NPEB00755 | Doctor Who: The Eternity Clock
 NPEB00756 | Call of Duty®: Black Ops
+NPEB00757 | Call of Duty®: Black Ops
+NPEB00758 | Call of Duty®: Black Ops
+NPEB00759 | Call of Duty®: Black Ops
+NPEB00760 | Call of Duty®: Black Ops
 NPEB00761 | Red Johnson's Chronicles: One Against All
 NPEB00765 | Smash 'n' Survive
+NPEB00766 | Call of Duty®: Black Ops
 NPEB00767 | Shoot Many Robots
 NPEB00768 | AMY
 NPEB00769 | Ion Assault HD
@@ -6858,6 +7142,7 @@ NPEB00776 | Tom Clancy's H.A.W.X 2
 NPEB00777 | DUST 514
 NPEB00778 | Phineas And Ferb: Across The 2nd Dimension
 NPEB00781 | The House Of The Dead Overkill [Extended Cut]
+NPEB00784 | Tour de France 2011
 NPEB00786 | Call of Duty®: Black Ops Zombies Soundtrack Installer
 NPEB00787 | Sonic CD
 NPEB00788 | Splinter Cell - Double Agent
@@ -6865,10 +7150,12 @@ NPEB00791 | Deus Ex: Human Revolution
 NPEB00792 | Deus Ex: Human Revolution
 NPEB00793 | Deus Ex: Human Revolution
 NPEB00794 | Under Siege
+NPEB00795 | Assassin's Creed Embers
 NPEB00800 | Adventures of Tintin, The - The Secret of the Unicorn
 NPEB00801 | Call of Duty ELITE [Console Application]
 NPEB00802 | Assassin's Creed Movie - Embers
 NPEB00809 | Ferrari Challenge Deluxe
+NPEB00810 | Supercar Challenge
 NPEB00811 | Zombie Driver HD
 NPEB00813 | Sonic Generations
 NPEB00814 | Shank™ 2
@@ -6876,8 +7163,10 @@ NPEB00816 | RESIDENT EVIL™ THE DARKSIDE CHRONICLES
 NPEB00817 | RESIDENT EVIL™ THE UMBRELLA CHRONICLES
 NPEB00818 | Rayman® Origins
 NPEB00819 | Magic: The Gathering - Duels of the Planeswalkers 2013
+NPEB00820 | RUGBY CHALLENGE
 NPEB00821 | Pool Nation
 NPEB00822 | FIFA Street
+NPEB00824 | EPISODE 3: THE DEPTHS
 NPEB00826 | Jurassic Park The Game: Episode 1 The Intruder
 NPEB00828 | Duke Nukem Forever
 NPEB00829 | Mafia II
@@ -6930,6 +7219,7 @@ NPEB00888 | Saints Row: The Third
 NPEB00890 | Saints Row: The Third
 NPEB00891 | Unearthed: Trail of Ibn Battuta Episode 1
 NPEB00892 | Tom Clancy's Ghost Recon Future Soldier™
+NPEB00893 | Doc Clock™ : The Toasted Sandwich of Time
 NPEB00894 | Pinball Arcade
 NPEB00895 | Quantum Conundrum
 NPEB00897 | Captain Morgane and the Golden Turtle
@@ -6941,6 +7231,7 @@ NPEB00904 | Anomaly Warzone Earth
 NPEB00905 | London 2012: The Official Video Game of the Olympic Games
 NPEB00906 | Orc Attack: Flatulent Rebellion
 NPEB00907 | Grand Theft Auto Episodes from Liberty City
+NPEB00908 | Clan of Champions
 NPEB00909 | Air Conflicts: Secret Wars
 NPEB00910 | SkullGirls
 NPEB00911 | Zen Pinball 2
@@ -6954,6 +7245,7 @@ NPEB00918 | [PROTOTYPE 2]™
 NPEB00919 | [PROTOTYPE 2]™
 NPEB00920 | [PROTOTYPE 2]™
 NPEB00921 | [PROTOTYPE 2]™
+NPEB00922 | GoldenEye 007™: Reloaded
 NPEB00923 | The Expendables 2 Videogame
 NPEB00924 | Jet Set Radio
 NPEB00925 | MUD: FIM Motocross World Championship
@@ -6968,6 +7260,7 @@ NPEB00947 | BIT.TRIP Presents... RUNNER 2: Future Legend Of Rhythm Alien
 NPEB00948 | Michael Jackson The Experience
 NPEB00949 | Order Up!!
 NPEB00950 | Disney Epic Mickey: The Power of Two
+NPEB00953 | Grease Dance
 NPEB00954 | AXN Sci-Fi
 NPEB00955 | Sony Entertainment Television
 NPEB00956 | JoJo's Bizarre Adventure HD
@@ -6999,13 +7292,19 @@ NPEB00989 | Far Cry® Classic
 NPEB00992 | Hitman: Absolution™
 NPEB00993 | Hitman: Absolution™
 NPEB00995 | Labyrinth Legends
+NPEB00996 | Men In Black: Alien Crisis
 NPEB00997 | The Amazing Spider-Man™
 NPEB00999 | International Snooker
 NPEB01000 | Mix Superstar
+NPEB01001 | ToeJam & Earl
 NPEB01002 | Sniper - Ghost Warrior 2
+NPEB01007 | John Daly's ProStroke Golf
 NPEB01009 | Sniper Elite V2
 NPEB01011 | Get Up And Dance
+NPEB01012 | Everyone Sing
 NPEB01014 | Doom Classic Completec
+NPEB01015 | Psych Yourself
+NPEB01016 | Way of the Samurai 4
 NPEB01017 | 007™ Legends
 NPEB01018 | 007™ Legends
 NPEB01019 | SBK Generations
@@ -7037,6 +7336,7 @@ NPEB01055 | Kingdoms of Amalur: Reckoning
 NPEB01056 | Pid
 NPEB01058 | Dollar Dash
 NPEB01059 | LIGHTS, CAMERA, PARTY!
+NPEB01060 | Ice Age™ 4: Continental Drift: Arctic Games
 NPEB01061 | Ice Age 4 Continental Drift Arctic Games
 NPEB01070 | The King of Fighters XIII
 NPEB01072 | WRC 3 FIA World Rally Championship
@@ -7049,6 +7349,7 @@ NPEB01088 | Alien Rage
 NPEB01089 | Game Of Thrones
 NPEB01093 | Test Drive: Ferrari Racing Legends
 NPEB01094 | Retro/Grade
+NPEB01095 | Dragon Age™: Inquisition
 NPEB01096 | Far Cry® 3
 NPEB01097 | Night into Dreams...
 NPEB01098 | Game of Thrones
@@ -7060,6 +7361,7 @@ NPEB01109 | Papo & Yo
 NPEB01110 | Voodoo Chronicles: The First Sign
 NPEB01111 | Dishonored
 NPEB01112 | Fuse™
+NPEB01113 | Retro/Grade Soundtrack
 NPEB01114 | Oddworld: Munch's Oddysee
 NPEB01119 | Birds of Steel
 NPEB01121 | SSX™
@@ -7079,6 +7381,7 @@ NPEB01138 | Worms Ultimate Mayhem
 NPEB01139 | Worms 2: Armageddon
 NPEB01140 | TEKKEN TAG TOURNAMENT 2
 NPEB01141 | Guacamelee!
+NPEB01142 | Battle Slots RPG
 NPEB01144 | Borderlands™ 2
 NPEB01146 | Dead Space™ 3
 NPEB01149 | Naughty Bear: Panic In Paradise
@@ -7106,6 +7409,8 @@ NPEB01176 | Planets Under Attack
 NPEB01178 | LEGO® Harry Potter™: Years 5-7
 NPEB01179 | LEGO® Harry Potter™: Years 5-7
 NPEB01180 | Darksiders II - Official Soundtrack
+NPEB01181 | DYNASTY WARRIORS: Strikeforce
+NPEB01182 | WARRIORS OROCHI 3
 NPEB01186 | Zone of the Enders HD Collection
 NPEB01187 | RESIDENT EVIL™ Revelations
 NPEB01188 | Devil May Cry HD Collection
@@ -7117,13 +7422,16 @@ NPEB01199 | SkyDive: Proximity Flight
 NPEB01200 | NBA 2K13
 NPEB01201 | Brothers: A Tale Of Two Sons
 NPEB01202 | Demon's Souls
+NPEB01203 | UNDER DEFEAT HD DELUXE EDITION
 NPEB01204 | Call of Duty®: Black Ops II
 NPEB01205 | Call of Duty®: Black Ops II
 NPEB01206 | Call of Duty®: Black Ops II
+NPEB01207 | Call of Duty®: Black Ops II
 NPEB01210 | A-Men 2
 NPEB01212 | Sacred Citadel
 NPEB01213 | Port Royale 3
 NPEB01214 | Call of Juarez® Gunslinger
+NPEB01215 | The Walking Dead : Survival Instinct
 NPEB01216 | Army of TWO™ The Devil's Cartel
 NPEB01217 | Army of TWO™ The Devil's Cartel
 NPEB01218 | Magic: The Gathering - Duels of the Planeswalkers 2014
@@ -7131,7 +7439,9 @@ NPEB01219 | BANG! the Official Video Game
 NPEB01220 | Scourge: Outbreak
 NPEB01221 | Alien Breed
 NPEB01222 | Grid 2
+NPEB01224 | Aliens: Colonial Marines
 NPEB01226 | Sky NowTV [TV]
+NPEB01227 | Watchever
 NPEB01228 | Metal Gear Rising: Revengeance
 NPEB01229 | YouTube
 NPEB01232 | Sonic & All-Stars Racing Transformed™
@@ -7144,16 +7454,22 @@ NPEB01238 | Urban Trial Freestyle
 NPEB01240 | Jetpack Joyride
 NPEB01241 | XCOM: Enemy Unknown
 NPEB01242 | DEFIANCE
+NPEB01243 | Deadpool
 NPEB01244 | Dynasty Warriors 7: Xtreme Legends
 NPEB01245 | Dynasty Warriors 7
+NPEB01246 | ANARCHY REIGNS
 NPEB01247 | Dynasty Warriors 6 Empires
+NPEB01248 | DYNASTY WARRIORS 6
+NPEB01249 | Warriors : Legends of Troy
 NPEB01251 | Champion Jockey: G1 Jockey & Gallop Racer
 NPEB01252 | Bladestorm: The Hundred Years' War
 NPEB01256 | NASCAR The Game: Inside Line
 NPEB01257 | Ninja Gaiden Sigma 2
+NPEB01258 | NINJA GAIDEN 3
 NPEB01259 | QUANTUM THEORY
 NPEB01260 | Star Wars Pinball
 NPEB01262 | Atelier Ayesha ~The Alchemist of Dusk~
+NPEB01263 | DYNASTY WARRIORS 7 Empires
 NPEB01267 | The Lord of the Rings: War in the North
 NPEB01268 | Dragon's Dogma: Dark Arisen
 NPEB01269 | Strength Of The Sword 3
@@ -7181,10 +7497,13 @@ NPEB01300 | God Mode
 NPEB01301 | Mars War Logs
 NPEB01302 | Demolition Inc.
 NPEB01303 | Battlefield 4
+NPEB01304 | The Walking Dead : Survival Instinct
 NPEB01306 | Q.U.B.E Director's Cut
+NPEB01307 | Ridge Racer™ Driftopia
 NPEB01308 | Hunter's Trophy 2: Australia
 NPEB01309 | Hunter's Trophy 2: America
 NPEB01310 | Tales of Xillia
+NPEB01311 | Legends of War
 NPEB01312 | Cloudberry Kingdom
 NPEB01313 | Knytt Underground
 NPEB01316 | Superfrog HD
@@ -7197,6 +7516,8 @@ NPEB01324 | WRC Powerslide
 NPEB01325 | Injustice: Gods Among Us
 NPEB01327 | Ninja Gaiden 3 Razor's Edge
 NPEB01328 | The Last Bounty Hunter
+NPEB01329 | Do Not Fall
+NPEB01330 | CASTLE OF ILLUSION (PSN PROMOTION)
 NPEB01331 | Le Tour De France 2013
 NPEB01332 | Farming Simulator
 NPEB01334 | Time and Eternity
@@ -7204,6 +7525,7 @@ NPEB01335 | Dead Island: Riptide
 NPEB01336 | Earth Defense Force 2025
 NPEB01337 | Thomas was Alone
 NPEB01338 | Giana Sisters: Twisted Dreams
+NPEB01339 | Turbo: Super Stunt Squad
 NPEB01340 | NHL™ 14
 NPEB01341 | Hotline Miami
 NPEB01342 | Grid 2
@@ -7230,10 +7552,12 @@ NPEB01373 | Narco Terror
 NPEB01374 | Sanctum 2
 NPEB01375 | Fast & Furious™: Showdown
 NPEB01376 | Ride to Hell: Retribution
+NPEB01377 | Fast & Furious™: Showdown
 NPEB01378 | LEGO® MARVEL Super Heroes
 NPEB01379 | Tom Clancy's Splinter Cell - Blacklist
 NPEB01380 | Thunder Wolves
 NPEB01381 | WRC 4 FIA World Rally Championship
+NPEB01382 | AFL Live 2
 NPEB01383 | MotoGP™ 13
 NPEB01384 | FIFA 14
 NPEB01386 | Assassin's Creed®: Liberation HD
@@ -7248,8 +7572,11 @@ NPEB01394 | Zombeer
 NPEB01395 | R.I.P.D. Rest In Peace Department - The Game
 NPEB01396 | Assassin's Creed® IV Black Flag
 NPEB01397 | 4K Gallery
+NPEB01398 | 4K Gallery - 4K-Galerie -
+NPEB01399 | 4K Gallery - Галерея 4K -
 NPEB01400 | Arcania: The Complete Tale
 NPEB01401 | Arcania The Complete Tale
+NPEB01402 | ArcaniA
 NPEB01404 | Saints Row IV
 NPEB01405 | Saints Row IV
 NPEB01406 | TEKKEN REVOLUTION
@@ -7258,6 +7585,7 @@ NPEB01408 | Yaiba Ninja Gaiden Z
 NPEB01409 | Final Exam
 NPEB01410 | Ibb & Obb
 NPEB01412 | Need for Speed™ Rivals
+NPEB01413 | Painkiller Hell & Damnation
 NPEB01414 | Batman: Arkham Origins™
 NPEB01416 | The Smurfs 2
 NPEB01417 | Flashback HD
@@ -7270,6 +7598,7 @@ NPEB01425 | Teenage Mutant Ninja Turtles™: Out Of The Shadows
 NPEB01426 | Shake Spears!
 NPEB01427 | CASTLE OF ILLUSION: Starring Mickey Mouse
 NPEB01428 | Armored Core™: Verdict Day™
+NPEB01429 | RTBF
 NPEB01430 | TVN Player
 NPEB01432 | Murdered: Soul Suspect™
 NPEB01433 | WATCH_DOGS™
@@ -7280,6 +7609,8 @@ NPEB01438 | BEN 10 OMNIVERSE™ 2
 NPEB01439 | Ultra Street Fighter IV
 NPEB01440 | PAC-MAN™ and the Ghostly Adventures
 NPEB01441 | Castlevania: Lords of Shadow Mirror Of Fate HD
+NPEB01443 | Zone of the Enders HD Edition (Stand-Alone Version)
+NPEB01444 | Zone of the Enders: the 2nd Runner HD Edition (Stand-Alone Version)
 NPEB01784 | PAYDAY 2
 NPEB01785 | Cabela's® Big Game Hunter Pro Hunts
 NPEB01786 | DEAD OR ALIVE 5 Last Round
@@ -7288,6 +7619,7 @@ NPEB01789 | Wolfenstein®: The New Order
 NPEB01791 | F1 2013™
 NPEB01792 | Street Fighter X Tekken
 NPEB01793 | SpongeBob SquarePants Planktons Robotic Revenge
+NPEB01794 | Губка Боб Квадратные Штаны: Планктон Месть роботов
 NPEB01795 | One Piece: Pirate Warriors 2
 NPEB01796 | Divekick
 NPEB01797 | The Evil Within
@@ -7317,18 +7649,22 @@ NPEB01831 | TuneIn Radio
 NPEB01832 | Call of Duty® Ghosts
 NPEB01835 | Call of Duty® Ghosts [RUS/POL]
 NPEB01836 | Dragon's Crown
+NPEB01837 | Motorbike
 NPEB01838 | Truck Racer
 NPEB01839 | ACE COMBAT® INFINITY
 NPEB01841 | Bound by Flame
 NPEB01842 | Saints Row IV
 NPEB01843 | Just Dance® 2014
 NPEB01844 | Anna [Extended Edition]
+NPEB01846 | Rugby League Live 2 - World Cup Edition
 NPEB01847 | Blinkbox
 NPEB01848 | TotalChannel
+NPEB01851 | Wolfenstein: The New Order
 NPEB01852 | Rainbow Skies
 NPEB01853 | Dark Souls™ II
 NPEB01854 | ENSLAVED™: Odyssey to the West™ [Premium Edition]
 NPEB01855 | Kung Fu Rabbit
+NPEB01856 | Angry Birds Star Wars
 NPEB01857 | Adventure Time: Explore the Dungeon Because I DON'T KNOW!
 NPEB01858 | Tales of Xillia 2
 NPEB01859 | RAMBO THE VIDEO GAME
@@ -7341,9 +7677,13 @@ NPEB01865 | Cabela's® African Adventures
 NPEB01866 | Super Motherload
 NPEB01871 | Treasures of Montezuma: Arena
 NPEB01872 | Aabs Animals
+NPEB01873 | Ethan: Meteor Hunter
+NPEB01874 | The Voice of Germany Volume 2
 NPEB01875 | Vessel
+NPEB01876 | Adam's Venture: Chronicles - Soundtrack
 NPEB01878 | Dustforce
 NPEB01879 | Injustice: Gods Among Us [Ultimate Edition]
+NPEB01880 | Dead Island Riptide Complete Edition
 NPEB01881 | The Wolf Among Us
 NPEB01882 | Duke Nukem Megaton Edition
 NPEB01883 | Tiny Brains
@@ -7361,6 +7701,7 @@ NPEB01898 | Hyperdimension Neptunia Victory
 NPEB01899 | Minecraft: PlayStation®3 Edition
 NPEB01900 | NASCAR 14
 NPEB01901 | Blood Knights
+NPEB01902 | Tales from Space: Mutant Blobs Attack - OST
 NPEB01903 | Velocity Ultra
 NPEB01904 | Best of Board Games
 NPEB01905 | SNIPER ELITE 3
@@ -7377,6 +7718,7 @@ NPEB01919 | Now TV [TV]
 NPEB01920 | FILMBOX LIVE
 NPEB01921 | Alien: Isolation™
 NPEB01922 | JoJo's Bizarre Adventure: All Star Battle
+NPEB01923 | Guacamelee! - OST
 NPEB01924 | Forest Legends: The Call of Love
 NPEB01925 | FILMO TV
 NPEB01926 | Ragnarok Odyssey ACE
@@ -7388,17 +7730,24 @@ NPEB01932 | BloodBath
 NPEB01933 | Masquerade: The Baubles Of Doom
 NPEB01934 | Child Of Light
 NPEB01936 | The Amazing Spider-Man 2™
+NPEB01937 | The Amazing Spider-Man 2™
 NPEB01938 | MotoGP 13 Compact
 NPEB01940 | The Swapper
 NPEB01941 | GAME ONE
+NPEB01943 | Young Justice: Legacy
+NPEB01944 | Toki Tori - Soundtrack
 NPEB01945 | Atelier Escha & Logy ~Alchemists of the Dusk Sky~
 NPEB01946 | IHF Handball Challenge 14
 NPEB01947 | EA SPORTS™ 2014 FIFA World Cup Brazil™
 NPEB01950 | Slender: The Arrival
+NPEB01951 | Jet Car Stunts
 NPEB01952 | MotoGP™ 14
 NPEB01953 | Deception IV: Blood Ties
 NPEB01954 | LEGO® The Hobbit™
+NPEB01955 | Metro: Last Light Complete Edition
 NPEB01956 | TV2 Sumo
+NPEB01957 | Titan Attacks!
+NPEB01958 | Ultratron
 NPEB01959 | Sherlock Holmes: Crimes and Punishments
 NPEB01960 | South Park™: The Stick of Truth [DE]
 NPEB01961 | South Park™: The Stick of Truth [AU]
@@ -7410,25 +7759,31 @@ NPEB01968 | Batman: Arkham Origins Blackgate Deluxe
 NPEB01969 | Short Peace: Ranko Tsukigime's Longest Day
 NPEB01970 | Dynasty Warriors 8 Xtreme Legends (Shin Sangoku Musou 7 with Moushouden)
 NPEB01971 | SingOn
+NPEB01972 | Five Star Wrestling
 NPEB01973 | Infinity
+NPEB01974 | Pathé Thuis
 NPEB01975 | Risen 3: Titan Lords
 NPEB01976 | Syberia
 NPEB01977 | Middle-earth™: Shadow of Mordor™
 NPEB01978 | BlazBlue: Chrono Phantasma
 NPEB01979 | Assassin's Creed®: Freedom Cry
 NPEB01980 | Tales from the Borderlands - Episode 1 - Zer0 Sum
+NPEB01981 | FARCRY CLASSIC
 NPEB01982 | Far Cry® 4
 NPEB01985 | Might & Magic: Duel of Champions Forgotten Wars
 NPEB01986 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM Revolution
 NPEB01987 | Skai
 NPEB01989 | SkullGirls Encore
 NPEB01990 | Multiplayer.it
+NPEB01993 | TRANSFORMERS: Rise of the Dark Spark
 NPEB01995 | ONE PIECE Unlimited World Red
 NPEB01996 | Sportsfriends
 NPEB01997 | Plants vs. Zombies: Garden Warfare
 NPEB01998 | Mugen Souls Z [Attouteki Yuugi: Mugen Souls Z]
 NPEB01999 | Fairy Fencer F
+NPEB02000 | Starlight Inception
 NPEB02001 | Battle Princess of Arcadia
+NPEB02002 | fuso
 NPEB02003 | FOXTEL Play
 NPEB02004 | Sacred 3
 NPEB02006 | Escape Dead Island
@@ -7438,6 +7793,7 @@ NPEB02009 | Tiny Troopers - Joint Ops
 NPEB02010 | Yu-Gi-Oh! Millennium Duels
 NPEB02011 | Yaiba - Ninja Gaiden Z
 NPEB02013 | Hatsune Miku: Project Diva F 2nd
+NPEB02014 | METAL GEAR SOLID V: THE PHANTOM PAIN TRAILER EXPORTER
 NPEB02016 | Syberia 2
 NPEB02017 | Alien Shooter
 NPEB02018 | Madden NFL 15
@@ -7446,12 +7802,15 @@ NPEB02020 | Enemy Front
 NPEB02021 | Destiny™
 NPEB02022 | MX vs ATV Supercross
 NPEB02023 | LEGO® Batman™ 3: Beyond Gotham
+NPEB02024 | Constant C
+NPEB02025 | The Treasures of Montezuma 4
 NPEB02026 | Diablo III: Reaper of Souls (Ultimate Evil Edition)
 NPEB02027 | Diablo III: Reaper of Souls (Ultimate Evil Edition)
 NPEB02029 | Invokers Tournament™
 NPEB02030 | NHL® 15
 NPEB02032 | Another World: 20th ANNIVERSARY EDITION
 NPEB02033 | GRID Autosport
+NPEB02034 | YAKUZA: DEAD SOULS
 NPEB02036 | YAKUZA 4
 NPEB02037 | Rogue Legacy
 NPEB02038 | BATTLEFIELD™ HARDLINE
@@ -7474,13 +7833,20 @@ NPEB02064 | Assassin's Creed®: Rogue [Templar Edition]
 NPEB02065 | Assassin's Creed®: Rogue
 NPEB02066 | Chariot
 NPEB02067 | Adventure Time: The Secret of the Nameless Kingdom
+NPEB02068 | Disney Infinity [2.0]
+NPEB02069 | Disney Infinity [2.0]
+NPEB02070 | Disney Infinity [2.0]
+NPEB02072 | NBA 2K15
 NPEB02076 | RESIDENT EVIL™ HD Remaster
 NPEB02077 | OlliOlli
 NPEB02078 | Digimon All-Star Rumble
 NPEB02079 | WWE 2K15
 NPEB02080 | ClanTV
+NPEB02081 | Geometry Wars³: Dimensions
+NPEB02082 | The Legend of Korra
 NPEB02083 | Duck Dynasty
 NPEB02084 | Teenage Mutant Ninja Turtles™: Danger of the Ooze
+NPEB02085 | HEAVY FIRE SHATTERED SPEAR
 NPEB02086 | Toybox Turbos
 NPEB02087 | Call Of Duty®: Advanced Warfare
 NPEB02088 | Call Of Duty®: Advanced Warfare
@@ -7492,9 +7858,15 @@ NPEB02094 | F1® 2014
 NPEB02096 | Dragon Fin Soup
 NPEB02097 | Destiny™
 NPEB02100 | Deadfall Adventures: Heart of Atlantis
+NPEB02101 | Assassin's Creed® Liberation HD
 NPEB02102 | Eiyuu Senki: The World Conquest
+NPEB02103 | RISK
+NPEB02106 | Rugby 15
 NPEB02108 | Ar nosurge: Ode to an Unborn Star
 NPEB02109 | PES 2015: Pro Evolution Soccer
+NPEB02111 | MONOPOLY DEAL
+NPEB02113 | LOS 40 PRINCIPALES: KARAOKE PARTY
+NPEB02114 | La Voz Vol. 2
 NPEB02115 | Chivalry - Medieval Warfare
 NPEB02117 | WWE Network
 NPEB02118 | King Oddball
@@ -7510,10 +7882,15 @@ NPEB02128 | RESIDENT EVIL™ Revelations 2
 NPEB02130 | JuJu
 NPEB02133 | Aaru's Awakening
 NPEB02135 | Yomvi
+NPEB02136 | NRK Super
+NPEB02137 | NRK TV
+NPEB02138 | Disney Infinity [2.0]
 NPEB02139 | F1® 2014
 NPEB02140 | Metal Gear Solid V: The Phantom Pain
+NPEB02142 | Motorcycle Club
 NPEB02143 | Legend of Kay: Anniversary
 NPEB02145 | Snark Busters: High Society
+NPEB02147 | Tokyo Twilight Ghost Hunters
 NPEB02149 | MUBI
 NPEB02150 | Unmechanical: Extended
 NPEB02151 | Farming Simulator 15
@@ -7521,19 +7898,27 @@ NPEB02152 | Short Peace
 NPEB02153 | TV from Sky
 NPEB02156 | Being Sport
 NPEB02158 | Jetpack Joyride Deluxe
+NPEB02159 | Tears to Tiara II Heir of the Overlord
 NPEB02160 | In Space We Brawl
 NPEB02161 | PLUS7
 NPEB02162 | BADLAND: Game of the Year Edition
 NPEB02163 | Costume Quest 2
 NPEB02164 | A BOY AND HIS BLOB
+NPEB02166 | TV3
+NPEB02171 | Frozen Synapse Prime Sound Track
 NPEB02172 | Q-bert - Rebooted
 NPEB02173 | Tennis in the Face
+NPEB02174 | Retro City Rampage™ DX
 NPEB02176 | Persona 4 Arena Ultimax
+NPEB02177 | Arcana Heart 3 LOVE MAX!!!!!
 NPEB02178 | Under Night In-Birth Exe - Late
+NPEB02179 | The Awakened Fate Ultimatum
 NPEB02181 | STEALTH INC. 2 A Game of Clones
 NPEB02182 | Metal Gear Solid 4: Guns of the Patriots
 NPEB02183 | Game of Thrones: A Telltale Games Series
 NPEB02187 | ICFLIX®
+NPEB02188 | Pier Solar and the Great Architects
+NPEB02189 | Plush
 NPEB02190 | Cosmophony
 NPEB02193 | MXGP - The Official Motocross Videogame Compact
 NPEB02194 | MotoGP™ 14: Compact
@@ -7541,29 +7926,38 @@ NPEB02196 | LEGO® Jurassic World
 NPEB02197 | Life Is Strange™ - Episode 1 - Chrysalis
 NPEB02198 | RIDE™
 NPEB02199 | Tower of Guns
+NPEB02201 | DYNASTY WARRIORS 8 Empires
 NPEB02202 | Dark Souls™ II Scholar of the First Sin
 NPEB02203 | DEAD OR ALIVE 5 Last Round
 NPEB02204 | J-Stars Victory VS+
 NPEB02205 | ABC iView
 NPEB02209 | Madden NFL 16
+NPEB02210 | BLOCKBUSTER
 NPEB02211 | One Piece: Pirate Warriors 3 [One Piece Kaizoku Musou 3]
 NPEB02212 | VEVO
+NPEB02213 | Lightbox
 NPEB02214 | Plex
+NPEB02218 | Videoland
 NPEB02220 | Steins;Gate
 NPEB02221 | Atelier Shallie ~Alchemists of the Dusk Sea~
 NPEB02222 | Spotify
 NPEB02223 | Kung Fu Panda® Showdown Of Legendary Legends
+NPEB02224 | Sniper Elite 3 Ultimate Edition
 NPEB02225 | Paranormal Pursuit: The Gifted One Collector's Edition
 NPEB02226 | RESIDENT EVIL 0 HD
 NPEB02227 | Sparkle Unleashed
 NPEB02228 | YAKUZA 5 [Ryu ga Gotoku 5: Yume, Kanaeshi Mono]
 NPEB02228 | Yakuza 5
+NPEB02230 | Disney Infinity 3.0
+NPEB02231 | Disney Infinity 3.0
 NPEB02234 | Adventure Time: Finn and Jake Investigations
 NPEB02235 | Tales of Zestiria
 NPEB02236 | Dynasty Warriors 8 - Empires - Free Alliances Version
 NPEB02237 | NHL Legacy Edition
 NPEB02239 | Extreme Exorcism
 NPEB02241 | OCS
+NPEB02242 | BLADESTORM: Nightmare
+NPEB02244 | Space Hulk
 NPEB02245 | Weird Park: The Final Show
 NPEB02246 | Teenage Mutant Ninja Turtles™: Mutants in Manhattan
 NPEB02248 | Shovel Knight
@@ -7571,28 +7965,48 @@ NPEB02250 | XBLAZE Code: Embryo
 NPEB02251 | Starwhal
 NPEB02252 | Metal Slug 3
 NPEB02256 | The Book Of Unwritten Tales 2
+NPEB02257 | NOBUNAGA'S AMBITION: Sphere of Influence
 NPEB02258 | FIFA 16
+NPEB02259 | MotoGP™15
+NPEB02260 | FIFA 16
+NPEB02261 | GODZILLA
+NPEB02263 | du View
 NPEB02265 | WRC 5 - FIA World Rally Championship
 NPEB02266 | Call Of Duty®: Black Ops III
 NPEB02268 | Call Of Duty®: Black Ops III
 NPEB02269 | RISK: URBAN ASSAULT
 NPEB02270 | LEGO® MARVEL's Avengers
+NPEB02272 | Far Cry® 4 (MENA)
+NPEB02274 | Skylanders™ SuperChargers
+NPEB02275 | Tour de France 2015
+NPEB02276 | Rugby World Cup 2015
 NPEB02278 | Mighty No. 9
 NPEB02281 | Handball 16
 NPEB02282 | The Swindle
+NPEB02283 | Just Dance® 2016
+NPEB02284 | Super Mega Baseball
 NPEB02285 | NOVA-111
 NPEB02287 | Hyper Void
 NPEB02288 | Frozen Free Fall: Snowball Fight
+NPEB02290 | Quiplash
 NPEB02291 | Saint Seiya: Soldiers' Soul
 NPEB02292 | HBO Nordic
+NPEB02293 | World Hunter
 NPEB02294 | Minecraft: Story Mode
 NPEB02295 | Top Trumps Turbo
+NPEB02296 | TVNZ OnDemand
 NPEB02299 | Pumped BMX+
 NPEB02300 | Back to Bed
 NPEB02301 | King's Quest: Chapter 1
+NPEB02302 | Rugby League Live 3
+NPEB02303 | RUGBY CHALLENGE 3
 NPEB02305 | PES 2016: Pro Evolution Soccer
+NPEB02306 | Barbie and Her Sisters Puppy Rescue (Digital)
 NPEB02307 | Crunchyroll
 NPEB02308 | Monster Jam Battlegrounds
+NPEB02309 | Goosebumps: The Game
+NPEB02310 | DRTV
+NPEB02311 | The Jackbox Party Pack
 NPEB02312 | WWE 2K16
 NPEB02313 | NBA 2K16
 NPEB02315 | Doodle Devil
@@ -7601,15 +8015,25 @@ NPEB02319 | Tony Hawk's Pro Skater 5
 NPEB02321 | Goat Simulator
 NPEB02323 | Adam's Venture Chronicles
 NPEB02324 | Samurai Warriors 4-II
+NPEB02325 | Deception IV: The Nightmare Princess
+NPEB02326 | LOST DIMENSION
 NPEB02327 | Sky Force Anniversary
+NPEB02328 | Monster High - New Ghoul in School (Digital)
+NPEB02331 | J-Stars Digital Compendium
 NPEB02332 | Level 22: Gary's Misadventures
+NPEB02333 | NOS
+NPEB02334 | River City Super Sports Challenge
 NPEB02335 | Transformers - Devastation
+NPEB02336 | Los 40 Principales: Karaoke Party VOL 2
 NPEB02338 | YLE Areena - Watch and Listen to YLE's Programs When You Like
 NPEB02339 | Sky Ticket
+NPEB02344 | Dansk Filmskat
 NPEB02345 | Min Kino PS3
 NPEB02346 | NEVER ALONE: Kisima Ingitchuna
+NPEB02348 | Marvel Puzzle Quest
 NPEB02349 | The Bridge
 NPEB02350 | YuppTV
+NPEB02351 | BLAZBLUE CHRONOPHANTASMA EXTEND
 NPEB02353 | Legend of Heroes, The: Trails of Cold Steel
 NPEB02357 | AnimeLab
 NPEB02358 | LEGO® Star Wars: The Force Awakens
@@ -7622,23 +8046,46 @@ NPEB02365 | Attack on Titan: Wings of Freedom
 NPEB02366 | PES 2016: Pro Evolution Soccer
 NPEB02369 | Grand Theft Auto San Andreas
 NPEB02372 | Presto
+NPEB02373 | Okko Movies HD
+NPEB02375 | Premium Online
+NPEB02376 | SAMURAI WARRIORS 4 Empires
+NPEB02377 | ARSLAN: THE WARRIORS OF LEGEND
+NPEB02378 | Premium Play
+NPEB02382 | NITROPLUS BLASTERZ -HEROINES INFINITE DUEL-
+NPEB02388 | Spider-Man™: Shattered Dimensions
 NPEB02389 | The Walking Dead: Michonne - Episode 1 - In Too Deep
 NPEB02390 | Madden NFL 17
+NPEB02391 | DAZN
+NPEB02396 | Aegis of Earth: Protonovus Assault
+NPEB02397 | NLziet
 NPEB02398 | Amplitude
+NPEB02401 | UEFA EURO 2016 / PES 2016
 NPEB02402 | BlazBlue: Central Fiction
+NPEB02403 | Krinkle Krusher
 NPEB02404 | Just Dance® 2017
+NPEB02406 | Guilty Gear Xrd -Revelator-
 NPEB02408 | FIFA 17
+NPEB02409 | FIFA 17
 NPEB02410 | FunimationNow
+NPEB02412 | Film1
+NPEB02413 | Mafia II
 NPEB02415 | PES 2017: Pro Evolution Soccer
 NPEB02416 | XBlaze - Lost Memories
 NPEB02417 | WWE 2K17
 NPEB02418 | Filmin        
+NPEB02419 | HollyStar
+NPEB02421 | Odin Sphere Leifthrasir
+NPEB02422 | NBA 2K17
+NPEB02424 | STARZ Play
+NPEB02425 | HANDBALL 17
 NPEB02426 | Batman - The Telltale Series - Episode 1 - Realm of Shadows
 NPEB02427 | francetv sport
 NPEB02428 | Barnanza
+NPEB02429 | THE LEGEND OF HEROES: TRAILS OF COLD STEEL II
 NPEB02431 | Tokyo Twilight Ghost Hunters Daybreak - Special Gigs
 NPEB02436 | Persona 5
 NPEB02438 | PES 2017: Pro Evolution Soccer
+NPEB02440 | #KILLALLZOMBIES
 NPEB02441 | Cars 3 - Driven to Win
 NPEB02443 | Steredenn
 NPEB02455 | Red Bull TV - Live Sports
@@ -7959,8 +8406,12 @@ NPEB90504 | MotoGP 13
 NPEB90505 | Rayman® Legends [Demo]
 NPEB90506 | FIFA 14 [Demo]
 NPEB90508 | Diablo III
+NPEB90509 | Démo de Diablo III
+NPEB90510 | Demo di Diablo III
 NPEB90511 | Diablo III
 NPEB90512 | Diablo III
+NPEB90513 | Diablo III: демо-версия
+NPEB90514 | Wersja demonstracyjna Diablo III
 NPEB90515 | PES 2014: Pro Evolution Soccer [Demo]
 NPEB90516 | Castlevania - Lords of Shadow 2
 NPEB90517 | Dragon Ball Z: Battle of Z
@@ -7976,9 +8427,13 @@ NPEB90527 | Ethan: Meteor Hunter
 NPEB90528 | EA SPORTS™ 2014 FIFA World Cup Brazil™ [Demo]
 NPEB90529 | JoJo's Bizarre Adventure - All-Star Battle
 NPEB90530 | MXGP - The Official Motocross Videogame
+NPEB90533 | EA SPORTS™ 2014 FIFA World Cup Brazil™ Demo
+NPEB90534 | Call of Duty® Ghosts - Demo
 NPEB90537 | LEGO Batman 3 - Beyond Gotham
 NPEB90541 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM Revolution [Demo]
 NPEB90542 | FIFA 15
+NPEB90543 | FIFA 15 Kiosk Demo
+NPEB90544 | MotoGP™14 Demo
 NPEB90552 | PES 2015: Pro Evolution Soccer
 NPEB90553 | Destiny
 NPEB90554 | LEGO Jurassic World
@@ -8671,22 +9126,35 @@ NPHA00001 | Gran Turismo HD Concept
 NPHA20002 | Ratchet & Clank™: Tools of Destruction [Demo]
 NPHA20003 | Heavenly Sword Nariko [Demo]
 NPHA70006 | Qook TV (MegaTV)
+NPHA70011 | MAG™ Beta
 NPHA80001 | Go! Sudoku
 NPHA80002 | Warhawk™
 NPHA80003 | SUPER STARDUST™ HD [Demo]
+NPHA80004 | BuuBuu Cocoreccho!™
 NPHA80006 | Bacterius Starter Pack [Demo]
+NPHA80007 | Go! Sports Ski
 NPHA80009 | Piyotama
+NPHA80010 | Mesmerize™
+NPHA80011 | Tori-Emaki™
 NPHA80020 | Folklore™ / FolksSoul [Demo]
 NPHA80025 | Gran Turismo Prologue 5
+NPHA80026 | Go! Sports Skydiving
+NPHA80027 | Snakeline™
 NPHA80029 | TOY HOME™
 NPHA80030 | Dark Mist
 NPHA80031 | EyeCreate
+NPHA80032 | Operation Creature Feature™
+NPHA80033 | The Trials Of Topoq™
+NPHA80034 | Aqua Vita™
 NPHA80035 | Pain - Fun with Explosives
 NPHA80038 | Elefunk™
 NPHA80039 | WipEout® HD
+NPHA80040 | echochrome primal 無限回廊序曲
 NPHA80041 | echochrome
 NPHA80043 | Lair
 NPHA80044 | The Last Guy™
+NPHA80045 | GranTurismo
+NPHA80046 | Ratchet & Clank® Future: Quest for Booty™
 NPHA80047 | SOCOM: Confrontation
 NPHA80049 | Super Rub'a'Dub™
 NPHA80050 | The Last Guy™ [Demo]
@@ -8697,6 +9165,9 @@ NPHA80056 | Savage Moon™
 NPHA80057 | Everybody's Putter Golf with TORO
 NPHA80058 | Trash Box
 NPHA80060 | Killzone®2 [Demo]
+NPHA80062 | Flower
+NPHA80063 | Linger In Shadows™
+NPHA80064 | NUMBLAST™
 NPHA80066 | Fat Princess
 NPHA80067 | LittleBigPlanet™ [Demo]
 NPHA80068 | inFamous [Demo]
@@ -8715,11 +9186,14 @@ NPHA80086 | HEAVY RAIN™
 NPHA80086 | HEAVY RAIN™ [Demo]
 NPHA80089 | Flower
 NPHA80092 | LittleBigPlanet™
+NPHA80093 | Sackboy's Prehistoric Moves™
 NPHA80094 | Sports Champions™ [Demo]
 NPHA80100 | Kung Fu Rider
 NPHA80101 | Echochrome II
 NPHA80102 | echochrome™ ii
 NPHA80103 | inFamous
+NPHA80104 | God of War® HD
+NPHA80105 | God of War® II HD
 NPHA80106 | TV Superstars™ [Demo]
 NPHA80109 | The Shoot
 NPHA80113 | LittleBigPlanet™ 2
@@ -8727,9 +9201,12 @@ NPHA80114 | Tumble [Move]
 NPHA80115 | Dead Nation
 NPHA80117 | MAG™ [Beta]
 NPHA80118 | HEAVY RAIN™ Move Edition
+NPHA80120 | High Velocity Bowling™
 NPHA80122 | EyePet - Move Edition
 NPHA80124 | PlayMemories™
 NPHA80125 | LittleBigPlanet™ 2
+NPHA80126 | Beat Sketch !™
+NPHA80127 | EyePet™ Move Edition
 NPHA80128 | MAG
 NPHA80132 | LittleBigPlanet™ 2
 NPHA80133 | PlayStation®Move Heroes [Demo]
@@ -8738,34 +9215,64 @@ NPHA80137 | Eat Them!
 NPHA80138 | Starhawk
 NPHA80140 | Killzone®3 [Single Player Demo]
 NPHA80141 | Killzone®3 [Single Player Demo]
+NPHA80142 | Killzone™3 Open Beta
+NPHA80143 | Killzone®3 : The Official Soundtrack
 NPHA80146 | God of War: Chains of Olympus
 NPHA80147 | God of War: Ghost of Sparta
 NPHA80148 | MotorStorm 3
+NPHA80150 | MOTORSTORM™3: APOCALYPSE Multiplayer Demo
 NPHA80153 | Resistance 3 [Demo]
 NPHA80154 | inFamous 2
+NPHA80155 | Infamous 2: The Red Soundtrack
 NPHA80157 | inFamous 2
+NPHA80158 | Uncharted 3: Drake's Deception™ Beta
 NPHA80160 | Medieval Moves: Deadmund's Quest™ [Demo]
 NPHA80161 | LittleBigPlanet™ 2
 NPHA80163 | LittleBigPlanet™ 2
 NPHA80164 | Carnival Island
+NPHA80165 | MOTORSTORM™3: APOCALYPSE Digital Edition
 NPHA80166 | God of War® Origins Collection
 NPHA80172 | inFamous - Festival of Blood
+NPHA80179 | Jak and Daxter: The Precursor Legacy™
+NPHA80180 | Jak II™
+NPHA80181 | Jak 3™
 NPHA80186 | Move Fitness [Demo]
+NPHA80187 | Datura
 NPHA80188 | Journey™
 NPHA80190 | MotorStorm RC
+NPHA80192 | Carnival Island (Digital)
+NPHA80193 | Uncharted: Drake's Fortune™ 1.02
+NPHA80194 | Uncharted 2: Among Thieves™ 1.10
 NPHA80199 | Start the Party! 2 - Save The World
+NPHA80200 | PlayMemories Studio™
+NPHA80201 | MOVE FITNESS™ DIGITAL (NPHA80201)
 NPHA80203 | Tokyo Jungle
 NPHA80206 | The Last of Us (Demo)
 NPHA80210 | Sound Shapes™
 NPHA80211 | Sound Shapes
+NPHA80213 | PlayMemories™ 4K edition
+NPHA80214 | GT Academy 2012
+NPHA80216 | Journey™: Original Soundtrack from the Video Game
+NPHA80218 | Sorcery™
+NPHA80219 | Starhawk (Original Soundtrack from the Video Game)
 NPHA80222 | Sorcery
+NPHA80223 | Starhawk™ (Digital Download)
+NPHA80225 | Starhawk™ (Multiplayer Edition)
+NPHA80226 | Starhawk™ (Solo Campaign)
+NPHA80228 | Sports Champions™ 2
 NPHA80229 | Sports Champions 2
+NPHA80231 | PlayStation® All-Stars Battle Royale
 NPHA80239 | LittleBigPlanet Karting
 NPHA80240 | When Vikings Attack!
+NPHA80243 | The Last of Us™
+NPHA80245 | God of War: Ascension™ (Original Soundtrack)
 NPHA80246 | Last of Us, The
+NPHA80248 | Everybody's Golf™ 6
+NPHA80251 | God of War: Ascension™ "Prison of the Damned" Demo
 NPHA80252 | MLB.TV®
 NPHA80258 | God of War® Ascension
 NPHA80259 | Gran Turismo®6 [Demo] [GT Academy 2013]
+NPHA80262 | The Last of Us™ (Original Soundtrack)
 NPHA80263 | Puppeteer
 NPHA80264 | rain™
 NPHA80265 | Beyond: Two Souls™ [Demo]
@@ -8773,12 +9280,17 @@ NPHA80269 | Gran Turismo 6
 NPHA80272 | NBA Game Time App
 NPHA80275 | HELLDIVERS™
 NPHA80277 | LittleBigPlanet™ 3
+NPHB00008 | TEKKEN®5 DARK RESURRECTION ONLINE
 NPHB00009 | Super Puzzle Fighter 2 Turbo HD Remix [Demo]
 NPHB00010 | High Stakes On The Vegas Strip: Poker Edition
 NPHB00011 | PixelJunk™ Racers [Demo]
 NPHB00012 | Rocketmen: Axis of Evil
 NPHB00014 | SEGA Rally™ Revo [Demo]
+NPHB00015 | Stuntman: Ignition Demo
+NPHB00016 | Juiced 2 : Hot Import Nights : Demo
 NPHB00017 | Stranglehold, John Woo Presents [Demo]
+NPHB00018 | MX vs. ATV: Untamed Demo
+NPHB00024 | Conan
 NPHB00025 | PixelJunk™ Monsters [Demo]
 NPHB00026 | Burnout™ Paradise [Demo]
 NPHB00027 | Devil May Cry 4 [Demo]
@@ -8789,8 +9301,12 @@ NPHB00035 | Battle Fantasia [Demo]
 NPHB00036 | Fatal Inertia EX [Demo]
 NPHB00038 | PixelJunk™ Eden
 NPHB00040 | Wolf Of The Battlefield: Commando 3
+NPHB00041 | Wolf of the Battlefield: Commando 3
 NPHB00042 | 1942: Joint Strike [Demo]
+NPHB00043 | 1942: Joint Strike
+NPHB00044 | NovaStrike
 NPHB00045 | FIFA 09 [Demo]
+NPHB00046 | PixelJunk® Monsters Soundtrack
 NPHB00047 | Fracture
 NPHB00048 | Mega Man 9/Rockman 9
 NPHB00049 | Namco Museum Beta for Home
@@ -8799,18 +9315,29 @@ NPHB00051 | Star Wars - The Force Unleashed
 NPHB00052 | Burnout Paradise
 NPHB00056 | Eternal Sonata [Demo] (Trusty Bell: Chopin's Dream / Trusty Bell: Chopin no Yume RPG)
 NPHB00057 | Mirror's Edge™ [Demo]
+NPHB00058 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode One
 NPHB00059 | LUMINES™ Supernova
+NPHB00060 | BRAIN CHALLENGE
+NPHB00061 | TV Show King
 NPHB00064 | Söldner-X
 NPHB00065 | Metal Gear Solid 4: Guns of the Patriots [Demo]
 NPHB00067 | Metal Gear Solid 4: Guns of the Patriots [Demo]
+NPHB00069 | Prince of Persia Classic
 NPHB00070 | RESIDENT EVIL 5 [Demo]
+NPHB00071 | NOBY NOBY BOY™
 NPHB00072 | World Soccer: Winning Eleven 2009 [Demo]
 NPHB00073 | Flock!
 NPHB00074 | Super Street Fighter 2 Turbo HD
+NPHB00075 | PixelJunk™ Racers
+NPHB00076 | PixelJunk™ Monsters
+NPHB00077 | PixelJunk™ Eden
 NPHB00079 | Dead Space: Dismemberment [Demo]
 NPHB00080 | Skate 2 [Demo]
+NPHB00081 | 3 on 3 NHL® Arcade
+NPHB00082 | OutRun™ Online Arcade
 NPHB00083 | The Lord of the Rings: Conquest™ [Demo]
 NPHB00084 | WWE Legends of WrestleMania
+NPHB00086 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode Two
 NPHB00088 | Mahjong Tales: Ancient Wisdom
 NPHB00089 | Magic Orbz
 NPHB00090 | Cuboid
@@ -8818,135 +9345,307 @@ NPHB00091 | Spelunker HD
 NPHB00092 | Catan
 NPHB00093 | Catan
 NPHB00094 | Catan
+NPHB00095 | GTI Club + Rally Cote D'Azur
+NPHB00096 | ナムコミュージアム.comm
 NPHB00097 | Watchmen: The End is Nigh Part 1
 NPHB00098 | BATTLEFIELD 1943™
 NPHB00099 | Watchmen: The End is Nigh Part 2
+NPHB00100 | CRYSTAL DEFENDERS
 NPHB00102 | Crystal Defenders
+NPHB00105 | Astro Tripper
 NPHB00107 | Red Faction: Guerrilla [Demo]
 NPHB00108 | MARVEL VS. CAPCOM 2
+NPHB00109 | UFC 2009 Undisputed Demo
 NPHB00110 | FIGHT NIGHT ROUND 4 [Demo]
+NPHB00111 | Comet Crash
+NPHB00113 | Worms™
 NPHB00114 | Burn Zombie Burn!
+NPHB00116 | ZEN Pinball
+NPHB00117 | ZEN Pinball DEMO
 NPHB00119 | Tiger Woods PGA TOUR® 10 [Demo]
 NPHB00120 | Katamari Forever (aka Katamaridamacy TRIBUTE) [Demo]
 NPHB00122 | Madden NFL 10 [Demo]
 NPHB00123 | TOPATOI: Spinning Through The Worlds
 NPHB00125 | Bejeweled 2
 NPHB00126 | Zuma [Demo]
+NPHB00127 | Puzzle Quest: Challenge of the Warlords - Revenge of the Plague Lord
+NPHB00128 | Puzzle Quest Galactrix
+NPHB00129 | Texas Cheat'em
+NPHB00130 | FIGHT NIGHT ROUND 4 DEMO
 NPHB00131 | FIFA 10 [Demo]
+NPHB00133 | Red Alert™ 3 Commander's Challenge™
 NPHB00134 | TMNT: Turtles in Time Re-Shelled
 NPHB00135 | NBA Live 10 [Demo]
+NPHB00136 | Shatter
+NPHB00137 | LOST PLANET 2 Co-op Demo
 NPHB00138 | LOST PLANET 2
 NPHB00140 | Star Trek: D-A-C
+NPHB00143 | Smash Cars
 NPHB00145 | Mushroom Wars
+NPHB00146 | Digger HD
 NPHB00147 | Brütal Legend [Demo]
+NPHB00150 | Interpol: The Trail of Dr. Chaos
+NPHB00151 | Madden NFL Arcade
 NPHB00153 | Need for Speed™ Shift [Demo]
+NPHB00156 | BATTLEFIELD: Bad Company 2™ Closed Beta
 NPHB00157 | Final Fight - Double Impact
 NPHB00158 | Topatoi
+NPHB00159 | NINJA GAIDEN Σ2 DEMO
 NPHB00160 | Comet Crash
+NPHB00161 | The Punisher: No Mercy
+NPHB00162 | The Punisher: No Mercy (Demo)
+NPHB00166 | PixelJunk™ Shooter
+NPHB00167 | PixelJunk™ Shooter
+NPHB00168 | After Burner Climax
+NPHB00172 | Blue Toad Murder Files™: The Mysteries of Little Riddle
+NPHB00174 | ROCKMAN 10 宇宙からの脅威！！
+NPHB00175 | Braid
 NPHB00176 | Spelunker Black
+NPHB00177 | MEGA MAN 10
+NPHB00178 | Wizardry 囚われし魂の迷宮
 NPHB00179 | Tank Battles
+NPHB00183 | UNO
 NPHB00185 | Dante's Inferno™ [Demo]
 NPHB00186 | BATTLEFIELD: Bad Company 2™ [Multiplayer Demo]
 NPHB00187 | Sonic The Hedgehog 4 Episode 1
 NPHB00188 | Söldner-X 2: Final Prototype
 NPHB00190 | PixelJunk Shooter
 NPHB00191 | PixelJunk™ Shooter [Demo]
+NPHB00192 | Hyperballoid HD
+NPHB00193 | PACHIPARA 15
 NPHB00194 | Peggle
+NPHB00196 | Darksiders Demo
 NPHB00198 | EA SPORTS™ 2010 FIFA World Cup South Africa™
+NPHB00199 | UFC® Undisputed™ 2010 Demo
+NPHB00200 | Skate 3 Demo
+NPHB00201 | PixelJunk™ Racers 2nd Lap
+NPHB00202 | Comet Crash
 NPHB00203 | Comet Crash
+NPHB00206 | Fairytale Fights™
 NPHB00207 | Castle Crashers
+NPHB00208 | Fairytale Fights™ 'White Room' Teaser Demo
+NPHB00209 | Wakeboarding HD
+NPHB00211 | Hamster Ball
+NPHB00215 | Tiger Woods PGA TOUR® 11 Demo
 NPHB00217 | Smash Cars
+NPHB00218 | NEOGEO STATION Fatal Fury -King Of Fighters-
+NPHB00219 | NEOGEO STATION Samurai Shodown
+NPHB00220 | NEOGEO STATION The King Of Fighters'94
+NPHB00221 | NEOGEO STATION Art Of Fighting
+NPHB00222 | NEOGEO STATION Metal Slug
+NPHB00223 | NEOGEO STATION MAGICIAN LORD
+NPHB00224 | NEOGEO STATION Baseballstars Professional
+NPHB00225 | NEOGEO STATION Super Sidekicks
+NPHB00226 | NEOGEO STATION ALPHA MISSION II
+NPHB00227 | NEOGEO STATION League Bowling
+NPHB00228 | Sonic Adventure
+NPHB00229 | Crazy Taxi
+NPHB00230 | SEGA Bass Fishing
+NPHB00231 | Space Channel 5 Part 2
+NPHB00232 | Medal of Honor Closed Beta
+NPHB00233 | DeathSpank
 NPHB00234 | Earthworm Jim HD
+NPHB00236 | NARUTO Shippuden: Ultimate Ninja STORM 2 (Demo)
 NPHB00237 | Pac-Man Championship Edition DX
+NPHB00240 | Flight Control HD
 NPHB00242 | Shank
+NPHB00251 | The Revenge of Shinobi
+NPHB00252 | Alex Kidd in Miracle World
+NPHB00253 | Wonder Boy in Monster World
+NPHB00254 | Monster World IV
+NPHB00255 | Super Hang-On
 NPHB00256 | Swords and Soldiers
 NPHB00257 | TerRover
+NPHB00258 | Crescent Pale Mist
+NPHB00259 | Qlione
 NPHB00261 | Galaga Legions DX
 NPHB00263 | Enslaved - Odyssey to the West
+NPHB00265 | NBA ELITE 11 Demo
 NPHB00266 | Scott Pilgrim vs. the World - The Game
+NPHB00267 | FIFA 11 Demo
+NPHB00269 | Qlione 2
+NPHB00271 | NBA JAM
 NPHB00272 | MicroBot
 NPHB00274 | R.U.S.E.
+NPHB00276 | Bionic Commando Rearmed 2
 NPHB00277 | DeathSpank: Thongs of Virtue
+NPHB00279 | SPACE INVADERS INFINITY GENE
 NPHB00280 | Space Invaders Infinity Gene
+NPHB00281 | Costume Quest
 NPHB00282 | Alien Breed Impact
+NPHB00283 | WORLD SOCCER Winning Eleven 2011 DEMO
 NPHB00285 | Dungeon Hunter Alliance
 NPHB00286 | Modern Combat: Domination
 NPHB00288 | Blokus
 NPHB00289 | Dead Space - Ignition
 NPHB00290 | Dead Space™ 2
+NPHB00291 | Need for Speed™ Hot Pursuit DEMO
+NPHB00293 | PixelJunk™ Shooter 2
 NPHB00296 | Worms 2 - Armageddon
 NPHB00298 | Sky Fighter
+NPHB00299 | Tetris®
 NPHB00300 | Explodemon!
+NPHB00302 | Mass Effect™ 2 Demo
+NPHB00303 | MALICIOUS™(Japanese ver.)
+NPHB00304 | FIGHT NIGHT CHAMPION DEMO
 NPHB00305 | Fancy Pants Adventures, The
+NPHB00306 | Acceleration of Suguri X Edition
 NPHB00307 | Plants vs. Zombies
+NPHB00308 | Akimi Village
 NPHB00309 | Slam Bolt Scrappers
+NPHB00310 | SEGA Rally™ Online Arcade
 NPHB00312 | Stacking
+NPHB00313 | resident evil 4
+NPHB00315 | PixelJunk™ Shooter 2
 NPHB00317 | Top Spin 4 [Demo]
 NPHB00321 | Dragon Age™ II
 NPHB00323 | Bulletstorm
 NPHB00325 | Tetris® [Demo]
+NPHB00326 | PixelJunk™ Shooter 2 Demo
+NPHB00330 | YAKUZA 4 DEMO
 NPHB00331 | Red Faction: Battlegrounds
+NPHB00332 | Red Faction: Battlegrounds Demo
+NPHB00333 | Crysis®2 Multiplayer Demo
 NPHB00334 | Tales from Space - About a Blob
+NPHB00335 | 龍が如く OF THE END 体験版
+NPHB00336 | MALICIOUS™ Soundtrack
 NPHB00338 | Street Fighter III 3rd Strike Online Edition
+NPHB00339 | WWE All Stars Demo
+NPHB00341 | Wonder Boy in Monster Land
 NPHB00343 | Faery: Legends of Avalon
 NPHB00344 | Hard Corps Uprising
+NPHB00348 | RESIDENT EVIL CODE: Veronica X
 NPHB00353 | PixelJunk Shooter 2
+NPHB00355 | Red Faction: Armageddon Demo
 NPHB00356 | Burnout Crash!
+NPHB00358 | Söldner-X: Himmelsstürmer Complete Soundtrack
+NPHB00359 | Söldner-X 2: Final Prototype Complete Soundtrack
 NPHB00360 | Rush'N Attack Ex-Patriot
+NPHB00365 | Need for Speed™ Hot Pursuit
 NPHB00366 | Swarm
+NPHB00367 | NEOGEO STATION BASEBALL STARS 2
+NPHB00368 | NEOGEO STATION THE KING OF FIGHTERS '95
 NPHB00369 | Sonic Generations [Demo]
+NPHB00372 | SHIFT 2 UNLEASHED™
 NPHB00374 | LIMBO
+NPHB00376 | Kill Team
+NPHB00383 | DAYTONA USA
 NPHB00384 | Crysis®
+NPHB00389 | Zombie Apocalypse: Never Die Alone
+NPHB00390 | ELEVATOR ACTION DELUXE
 NPHB00391 | Elevator Action Deluxe
 NPHB00393 | Ace Combat - Assault Horizon
+NPHB00394 | Tour de France 2011
+NPHB00395 | Need for Speed™ The Run Demo
+NPHB00396 | FIFA 12 Demo
+NPHB00397 | NEOGEO STATION SHOCK TROOPERS
+NPHB00398 | NEOGEO STATION WORLD HEROES
 NPHB00403 | Metal Gear Solid: HD Collection
+NPHB00406 | Warhammer 40,000: Space Marine Demo
+NPHB00407 | WORLD SOCCER Winning Eleven 2012 DEMO
+NPHB00409 | RESIDENT EVIL 5 GOLD EDITION
 NPHB00410 | Rochard
 NPHB00412 | Apples To Apples
 NPHB00415 | Rocketbirds: Hardboiled Chicken
+NPHB00418 | WORLD SOCCER Winning Eleven 2012 DEMO2
 NPHB00419 | Gatling Gears
+NPHB00420 | NEOGEO STATION METAL SLUG 2
+NPHB00421 | NEOGEO STATION THE KING OF FIGHTERS '96
+NPHB00429 | PixelJunk™ SideScroller
 NPHB00433 | Voltron®: Defender Of The Universe
+NPHB00437 | Armageddon Riders
 NPHB00438 | Grand Slam Tennis 2
+NPHB00440 | Saints Row: The Third - Initiation Station
 NPHB00446 | Sonic Generations
+NPHB00448 | RESIDENT EVIL THE DARKSIDE CHRONICLES
+NPHB00449 | resident evil THE UMBRELLA CHRONICLES
 NPHB00451 | Asura's Wrath
 NPHB00453 | The House of the Dead III
+NPHB00454 | Need for Speed™ The Run
 NPHB00455 | Marvel vs. Capcom - Origins
 NPHB00456 | Vampire Resurrection
+NPHB00458 | THE HOUSE OF THE DEAD 4
 NPHB00459 | Sonic The Hedgehog 4 Episode 2
 NPHB00461 | PixelJunk SideScroller
+NPHB00464 | Dead Rising 2: Off The Record
+NPHB00467 | Sonic Adventure 2
+NPHB00471 | UFC® Undisputed™ 3 Demo
 NPHB00479 | PixelJunk™ 4am
 NPHB00484 | Duke Nukem Forever
+NPHB00489 | Virtua Fighter 5 Final Showdown
+NPHB00491 | BATTLEFIELD 3™
+NPHB00493 | Catherine
+NPHB00494 | Need for Speed™ Most Wanted
 NPHB00499 | Invincible Knight
+NPHB00500 | ToeJam & Earl
+NPHB00501 | ToeJam & Earl in Panic on Funkotron
 NPHB00502 | King of Fighters XIII, The
 NPHB00503 | Super Street Fighter IV - Arcade Edition
+NPHB00505 | NiGHTS into dreams...
+NPHB00506 | Jet Set Radio
 NPHB00509 | YouTube
+NPHB00510 | Page Chronica
 NPHB00511 | Devil May Cry HD Collection
+NPHB00512 | WORLD SOCCER Winning Eleven 2013 DEMO2
+NPHB00515 | Sonic the Fighters
+NPHB00516 | Fighting Vipers
+NPHB00517 | Virtua Fighter 2
+NPHB00518 | Visualizer
 NPHB00519 | Sonic & All-Stars Racing Transformed™
 NPHB00520 | Dust 514
 NPHB00522 | E.X. Troopers
 NPHB00525 | Chaos Code
+NPHB00530 | ACE COMBAT ASSAULT HORIZON [ASIA]
 NPHB00531 | DmC: Devil May Cry
+NPHB00532 | Do Not Fall
 NPHB00533 | Page Chronica
 NPHB00542 | Mobile Suit Gundam - Battle Operation
 NPHB00545 | Resident Evil - Revelations
+NPHB00546 | Battlefield 4™
+NPHB00547 | Tomb Raider
 NPHB00550 | Dynasty Warriors 7
 NPHB00553 | Lightning Returns - Final Fantasy XIII
+NPHB00554 | LIGHTNING RETURNS: FFXIII (Downloadable)
 NPHB00557 | Need for Speed™ Rivals
+NPHB00563 | ONE PIECE 海賊無雙２
+NPHB00574 | Armored Core™: Verdict Day™
 NPHB00575 | FINAL FANTASY® X / X-2 HD Remaster
 NPHB00583 | PES 2014: Pro Evolution Soccer
+NPHB00586 | WORLD SOCCER Winning Eleven 2014
+NPHB00587 | WORLD SOCCER Winning Eleven 2014 DEMO
+NPHB00588 | WORLD SOCCER Winning Eleven 2014 DEMO
+NPHB00594 | DARK SOULS Ⅱ NETWORK TEST Ver.
 NPHB00595 | Dark Souls™ II
+NPHB00598 | Mugen Souls Z
 NPHB00599 | Do Not Fall™
+NPHB00600 | WORLD SOCCER Winning Eleven 2014 DEMO 2
 NPHB00601 | PES 2013: Pro Evolution Soccer
 NPHB00605 | Ai Sika & Luigi's Alchemy Workshop ~ twilight sky Alchemist ~
 NPHB00607 | Dynasty Warriors 7: Xtreme Legends
 NPHB00607 | Dynasty Warriors 7: Xtreme Legends
+NPHB00608 | 真・三國無雙７ 猛將傳
 NPHB00617 | Musou Orochi 2 Ultimate
+NPHB00619 | AKIBA'S TRIP 2
+NPHB00627 | STEINS;GATE 선형구속의 페노그램
+NPHB00628 | STEINS;GATE
+NPHB00629 | STEINS;GATE 비익연리의 달링
+NPHB00632 | 真・鋼彈無雙
 NPHB00633 | Drag-On Dragoon 3
+NPHB00645 | BLAZBLUE CHRONOPHANTASMA
+NPHB00646 | 信長之野望･創造
 NPHB00647 | ONE PIECE Unlimited World Red
+NPHB00648 | NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution
 NPHB00650 | Ragnarok Odyssey Ace
+NPHB00651 | Ragnarok Odyssey ACE
 NPHB00668 | Eiyuu Densetsu: Sen no Kiseki
+NPHB00669 | 영웅전설 섬의 궤적
+NPHB00672 | MOBILE SUIT GUNDAM SIDE STORIES
 NPHB00673 | BATTLEFIELD™ HARDLINE
+NPHB00674 | Bound by Flame
 NPHB00678 | WWE Network
 NPHB00681 | Shining Resonance
+NPHB00686 | 火影忍者 疾風傳 Sunny Side Battle!!!
+NPHB00688 | 나루토 -NARUTO- 질풍전 SUNNY SIDE BATTLE!!!
 NPHB00690 | The Evil Within
 NPHB00691 | The Evil Within
 NPHB00694 | PES 2015: Pro Evolution Soccer
@@ -8972,6 +9671,7 @@ NPHB00733 | Teslagrad
 NPHB00734 | PES 2016: Pro Evolution Soccer
 NPHB00735 | Teslagrad
 NPHB00737 | BlazBlue: Central Fiction
+NPHB00739 | Pro Evolution Soccer 2017
 NPHB00740 | PES 2017: Pro Evolution Soccer
 NPHB10000 | PES 2017: Pro Evolution Soccer
 NPHB10004 | Red Bull TV
@@ -9102,9 +9802,11 @@ NPJA00014 | Dark Mist - The Depths of Darkness
 NPJA00015 | TOY HOME™ 2nd Gear
 NPJA00017 | Piyotama
 NPJA00018 | Bacterius
+NPJA00019 | Go! SPORTS SKYDIVING
 NPJA00020 | Boku no Natsuyasumi 3 [Demo]
 NPJA00021 | Gran Turismo 5 Prologue Spec III
 NPJA00022 | Snakeball [Demo]
+NPJA00025 | Everyday Shooter
 NPJA00026 | Shiki-Tei
 NPJA00027 | echochrome
 NPJA00028 | SIREN: New Translation
@@ -9129,10 +9831,17 @@ NPJA00046 | Shuukan Toro Station
 NPJA00047 | Gravity Crash™
 NPJA00048 | Fat Princess
 NPJA00049 | Hustle Kings™
+NPJA00050 | LocoRoco®-Midnight Carnival-公式ガイドブック （PS3®版）
 NPJA00052 | LittleBigPlanet™
+NPJA00054 | MOTORSTORM® 2 3D
 NPJA00055 | Free! Free! Bowling
+NPJA00056 | つみきBLOQ
+NPJA00057 | PlayMemories™
+NPJA00058 | Sackboy's Prehistoric Moves™
+NPJA00060 | Filmy™
 NPJA00061 | God of War
 NPJA00062 | God of War® II
+NPJA00063 | Eat Them!™ ～博士の怒れるモンスター～
 NPJA00064 | Tsumiki BLOQ
 NPJA00067 | God of War: Rakujitsu no Hisoukyoku HD
 NPJA00070 | Kaze no Tabibito
@@ -9163,17 +9872,22 @@ NPJA00103 | Aquanaut's Holiday
 NPJA00104 | Shirokishi Monogatari - Hikari to Yami no Kakusei
 NPJA00107 | CounterSpy
 NPJA00109 | Doki-Doki Universe
+NPJA00111 | Beyond: Two Souls™ ビデオインストーラー
 NPJA00113 | Gran Turismo®6
 NPJA00118 | Hohokum
 NPJA00119 | HELLDIVERS™
 NPJA00123 | LittleBigPlanet™ 3
 NPJA00124 | Entwined™
 NPJA00127 | Destiny®
+NPJA00129 | The Last Of Us® Left Behind
+NPJA00131 | RESOGUN™
 NPJA00135 | Call Of Duty®: Black Ops III
 NPJA40001 | Ratchet & Clank [PS2]
 NPJA40002 | Ratchet & Clank: Going Commando [PS2]
 NPJA40003 | Ratchet & Clank: Up Your Arsenal [PS2]
 NPJA40004 | Ratchet: Deadlocked™ [PS2]
+NPJA60001 | Gran Turismo Magazine APEX2012
+NPJA60002 | 「HYPERプレイステーション」PlayView™版
 NPJA60003 | Killzone®3 - Multiplayer
 NPJA90006 | Blast Factor™ [Demo]
 NPJA90009 | Lemmings™
@@ -9193,6 +9907,7 @@ NPJA90070 | SIREN: New Translation
 NPJA90071 | The Last Guy™ [Demo]
 NPJA90073 | SOCOM: Confrontation Multiplayer Online [Beta]
 NPJA90074 | LittleBigPlanet™ [Beta]
+NPJA90075 | The Last Guy Japan Premium Demo Version
 NPJA90077 | Aquanaut's Holiday
 NPJA90086 | Killzone®2
 NPJA90090 | Dress vol.1 Real Create [Demo]
@@ -9205,19 +9920,29 @@ NPJA90099 | PS Store Spring 2009 Special Title Lineup
 NPJA90100 | Qruton (Numblast) [Demo]
 NPJA90104 | MAG™ [Beta]
 NPJA90107 | Rag Doll Kung Fu™: Fists of Plastic
+NPJA90111 | INFAMOUS Demo
+NPJA90112 | Fat Princess Demo
 NPJA90116 | Ratchet & Clank Future 2 - Ratchet
+NPJA90117 | GOW3 TGS DEMO 2009
 NPJA90118 | Ratchet & Clank Future 2 - Crank
 NPJA90119 | HEAVY RAIN™
 NPJA90120 | Fat Princess
+NPJA90121 | グランツーリスモ５タイムトライアルチャレンジ
+NPJA90124 | 無限回廊™ The Gallery
 NPJA90127 | Uncharted 2 - Among Thieves
 NPJA90129 | HEAVY RAIN™
 NPJA90130 | MAG™
+NPJA90131 | SOCOM 4: U.S. Navy SEALs オンライン対戦 パブリックβ
 NPJA90132 | ModNation - Mugen no Kart Oukoku
+NPJA90133 | MOTORSTORM® II 3D DEMO
 NPJA90134 | Flowery
 NPJA90137 | Sports Champions
+NPJA90138 | リトルビッグプラネット™解説書
 NPJA90140 | Kung Fu Rider
 NPJA90142 | Me & My Pet
+NPJA90143 | フリフリ！ サルゲッチュ® 体験版
 NPJA90149 | Mugen Kairou - Hikari to Kage no Hako
+NPJA90150 | GT5 体験版 2010
 NPJA90152 | LittleBigPlanet™ 2 [Demo]
 NPJA90156 | PlayStation Move Heroes
 NPJA90158 | LittleBigPlanet™ 2 [Demo]
@@ -9226,24 +9951,36 @@ NPJA90172 | Bleach Soul Ignition
 NPJA90173 | Furifuri! Saru! Get You!
 NPJA90174 | God of War 1 & 2
 NPJA90176 | Killzone®3 - Singleplayer
+NPJA90177 | Killzone®3 Open Beta
 NPJA90178 | Killzone®3 - Singleplayer 3D
 NPJA90179 | Starhawk
 NPJA90179 | Starhawk
 NPJA90185 | Eat Them!™ Hakase no Ikareru Monster
+NPJA90186 | モーターストーム3 シングルプレイ体験版
+NPJA90191 | 肉弾™ 体験版
 NPJA90206 | God of War® Origins Collection
 NPJA90218 | Ratchet & Clank - All 4 One
 NPJA90220 | Happy Charlie to Soratobu Carinval
+NPJA90225 | GTアカデミー 2012
 NPJA90230 | Lord of Sorcery
 NPJA90244 | LittleBigPlanet Karting
 NPJA90245 | Sports Champion 2
+NPJA90246 | パペッティア™ 体験版
 NPJA90248 | Sound Shapes
 NPJA90251 | GT 2013
 NPJA90251 | Gran Turismo®6 [Demo] [GT Academy 2013]
+NPJA90252 | The Last of Us™ Demo
+NPJA90254 | パペッティア™ リハーサル版
+NPJA90257 | パペッティア™ 店頭用体験版
+NPJA90258 | パペッティア™ 体験版
 NPJA90259 | Beyond: Two Souls™ [Demo]
+NPJA90260 | rain TGS2013
+NPJA90272 | 高橋名人のパペッティア™ リハーサル版
 NPJA90276 | Rain
 NPJA90277 | Destiny
 NPJA90286 | Destiny
 NPJB00001 | TEKKEN 5: Dark Resurrection
+NPJB00002 | PixelJunk RACERS
 NPJB00003 | PixelJunk™ Monsters
 NPJB00004 | Fatal Inertia EX
 NPJB00005 | PachiPara DL Hyper Sea Story In Karibu
@@ -9251,6 +9988,7 @@ NPJB00006 | Noby Noby Boy
 NPJB00007 | PixelJunk™ Eden
 NPJB00008 | Bionic Commando Rearmed
 NPJB00009 | Angel Love Online (MMORPG)
+NPJB00010 | ロックマン９ 野望の復活!!
 NPJB00011 | Burnout Paradise
 NPJB00012 | Namco Museum Essentials
 NPJB00013 | LUMINES™ Supernova
@@ -9268,8 +10006,12 @@ NPJB00024 | GTI Club+ Rally Cote D'Azur
 NPJB00025 | MARVEL VS. CAPCOM 2
 NPJB00026 | Evangelion [Demo]
 NPJB00027 | BATTLEFIELD 1943™
+NPJB00028 | TVショーキング
+NPJB00029 | NECTARIS
+NPJB00030 | Diner Dash®
 NPJB00031 | Pixeljunk™ Shooter
 NPJB00032 | Angel Senki
+NPJB00033 | UNO
 NPJB00034 | RayStorm HD
 NPJB00035 | Sonic The Hedgehog 4 Episode 1
 NPJB00036 | Matt Hazard: Blood Bath and Beyond
@@ -9277,14 +10019,19 @@ NPJB00038 | Vandal Hearts: Flames of Judgment
 NPJB00039 | Wizardry The Labyrinth of Lost Souls
 NPJB00040 | Madden NFL Arcade
 NPJB00041 | Frogger Returns
+NPJB00042 | THEXDER NEO
 NPJB00043 | RockMan 10: Uchuukara no Kyoui!!
+NPJB00044 | SPELUNKER BLACK
 NPJB00046 | After Burner: Climax
 NPJB00047 | Hatsune Miku: Project Diva Dreamy Theater
 NPJB00057 | Mahjong
 NPJB00058 | Trine™
 NPJB00059 | Pachipara 15: Super Umi Monogatari In Okinawa 2
 NPJB00060 | El Oriente
+NPJB00061 | Dream Chronicles™
+NPJB00062 | Rocket Knight
 NPJB00063 | PixelJunk™ Racers 2nd Lap
+NPJB00064 | SPACE INVADERS INFINITY GENE
 NPJB00065 | Elemental Monster
 NPJB00066 | Blue Oasis
 NPJB00068 | Scott Pilgrim vs. The World
@@ -9320,6 +10067,7 @@ NPJB00103 | Blokus
 NPJB00104 | Sekai Saikyou Ginsei Igo: Hybrid Monte Carlo
 NPJB00105 | Comet Crash
 NPJB00106 | Space Channel Part 2
+NPJB00107 | Get Bass
 NPJB00108 | PixelJunk Shooter 2
 NPJB00110 | Flight Control HD
 NPJB00113 | The Fancy Pants Adventures
@@ -9330,9 +10078,11 @@ NPJB00119 | The Misshitsukara No Dasshutsu (simple 500 Series Vol. 2)
 NPJB00120 | Swarm
 NPJB00123 | Metal Gear Solid: Peace Walker HD Edition
 NPJB00124 | Red Faction: Battlegrounds
+NPJB00125 | 世界最強銀星将棋 風雲龍虎雷伝
 NPJB00126 | Sonic The Hedgehog
 NPJB00127 | Sonic The Hedgehog 2
 NPJB00128 | Comix Zone
+NPJB00129 | ゴールデンアックス
 NPJB00130 | Bare Knuckle II: Shitou E No Chinkon Uta
 NPJB00131 | Altered Beast
 NPJB00132 | Wonder Boy In Monster Land
@@ -9347,6 +10097,8 @@ NPJB00147 | Need for Speed - Hot Pursuit
 NPJB00149 | Renegade Ops
 NPJB00150 | Crysis
 NPJB00150 | Crysis®
+NPJB00151 | TEKKEN TAG TOURNAMENT HD
+NPJB00152 | TEKKEN TAG TOURNAMENT 2 PROLOGUE
 NPJB00153 | Joe Danger
 NPJB00154 | Black Knight Sword
 NPJB00155 | Limbo
@@ -9355,6 +10107,8 @@ NPJB00157 | Metal Gear Solid 2: Sons of Liberty HD Edition
 NPJB00159 | Elevator Action Deluxe
 NPJB00160 | Bulletstorm
 NPJB00161 | Daytona USA
+NPJB00162 | Wizardry 囚われし亡霊の街
+NPJB00163 | Wizardry 囚われし魂の迷宮
 NPJB00164 | Sonic The Hedgehog 4 Episode 2
 NPJB00165 | Gladiator Vs
 NPJB00167 | JoySound Dive
@@ -9394,15 +10148,21 @@ NPJB00208 | Quantum Conundrum
 NPJB00210 | CAPCOM Arcade cabinet
 NPJB00212 | Taiheiyou no Arashi: Senkan Yamato, Akatsuki ni Shutsugekisu
 NPJB00213 | Tom Clancy's Ghost Recon: Advanced Warfighter 2
+NPJB00214 | Assassin's Creed
 NPJB00215 | RESIDENT EVIL™ Operation Raccoon City
+NPJB00217 | 迷宮塔路レガシスタ
 NPJB00218 | Hell Yeah! Wrath Of The Dead Rabbit
+NPJB00219 | Tom Clancy's Ghost Recon Future Soldier™
 NPJB00220 | Heavy Fire: Afghanistan®
 NPJB00221 | Sleeping Dogs™
+NPJB00222 | Prince of Persia The Forgotten Sands™
 NPJB00225 | Jet Set Radio
 NPJB00226 | NiGHTS into Dreams...
 NPJB00227 | Gal*Gun
 NPJB00228 | Need for Speed™ Most Wanted
 NPJB00229 | The King Of Fighters XIII
+NPJB00230 | Assassin's Creed II ™
+NPJB00231 | AC Brotherhood
 NPJB00233 | Perfect Weapon™ [Daisenryaku Perfect: Senjou No Hasha]
 NPJB00234 | Birds of Steel
 NPJB00235 | E.x. Troopers
@@ -9411,6 +10171,7 @@ NPJB00238 | Ni no Kuni: Wrath of the White Witch
 NPJB00239 | F1 2012™
 NPJB00240 | SSX™
 NPJB00242 | DEAD OR ALIVE 5
+NPJB00244 | F1 Race Stars™
 NPJB00245 | VANQUISH
 NPJB00246 | BAYONETTA
 NPJB00247 | Tom Clancy's EndWar
@@ -9420,24 +10181,31 @@ NPJB00253 | Sangokushi 12
 NPJB00254 | Absolute Supercars
 NPJB00258 | Ninja Gaiden Sigma 2
 NPJB00261 | Shin Sangoku Musou 5 Empires
+NPJB00262 | 戦国無双３ Z
 NPJB00264 | Bladestorm: The Hundred Years' War
 NPJB00265 | Nobunaga no Yabou: Tendou With Power-up Kit
 NPJB00266 | Shin Sangoku Musou Multiraid Special
+NPJB00268 | TROY無双
 NPJB00269 | Champion Jockey: G1 Jockey & Gallop Racer
+NPJB00270 | TRINITY Zill O'll Zero
 NPJB00271 | Sengoku Musou 3 Empires
 NPJB00273 | Lollipop Chainsaw
 NPJB00274 | Shin Sangoku Musou: Multi Raid 2 Hd Version
 NPJB00275 | Binary Domain
 NPJB00277 | Shin Sangoku Musou 6 Empires
 NPJB00278 | DmC: Devil May Cry
+NPJB00279 | Race Driver GRID 2
 NPJB00280 | Yakuza 1 & 2 HD Edition (Ryu ga Gotoku 1 & 2)
 NPJB00281 | Metal Gear Rising: Revengeance
+NPJB00282 | Shaun White Snowboarding
 NPJB00283 | Tomb Raider
+NPJB00284 | 戦極姫3～天下を切り裂く光と影～
 NPJB00285 | FINAL FANTASY® XIII-2
 NPJB00286 | YouTube
 NPJB00287 | Hatsune Miku: Project Diva F
 NPJB00288 | XBLAZE Code: Embryo
 NPJB00289 | Spelunker Collection
+NPJB00290 | Visualizer
 NPJB00291 | Heavy Fire: Shattered Spear
 NPJB00292 | Eiyuu Densetsu: Sora no Kiseki FC Kai HD Edition
 NPJB00293 | Eiyuu Densetsu: Sora no Kiseki FC Kai HD Edition (ULJM05170)
@@ -9449,6 +10217,8 @@ NPJB00301 | Monster Hunter Frontier G
 NPJB00302 | Max Anarchy
 NPJB00304 | Onimusha Soul
 NPJB00305 | Battle of Tiles EX
+NPJB00307 | Tom Clancy's H.A.W.X
+NPJB00308 | 車輪の国、向日葵の少女
 NPJB00309 | Persona 4: ARENA
 NPJB00310 | RESIDENT EVIL™ Revelations: Unveiled Edition
 NPJB00311 | LOST PLANET 3
@@ -9486,6 +10256,8 @@ NPJB00351 | Realms Of Ancient War
 NPJB00352 | Z/x: Zillions Of Enemy X - Zekkai No Crusade
 NPJB00353 | Steins;Gate: Linear Bounded Phenogram
 NPJB00354 | BlazBlue: Chrono Phantasma
+NPJB00355 | メモリーズオフ６ Complete
+NPJB00356 | メモリーズオフ ゆびきりの記憶
 NPJB00357 | Gundam Breaker
 NPJB00359 | Eiyuu Densetsu: Sora No Kiseki The 3rd Kai Hd Edition
 NPJB00361 | Ninja Gaiden 3 Razor's Edge
@@ -9501,6 +10273,7 @@ NPJB00370 | Monster Hunter Portable 3rd Hd Ver.
 NPJB00371 | Onechanbara Z: Kagura With Nonono!
 NPJB00372 | Chikyuu Boueigun 4
 NPJB00373 | Rock of Ages
+NPJB00376 | Dragon's Crown
 NPJB00377 | Battlefield 4
 NPJB00379 | Ketsui: Kizuna Jigoku Tachi Extra
 NPJB00380 | Drag-On Dragoon 3
@@ -9509,13 +10282,18 @@ NPJB00382 | Spartacus Legends
 NPJB00383 | Terraria
 NPJB00384 | VIVIDRED OPERATION: Hyper Intimate Power
 NPJB00385 | Super Robot Taisen OG Saga: Masou Kishin III Pride of Justice
+NPJB00386 | ビビッドレッド・オペレーション あかねとマヨっとオペレーション！
 NPJB00389 | White Album 2: Shiawase No Mukougawa
 NPJB00390 | Date A Live: Rinne Utopia
 NPJB00391 | Battle Princess of Arcadia
+NPJB00392 | Sniper Ghost Warrior 2
 NPJB00394 | Call Of Juarez® Gunslinger
 NPJB00395 | Injustice: Gods Among Us
 NPJB00396 | METAL GEAR SOLID V: GROUND ZEROES
+NPJB00397 | Far Cry® 2
 NPJB00398 | Maji De Watashi Ni Koi Shinasai! R
+NPJB00399 | Do Not Fall
+NPJB00401 | 真・三國無双５
 NPJB00403 | Atelier Escha & Logy ~Alchemists of the Dusk Sky~
 NPJB00404 | TEKKEN REVOLUTION
 NPJB00405 | WATCH_DOGS™
@@ -9525,9 +10303,12 @@ NPJB00409 | Legend of Heroes, The: Trails in the Flash [The Legend of Heroes: Se
 NPJB00410 | Tom Clancy's™ Splinter Cell® Blacklist™
 NPJB00411 | DEAD OR ALIVE 5 Ultimate
 NPJB00412 | My Little Sister Can't Be This Cute HappyEnd
+NPJB00413 | Dead Island Riptide
+NPJB00414 | サカつく プロサッカークラブをつくろう！
 NPJB00415 | Farming Simulator
 NPJB00416 | Tales of Symphonia: Unisonant Pack
 NPJB00418 | Sangoku Hime 2: Kouki Houkou - Mezameshi Taiga
+NPJB00419 | 花咲くまにまに
 NPJB00420 | Tales of Symphonia: Unisonant Pack
 NPJB00421 | Tales of Symphonia: Unisonant Pack
 NPJB00422 | Sengoku BASARA 4
@@ -9551,6 +10332,7 @@ NPJB00439 | Sengoku Musou 2 With Moushouden HD Version
 NPJB00440 | Kazoku Keikaku: Re:tsumugu Ito
 NPJB00442 | Jikkyou Powerful Pro Yakyuu 2013
 NPJB00443 | Musou Orochi 2 Ultimate
+NPJB00444 | アイラブミッキーマウス ふしぎのお城大冒険
 NPJB00445 | CASTLE OF ILLUSION: Starring Mickey Mouse
 NPJB00446 | Air Conflicts: Vietnam
 NPJB00447 | Tears to Tiara II: Heir of the Overlord
@@ -9560,43 +10342,62 @@ NPJB00450 | Saint Seiya: Brave Soldiers
 NPJB00452 | Murdered: Soul Suspect™
 NPJB00453 | FINAL FANTASY™ XIV: A Realm Reborn®
 NPJB00454 | Fairy Fencer F
+NPJB00455 | ARMORED CORE VERDICT DAY
 NPJB00456 | AKB1/149: Love Election
 NPJB00457 | Cloudberry Kingdom
 NPJB00458 | FINAL FANTASY® X / X-2 HD Remaster
 NPJB00460 | Borderlands™ 2
 NPJB00461 | Batman: Arkham Origins
 NPJB00462 | Puyo Puyo Tetris
+NPJB00463 | Shaun White Skateboarding
 NPJB00464 | Sengoku Musou 2 Empires HD Version
 NPJB00465 | Super Heroine Chronicle: Chou Heroine Senki
 NPJB00466 | SoulCalibur: Lost Swords
+NPJB00467 | パックワールド™
+NPJB00468 | Rozen Maiden -Wechseln sie welt ab-
 NPJB00469 | KILLER IS DEAD
 NPJB00470 | Urban Trial Freestyle
 NPJB00471 | Sengoku Musou 2 With Moushouden & Empires HD Version
+NPJB00472 | Painkiller Hell & Damnation
+NPJB00473 | 向日葵の教会と長い夏休み -extra vacation-
 NPJB00474 | PES 2014: Pro Evolution Soccer
 NPJB00475 | Blazing Angels 2: Secret Missions Of Wwii
 NPJB00476 | Giana Sisters - Twisted Dreams
+NPJB00477 | Castlevania: Lords of Shadow - Mirror of Fate HD
 NPJB00479 | Phantom Breaker: Extra
+NPJB00480 | 戦極姫４～争覇百計、花守る誓い～
 NPJB00481 | ACE COMBAT® INFINITY
 NPJB00486 | The Idolm@ster Station [Imas Channel]
 NPJB00487 | Winning Post 8
 NPJB00488 | &: Sora No Mukou De Saki Masuyou Ni
 NPJB00489 | Shin Koihime Musou: Otome Taisen * Sangokushi Engi
+NPJB00490 | ルートダブル -Before Crime * After Days- Xtend edition
 NPJB00491 | Kaihou Shoujo SIN
 NPJB00492 | Aabs Animals
 NPJB00494 | Nobunaga no Yabou: Souzou
 NPJB00495 | Super Robot Wars OG INFINITE BATTLE
+NPJB00496 | Borderlands™: Game of the Year Edition
 NPJB00497 | Under Defeat HD
+NPJB00498 | Grand Theft Auto: Episodes from Liberty City
 NPJB00500 | Grand Theft Auto IV
+NPJB00502 | Max Payne 3
+NPJB00503 | Midnight Club: Los Angeles
+NPJB00504 | Red Dead Redemption: Game of the Year Edition
+NPJB00507 | 銀星囲碁2 ネクストジェネレーション
 NPJB00508 | Castlevania: Lords of Shadow 2
 NPJB00509 | Atelier Rorona Plus ~The Alchemist of Arland~
 NPJB00510 | Shin Sangoku Musou 7 - Moushouden
 NPJB00511 | Shin Sangoku Musou 7 - Xtreme Legends
 NPJB00512 | Mobile Suit Gundam: Extreme VS Full Boost
+NPJB00513 | Defense Technica
+NPJB00514 | スーパーロボット大戦
 NPJB00516 | Grand Theft Auto V
 NPJB00519 | Sakigake!! Otokojuku - Nihon Yo, Kore Ga Otoko Dearu!
 NPJB00520 | Dai-3-Ji Super Robot Taisen Z Jigoku-Hen
 NPJB00521 | Super Robot Taisen OG: Dark Prison
+NPJB00522 | 麻雀覇王 段級バトル3
 NPJB00523 | Rainbow Moon
+NPJB00525 | Söldner-X 2: Final Prototype
 NPJB00527 | Call Of Duty® Ghosts
 NPJB00528 | Call Of Duty® Ghosts
 NPJB00529 | Motto! Sonicomi
@@ -9606,6 +10407,7 @@ NPJB00532 | YAKUZA: Restoration! [Ryu ga Gotoku: Ishin!]
 NPJB00533 | Dynasty Warriors: GUNDAM Reborn
 NPJB00533 | Shin Gundam Musou
 NPJB00534 | Samurai Warriors 4
+NPJB00535 | ソニック&オールスターレーシングTRANSFORMED
 NPJB00536 | PAC-MAN MUSEUM
 NPJB00537 | Pacific Rim: The Video Game
 NPJB00538 | Pro Yakyuu Spirits 2014
@@ -9613,17 +10415,23 @@ NPJB00539 | Minecraft: PlayStation®3 Edition
 NPJB00540 | Arcana Heart 3: LOVE MAX!!!!!
 NPJB00541 | Diablo III
 NPJB00542 | Tokyo Twilight Ghost Hunters [Mato Kurenai Yuugekitai: Tokyo Twilight Ghosthunters]
+NPJB00544 | Double Dragon Neon
+NPJB00545 | 龍が如く５ 夢、叶えし者
 NPJB00546 | Final Exam
 NPJB00547 | J-Stars Victory Vs
 NPJB00549 | Minecraft - PlayStation 3 Edition
 NPJB00550 | Shining Resonance
 NPJB00551 | Saints Row IV (ultra Super Ultimate Deluxe Edition)
 NPJB00552 | Deception IV: Blood Ties [Kagero: Dark Side Princess]
+NPJB00554 | Machinarium
 NPJB00555 | Dark Souls™ II
+NPJB00557 | Kung Fu Rabbit
 NPJB00558 | CV: Casting Voice
+NPJB00559 | Far Cry® 3
 NPJB00560 | Assassin's Creed III
 NPJB00561 | Child Of Light
 NPJB00562 | Assassin's Creed III: Lady Liberty HD
+NPJB00564 | AC Revelations
 NPJB00565 | NAtURAL DOCtRINE
 NPJB00566 | Aquapazza: Aquaplus Dream Match
 NPJB00568 | Brothers: Futari No Musuko No Monogatari
@@ -9638,68 +10446,97 @@ NPJB00577 | Kamen Rider: Battride War II
 NPJB00579 | Wolfenstein: The New Order
 NPJB00580 | Dengeki Bunko: Fighting Climax
 NPJB00582 | Dream C Club Gogo.
+NPJB00583 | Hotline Miami
 NPJB00584 | Contrast
 NPJB00586 | Assassin's Creed®: Freedom Cry
+NPJB00587 | 麻雀大会Ⅳ
 NPJB00588 | Raiden IV - OverKill
 NPJB00589 | World Soccer Winning Eleven 2014: Aoki Samurai No Chousen
 NPJB00590 | SOULCALIBUR II HD ONLINE
+NPJB00592 | Constant C
 NPJB00593 | Muv-Luv: photonflowers*
 NPJB00594 | Caladrius Blaze
+NPJB00597 | MOBILE SUIT GUNDAM SIDE STORIES
 NPJB00598 | Under Night In-Birth Exe:Late
 NPJB00599 | Persona 4 Arena Ultimax
 NPJB00600 | Super Hero Generation
 NPJB00601 | ONE PIECE Unlimited World Red
 NPJB00602 | Legend of Heroes, The: Trails in the Flash 2 [The Legend of Heroes: Sen no Kiseki 2]
 NPJB00603 | Far Cry® 4
+NPJB00604 | この大空に、翼をひろげて CRUISE SIGN
 NPJB00605 | The Awakened Fate: Ultimatum
 NPJB00606 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM Revolution
+NPJB00607 | 夏色ハイスクル青春白書
 NPJB00608 | Zettai Geigeki Wars
 NPJB00609 | Bloodrayne: Crimson Slayer
+NPJB00610 | CROSS†CHANNEL ～For all people～
 NPJB00611 | The Idolm@ster One For All
 NPJB00612 | Guacamelee! [Fukumen Toushi: Masked Warrior]
 NPJB00613 | Saikyou Shougi - Gekisashi 13
 NPJB00614 | Gatling Gears
 NPJB00615 | The Evil Within
+NPJB00616 | デート・ア・ライブ 或守インストール
 NPJB00618 | Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai All-Star Special
 NPJB00619 | Atelier Shallie ~Alchemists of the Dusk Sea~
 NPJB00620 | To Heart 2 Dx Plus
 NPJB00621 | Biohazard - Revelations 2 - Episode 1 - Penal Colony
+NPJB00622 | 真 流行り神
+NPJB00623 | PVZ Garden Warfare
 NPJB00624 | WRC 4 FIA World Rally Championship
+NPJB00625 | Thief
 NPJB00627 | Dragon's Dogma Online
 NPJB00628 | Skullgirls Encore
+NPJB00629 | 家族計画 Re:紡ぐ糸
+NPJB00630 | Dead Island
+NPJB00631 | マブラヴ photonmerodies♮
 NPJB00632 | Diablo III: Reaper Of Souls (ultimate Evil Edition)
 NPJB00632 | Diablo III: Reaper of Souls (Ultimate Evil Edition)
+NPJB00633 | ロボットレスキューREVOLUTION
+NPJB00636 | パックワールド®２
+NPJB00637 | RAMBO THE VIDEO GAME
 NPJB00638 | FIFA 15
 NPJB00639 | GRID Autosport
 NPJB00640 | Dragon Age™ Inquisition
 NPJB00641 | BATTLEFIELD™ HARDLINE
 NPJB00642 | Sacred 3
+NPJB00644 | NBA 2K15
 NPJB00645 | Borderlands: The Pre-Sequel
 NPJB00646 | Magical Beat
 NPJB00647 | Jikkyou Powerful Pro Baseball 2014
 NPJB00648 | Super Robot Taisen OG Saga: Masou Kishin F - Coffin of the End
+NPJB00649 | ガンダムブレイカー2
 NPJB00650 | Deadly Premonition
 NPJB00651 | Assassin's Creed®: Rogue
 NPJB00652 | Guilty Gear Xrd -SIGN-
 NPJB00653 | RESIDENT EVIL™ HD Remaster [Collector's Package]
+NPJB00654 | TRANSFORMERS: Rise of the Dark Spark
 NPJB00655 | Toybox Turbos
+NPJB00656 | Divekick
 NPJB00657 | Stealth Inc. - A Clone in the Dark - Ultimate Edition
+NPJB00658 | Teslagrad
+NPJB00659 | The Amazing Spider-Man 2™
 NPJB00660 | Valiant Hearts - The Great War
 NPJB00661 | F1® 2014
 NPJB00662 | Shin Sangoku Musou 7 - Empires
 NPJB00663 | Shin Sangoku Musou 7 - Empires - Kyoutouban
 NPJB00664 | Call Of Duty®: Advanced Warfare
 NPJB00665 | Call Of Duty®: Advanced Warfare
+NPJB00666 | ゴジラ-GODZILLA-
 NPJB00667 | World Soccer Winning Eleven 2015 
 NPJB00668 | Tales of Zestiria
+NPJB00669 | 麻雀ワールドW
 NPJB00670 | LEGO® Movie Videogame, The
 NPJB00671 | DRAGON BALL® Xenoverse
+NPJB00672 | 信長の野望･創造 with パワーアップキット
 NPJB00673 | Metal Gear Solid V: The Phantom Pain
 NPJB00674 | XBLAZE: Lost Memories
+NPJB00675 | R.U.S.E.
+NPJB00679 | 大戦略エクシード２
 NPJB00680 | Sengoku Hime 5: Senkatatsu Haoh no Keifu
 NPJB00681 | Odin Sphere: Leifthrasir
 NPJB00682 | Hajime no Ippo: The Fighting!
 NPJB00683 | Bladestorm: Hyakunen Sensou & Nightmare
+NPJB00684 | 龍が如く０ 誓いの場所
 NPJB00685 | Ukiyo no Shishi
 NPJB00686 | White Album 2: Shiawase no Mukougawa (AquaPrice 2800)
 NPJB00687 | Nitro+ Blasterz: Heroines Infinite Duel
@@ -9711,90 +10548,256 @@ NPJB00692 | Dai 3 Ji Super Robot Taisen Z Tengoku-hen
 NPJB00695 | JOYSOUND.TV Plus
 NPJB00698 | JP0101-NPJB00698_00-MGS4MAINGAME0000
 NPJB00699 | Higurashi no Naku Koro ni Sui
+NPJB00700 | DEAD OR ALIVE 5 Last Round
+NPJB00701 | Middle-Earth™: Shadow of Mordor™
+NPJB00702 | LEGO® マーベル スーパー・ヒーローズ ザ・ゲーム
+NPJB00703 | LEGO®バットマン3 ザ・ゲーム ゴッサムから宇宙へ
 NPJB00705 | Rewrite
 NPJB00706 | Sengoku Musou 4-II
 NPJB00708 | Pro Yakyuu Spirits 2015
 NPJB00709 | Sword Art Online: Lost Song
+NPJB00710 | Winning Post 8 2015
+NPJB00711 | DARK SOULS Ⅱ SCHOLAR OF THE FIRST SIN
 NPJB00712 | One Piece: Pirate Warriors 3 [One Piece Kaizoku Musou 3]
+NPJB00713 | Saints Row: Gat out of Hell
 NPJB00716 | Yoru no Nai Kuni
 NPJB00717 | Dragon Quest Heroes: Anryuu to Sekaiju no Shiro
+NPJB00718 | METAL SLUG 3
+NPJB00719 | Tiny Troopers Joint Ops
 NPJB00720 | Kagero Mou Hitori no Princess
+NPJB00721 | 現代大戦略2016 ～秩序の崩壊・覇権国家失墜～
 NPJB00722 | Daisenryaku: Dai Toua Kouboushi 3
 NPJB00723 | CastleStorm
+NPJB00725 | CHAOS;CHILD
 NPJB00726 | Biohazard 0 HD Remaster
 NPJB00726 | RESIDENT EVIL 0 HD
 NPJB00727 | Star Ocean 5: Integrity and Faithlessness
 NPJB00728 | Infinite Stratos 2 - Love and Purge
+NPJB00729 | 恋姫†演武
+NPJB00733 | FIFA 16
 NPJB00734 | Animax PLUS
+NPJB00737 | うたわれるもの 偽りの仮面
 NPJB00738 | Angel Senki
 NPJB00739 | Rogue Legacy
+NPJB00740 | Chariot
+NPJB00741 | Orc Attack
 NPJB00743 | Saint Seiya: Soldiers' Soul
 NPJB00744 | Mato Kurenai Yuugekitai: Daybreak Special Gigs
 NPJB00745 | AngelLoveOnline
 NPJB00746 | RIDE™
+NPJB00748 | Unmechanical: Extended
 NPJB00749 | Gundam Battle Operation Next
+NPJB00750 | MotoGP™15
+NPJB00751 | LEGO®ジュラシック・ワールド
+NPJB00752 | STEINS;GATE 0
+NPJB00753 | ジョジョの奇妙な冒険 アイズオブヘブン
 NPJB00754 | Hotline Miami
+NPJB00755 | Hotline Miami 2: Wrong Number
+NPJB00756 | Winning Eleven 2016
 NPJB00757 | Arslan: The Warriors Of Legend [Arslan Senki × Muso]
 NPJB00758 | Kamen Rider: Battride War Sousei
+NPJB00759 | Goat Simulator
+NPJB00760 | NBA 2K16
 NPJB00761 | Jikkyou Powerful Pro Yakyuu - Success Special
 NPJB00763 | Sengoku Musou 4 Empires
+NPJB00764 | ソフィーのアトリエ ～不思議な本の錬金術士～ DOWNLOAD
 NPJB00765 | DRAGON QUEST: BUILDERS [Alefgard wo Fukkatsu Seyo]
 NPJB00766 | Netflix
 NPJB00769 | Persona 5
 NPJB00770 | Farming Simulator 15
 NPJB00771 | Blade Arcus from Shining EX
+NPJB00772 | 龍が如く 極
 NPJB00773 | Amazon Instant Video
+NPJB00775 | In Space We Brawl
+NPJB00777 | 三國志13
+NPJB00780 | 実況パワフルプロ野球２０１６
 NPJB00781 | Mighty No. 9
+NPJB00782 | STAR OCEAN Second Evolution
+NPJB00783 | Amazonビデオ ベータ
 NPJB00784 | Shingeki No Kyojin
 NPJB00785 | Dengeki Bunko: Fighting Climax - Ignition
+NPJB00789 | Life Is Strange™
+NPJB00792 | Winning Post 8 2016
+NPJB00793 | Winning Eleven 2016 myClub
+NPJB00794 | GTA San Andreas
 NPJB00795 | Guilty Gear Xrd -Revelator-
 NPJB00796 | Tales Of Berseria
 NPJB00797 | Dragon Quest Heroes II
 NPJB00798 | Toukiden 2
 NPJB00800 | BlazBlue: Central Fiction
+NPJB00801 | LEGO® MARVEL's Avengers
+NPJB00802 | LEGO® STAR WARS™: The Force Awakens
+NPJB00803 | うたわれるもの 二人の白皇
+NPJB00804 | 信長の野望･創造 戦国立志伝
 NPJB00805 | Sengoku BASARA: Sanada Yukimura-Den
+NPJB00808 | スーパーロボット大戦ＯＧ ムーン・デュエラーズ
 NPJB00809 | DAZN
+NPJB00810 | FIFA 17
 NPJB00811 | UEFA Euro 2016: Winning Eleven 2016
+NPJB00812 | The Walking Dead: Season Two
 NPJB00813 | Shin Sangoku Musou Eiketsuden
+NPJB00814 | Winning Eleven 2017
 NPJB00815 | Shin Hayarigami 2
 NPJB00818 | Berserk Musou
+NPJB00819 | 三國志13 with パワーアップキット
 NPJB00820 | Sengoku Muso ~ Sanada round ~
+NPJB00822 | UNDER NIGHT IN-BIRTH Exe:Late[st]
 NPJB00823 | Asdivine Hearts
+NPJB00824 | アドベンチャー・タイム ネームレス王国の3人のプリンセス
+NPJB00827 | Winning Post 8 2017
 NPJB00828 | Winning Eleven 2017 Lite
+NPJB00830 | Back to Bed
 NPJB00831 | Shoujo to Dragon - Genjuu Keiyaku Cryptract
 NPJB00832 | Jikkyou Powerful Pro Yakyuu - Championship 2017
+NPJB00835 | Revenant Saga
 NPJB00837 | Eiyuu Densetsu: Sen no Kiseki
 NPJB00838 | Red Bull TV
 NPJB00840 | Winning Eleven 2018 Lite
+NPJB40001 | MONSTER HUNTER PORTABLE 3rd HD Ver.
+NPJB40002 | けいおん！ 放課後ライブ！！ HD Ver.
 NPJB60001 | Monster Hunter Portable 2nd G Monster Data Chishikisho
+NPJB60002 | 電撃PlayStation 電子版 白騎士物語 -光と闇の覚醒-
+NPJB60004 | 電撃PlayStation 電子版 白騎士物語 -光と闇の覚醒- 第２弾
+NPJB60005 | AKIBA'S TRIP 初回特典
+NPJB60006 | メルルのアトリエ ～アーランドの錬金術士3～ 初体験ガイドブック
+NPJB60007 | BIOHAZARD archives 特別版
+NPJB60008 | 電撃ガンパレード・マーチ 復刻版
+NPJB60009 | モンスターハンターポータブル® 3rd モンスターデータ知識書
 NPJB60010 | PlayView for Games
+NPJB60013 | 『IQUEEN』 Vol.2 真木よう子 “A DAY OF SUMMER”
+NPJB60014 | 『aBUTTON』 Vol.2 広瀬アリス/水沢奈子 特集「時」
+NPJB60021 | 『IQUEEN』 Vol.3 広末涼子 “DARK LIGHT”
+NPJB60022 | 『IQUEEN』 Vol.4 臼田あさ美“UNBALANCE”
+NPJB60023 | 『aBUTTON』 Vol.3 刈谷友衣子 特集「旅」
+NPJB60024 | GLADIATOR VS 解説書
+NPJB60026 | 『aBUTTON』 Vol.4 有村架純 特集「夢」
+NPJB60027 | 『SOSEXY』 熊田曜子 “DREAM SCOPE” by Leslie Kee
+NPJB60036 | Demon's Souls 独占公式パーフェクトガイド
 NPJB60038 | PlayView for Games
+NPJB60039 | ダークソウル 公式ガイドブック
+NPJB60040 | 『SOSEXY』 土屋アンナ “Four Rooms” by Shingo Wakagi
+NPJB60041 | 『aBUTTON』 Vol.5 山本舞香 特集「自然」
+NPJB60045 | 『IQUEEN』 Vol.5 仲里依紗“SOUND VISUAL”
+NPJB60047 | 『SOSEXY』 磯山さやか “Dream Luggage” by Leslie Kee
+NPJB60048 | 『IQUEEN』 Vol.6 木村カエラ "SPY AGENCY"
+NPJB60049 | 『aBUTTON』 Vol.6 逢沢りな 特集「自由」
+NPJB60050 | ガスト シークレットブック ～二つの贈りもの～
+NPJB60051 | 『aBUTTON』 Vol.7 小島藤子 特集「言葉」
+NPJB60052 | 『IQUEEN』 Vol.7 戸田恵梨香 "ACTRESS"
+NPJB60053 | 『SOSEXY』 吉木りさ “Dream Wedding” by Leslie Kee
+NPJB60054 | アマガミ オフィシャルコンプリートガイド
+NPJB60055 | サクラ大戦 15th Anniversary 太正浪漫グラフ
+NPJB60060 | ToHeart2 DX PLUS オフィシャルガイドブック
+NPJB60061 | トゥハート2 ダンジョントラベラーズ オフィシャルコンプリートガイド
 NPJB60062 | PlayView for Games
 NPJB60063 | PlayView for Games
 NPJB60064 | PlayView for Games
 NPJB60065 | PlayView for Games
+NPJB60068 | 『aBUTTON』 Vol.8 荒井萌 特集「生命」
+NPJB60069 | 『IQUEEN』 Vol.8 相武紗季 "PRIVATE"
+NPJB60070 | 『SOSEXY』 吉井怜 “Falling Angels” by Shingo Wakagi
 NPJB60071 | PlayView for Games
 NPJB60073 | PlayView for Games
 NPJB60074 | PlayView for Games
 NPJB60075 | PlayView for Games
 NPJB60076 | Binary Domain
 NPJB60077 | PlayView for Games
+NPJB60078 | モンスターハンターポータブル 3rd 公式ガイドブック
+NPJB60080 | 『IQUEEN』 Vol.9 北乃きい "DRY FLOWER"
+NPJB60081 | 『aBUTTON』 Vol.9 上白石萌音/上白石萌歌 特集「青春」
 NPJB60082 | Dengeki PlayStation Denshi-hen - Robotics;Notes - Fast Guide
 NPJB60083 | PlayView for Games
+NPJB60085 | アーシャのアトリエ ～黄昏の大地の錬金術士～ リーディングエピソード for 電撃PlayStation®
+NPJB60086 | 『IQUEEN』 Vol.10 篠田麻里子 "SECRET"
+NPJB60087 | 『SOSEXY』 山田優 “How to steal Shoes” by Shingo Wakagi"
 NPJB60088 | Okami
+NPJB60090 | 電撃PlayStation®特別版 電撃ネプテューヌV
+NPJB60091 | 『IQUEEN』 Vol.11 長澤まさみ "MAX"
 NPJB60092 | PlayView for Games
+NPJB60093 | TOKYO JUNGLE 公式パーフェクトガイド
+NPJB60094 | 俺の屍を越えてゆけ ぽっきーよ＆校長のプレイ日記
+NPJB60095 | ファミ通PS Vita
+NPJB60096 | 牧場物語 シュガー村とみんなの願い ザ・コンプリートガイド
+NPJB60097 | 電撃シェルノサージュ増刊号Vol.1『音楽と記憶の研究所』
+NPJB60098 | 電撃シェルノサージュvol.2
+NPJB60099 | 魔界戦記ディスガイア 公式イラストコレクション :DISGAEArt!!!
+NPJB60100 | ファントム・キングダム ザ・コンプリートガイド
+NPJB60101 | 剣と魔法と学園モノ。Final ～新入生はお姫様！～ ザ・コンプリートガイド
+NPJB60102 | キャサリン 公式ビジュアル＆シナリオコレクション ♀VENUS☆MODE♂
+NPJB60103 | 『ドラゴンズドグマ』で暮らす本 ～大塚角満 無限紀行～
+NPJB60104 | ペルソナ4 ジ・アルティメット イン マヨナカアリーナ 公式設定資料集
+NPJB60105 | ペルソナ4 公式設定画集
+NPJB60106 | 副島成記 ART WORKS 2004-2010
 NPJB60107 | Atelier Totori Plus - Official PlayView
 NPJB60107 | Atelier Totori ~The Adventurer Of Arland~ Plus [PlayView]
+NPJB60108 | ペルソナ2 罰 公式パーフェクトガイド
+NPJB60109 | ペルソナ3 ポータブル 公式ファンブック
+NPJB60110 | 『モンスターハンター』プレイ日記 本日も逆鱗日和
+NPJB60111 | 『モンスターハンター』プレイ日記 本日ももっと! 逆鱗日和
 NPJB60113 | Dengeki Ciel nosurge Zoukangou Vol. 2 - Rashella Christmas Party
+NPJB60115 | 絶対ヒーロー改造計画 ザ・コンプリートガイド
+NPJB60116 | 【最終版】魔界戦記ディスガイア4 ザ･コンプリートガイド［全DLC対応］
+NPJB60117 | WHITE ALBUM -綴られる冬の想い出- ザ・コンプリートガイド
+NPJB60118 | イース７ ザ・コンプリートガイド
+NPJB60119 | 英雄伝説 零の軌跡 ザ・コンプリートガイド＋設定資料集
+NPJB60120 | 英雄伝説 碧の軌跡 ザ・コンプリートガイド
+NPJB60121 | ペルソナ2 罪 公式パーフェクトガイド
+NPJB60122 | ペルソナ3 公式設定資料集
+NPJB60124 | キャサリン オフィシャル ガイドブック
+NPJB60125 | TOKYO JUNGLEから大切なこと教わった。
+NPJB60129 | バイオハザード6 公式コンプリートガイド
+NPJB60130 | エクストルーパーズ 公式コンプリートガイド
+NPJB60131 | GRAVITY DAZE THE COMPLETE GUIDE
+NPJB60135 | みんなのGOLF 6（PS Vita＆PS3版）公式ガイドブック 増補改訂版
 NPJB60142 | Meruru no Atelier Plus - Arland no Renkinjutsushi 3
+NPJB60146 | サモンナイト５ オフィシャル特別設定資料集
+NPJB60147 | 限界凸騎 モンスターモンピース ザ・コンプリートガイド
 NPJB60148 | Nerawareta Gakuen Kanzenban Shiryoushuu
+NPJB60150 | ソウル・サクリファイス 公式ガイドブック
 NPJB60153 | Escha & Logy no Atelier - Tasogare no Sora no Renkinjutsushi - Tasogare no Sekai no Kiroku Vol. 1
+NPJB60154 | 電撃シェルノサージュVol.4
+NPJB60155 | 電撃ビビッドレッドマガジン
+NPJB60156 | ファミ通PS Vita Vol.2
 NPJB60157 | Escha & Logy no Atelier - Tasogare no Sora no Renkinjutsushi - Tasogare no Sekai no Kiroku Vol. 2
 NPJB60158 | Escha & Logy no Atelier - Tasogare no Sora no Renkinjutsushi - Tasogare no Sekai no Kiroku Vol. 3
+NPJB60159 | フェイト/エクストラ CCC パーフェクトガイド
+NPJB60160 | モンスターハンターポータブル 3rd HD Ver. ザ・ファイナルガイド
+NPJB60161 | シャイニング・アーク コンプリートガイド
+NPJB60162 | バイオハザード リベレーションズ アンベールド エディション 公式ガイドブック
+NPJB60163 | 電撃シェルノサージュVol.5
+NPJB60164 | ディスガイア D2 ザ・コンプリートガイド
+NPJB60165 | 英雄伝説 零の軌跡＆碧の軌跡 公式設定資料集 クロスベルアーカイブ
+NPJB60166 | 那由多の軌跡 ザ・コンプリートガイド+設定資料集
+NPJB60167 | ペルソナ4 ザ・ゴールデン ザ・コンプリートガイド
+NPJB60168 | ドラゴンズドグマ 公式コンプリートガイド
+NPJB60169 | ドラゴンズドグマ：ダークアリズン 公式コンプリートガイド
+NPJB60170 | 閃乱カグラ SHINOVI VERSUS -少女達の証明- 公式パーフェクトバイブル+イラスト集
+NPJB60171 | 龍が如く5 夢、叶えし者 完全攻略極ノ書
+NPJB60172 | セブンスドラゴン2020-II コンプリートガイド
 NPJB60173 | The Museum of Killer Is Dead
+NPJB60174 | トトリのアトリエ ～アーランドの錬金術士２～ ザ・コンプリートガイド[PS3R＆PS Vita 対応版]
+NPJB60175 | メルルのアトリエ ～アーランドの錬金術士3～ ザ・コンプリートガイド[PS3R＆PS Vita 対応版]
+NPJB60176 | エスカ＆ロジーのアトリエ～黄昏の空の錬金術士～黄昏の世界の記録
+NPJB60177 | 電撃シェルノサージュVol.6
+NPJB60178 | ダンジョントラベラーズ2 王立図書館とマモノの封印 オフィシャルコンプリートガイド
+NPJB60179 | 「テイルズ オブ シンフォニア ユニゾナントパック」 グリーティングメッセージ映像
+NPJB60180 | フォトカノ Kiss オフィシャルコンプリートガイド
+NPJB60181 | シャイニング・ブレイド＆アーク ビジュアル設定資料集
+NPJB60182 | ZONE OF THE ENDERS HD EDITION ザ・コンプリートガイド+設定資料集∴HAIDARA Extended
+NPJB60183 | VJB「シンフォニア ノ キセキ」ユニゾナントインタビュー
+NPJB60185 | 電撃シェルノサージュVol.7
 NPJB60186 | Lightning Returns - Final Fantasy XII
+NPJB60187 | 「ストライダー飛竜」スペシャル映像
 NPJB60188 | Gekijouban Macross F Digital Archives
+NPJB60189 | 電撃シェルノサージュVol.8
+NPJB60190 | ジャンプヒーローズバイブル スペシャルムービー集
 NPJB60191 | Deka-zakari Senran Kagura & Valhalla Knights 3 Gold
+NPJB60192 | MOBILE SUIT GUNDAM SIDE STORIES Digest Movie -Re:Birth-
+NPJB60193 | 電撃シェルノサージュVol.9
+NPJB60194 | 電撃シェルノサージュVol.10
+NPJB60195 | 電撃シェルノサージュVol.11
+NPJB60196 | ＮＡＲＵＴＯ－ナルト－ 疾風伝 サニー・サイド・バトル!!!
+NPJB60197 | Vジャンプブックス攻略本特典 メカナルトデジタル設定資料集
 NPJB70001 | Garou Densetsu - Shukumei no Tatakai
 NPJB70002 | ASO II - The Last Guardian - Alpha Mission II
 NPJB70003 | King of Fighters '94, The
@@ -9805,13 +10808,16 @@ NPJB70007 | Metal Slug
 NPJB70008 | League Bowling
 NPJB70009 | Tokutenou
 NPJB70010 | Ryuuko no Ken
+NPJB70011 | NEOGEO STATION ベースボールスターズ2
 NPJB70012 | King of Fighters '95, The
 NPJB70013 | World Heroes
 NPJB70014 | Shock Troopers
 NPJB70015 | King of Fighters '96, The
+NPJB70016 | NEOGEO STATION メタルスラッグ2
 NPJB90001 | Ridge Racer 7 [Demo]
 NPJB90011 | Ninja Gaiden Sigma [Demo]
 NPJB90021 | Bladestorm: The Hundred Years' War [Demo]
+NPJB90028 | TVショーキング
 NPJB90030 | Imabi Kisou [Demo]
 NPJB90042 | G1 Jockey 4 [Demo]
 NPJB90043 | Agarest Senki [Demo]
@@ -9831,6 +10837,7 @@ NPJB90087 | LOST PLANET: Extreme Condition Online [Demo]
 NPJB90090 | Metal Gear Online Premiere (MGO) [Beta]
 NPJB90100 | HAZE [Demo]
 NPJB90105 | Battle Fantasia [Demo]
+NPJB90106 | BattleFantasia Trial
 NPJB90107 | Dark Sector [Demo]
 NPJB90112 | BATTLEFIELD: Bad Company™ [Demo]
 NPJB90113 | Metal Gear Solid 4 Database
@@ -9841,6 +10848,7 @@ NPJB90132 | Eternal Sonata [Demo] (Trusty Bell: Chopin's Dream / Trusty Bell: Ch
 NPJB90137 | Cross Edge [Demo]
 NPJB90139 | FIFA 09 [Demo]
 NPJB90140 | Mirror's Edge™ [Demo]
+NPJB90143 | NBA LIVE 09 Demo
 NPJB90144 | World Soccer: Winning Eleven 2009 [Demo]
 NPJB90147 | FALLOUT 3
 NPJB90149 | Metal Gear Solid 4: Guns of the Patriots [Demo]
@@ -9848,6 +10856,7 @@ NPJB90150 | World Soccer: Winning Eleven 2009
 NPJB90152 | RESIDENT EVIL 5 [Demo] [Biohazard 5]
 NPJB90154 | YAKUZA 3
 NPJB90156 | Valkyria Chronicles [Demo]
+NPJB90157 | Skate 2 (DEMO)
 NPJB90159 | BioShock® [Demo]
 NPJB90160 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM [Demo]
 NPJB90162 | Sonic Unleashed [Demo]
@@ -9869,10 +10878,16 @@ NPJB90187 | UFC® Undisputed™ 2009 [Demo]
 NPJB90192 | Katamari Forever (aka Katamaridamacy TRIBUTE) [Demo]
 NPJB90196 | The King Of Fighters XII [Demo]
 NPJB90197 | Mobile Suit Gundam: Battlefield Record U.C.0081
+NPJB90199 | LOST PLANET 2 Co-op Demo
+NPJB90200 | LOST PLANET 2 Multiplayer Demo
 NPJB90205 | FIFA 10 [Demo]
 NPJB90207 | Ninja Gaiden Sigma 2 [Demo]
+NPJB90208 | WORLD SOCCER Winning Eleven 2010 体験版
 NPJB90212 | BAYONETTA [Demo]
+NPJB90213 | Need for Speed™ SHIFT Demo
 NPJB90218 | TV Show King
+NPJB90220 | 真・三國無双 MULTI RAID Special
+NPJB90221 | バットマン アーカム・アサイラム 体験版
 NPJB90223 | End of Eternity Playable t.A.B. [Demo]
 NPJB90225 | Ar Tonelico III
 NPJB90226 | Brain Challenge Deluxe
@@ -9882,24 +10897,76 @@ NPJB90232 | GUNDAM VIEWCHIVES [BETA]
 NPJB90233 | PixelJunk™ Shooter [Demo]
 NPJB90235 | FALLOUT 3 [Game of the Year Edition]
 NPJB90237 | Thexder Neo
+NPJB90238 | BIOHAZARD 5 Alternative Edition Demo
+NPJB90239 | BATTLEFIELD: Bad Company 2™ Demo
 NPJB90240 | Minna de Spelunker Black
+NPJB90241 | トライン ザ ロストレリック体験版
+NPJB90243 | 龍が如く４ 伝説を継ぐもの 体験版
+NPJB90246 | Darksiders Demo
 NPJB90253 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 2 [Demo]
+NPJB90256 | UFC® Undisputed™ 2010 Demo
 NPJB90257 | Majin and the Forsaken Kingdom™
+NPJB90263 | Tom Clancy's H.A.W.X. 2 DEMO
+NPJB90264 | Split/Second体験版
+NPJB90265 | Kane & Lynch 2: Dog Days Demo
+NPJB90271 | Blur Demo
+NPJB90274 | BIG 3 GUN SHOOTING 体験版
+NPJB90275 | VANQUISH OFFICIAL DEMO - VELOCITY ATTACK
+NPJB90276 | VANQUISH CHALLENGE MODE DEMO
 NPJB90277 | Space Invaders Infinity Gene
+NPJB90279 | JIKKYOU PAWAFURU PUROYAKYU 2010 TRIAL
+NPJB90287 | FIFA 11 Demo
+NPJB90289 | ENSLAVED™: Odyssey to the West™ (Demo)
+NPJB90294 | EA SPORTS™ 総合格闘技 DEMO"
 NPJB90295 | Trinity: Zill Ol'll Zero [Demo]
+NPJB90296 | R.U.S.E. (demo)
+NPJB90298 | WORLD SOCCER Winning Eleven 2011 DEMO
 NPJB90302 | Tales of Graces™
 NPJB90309 | Moon Diver
 NPJB90310 | Trinity: Zill Ol'll Zero [Demo]
+NPJB90311 | 世界最強銀星囲碁 ハイブリッドモンテカルロ 体験版
+NPJB90312 | AERO-CROSS TRIAL
+NPJB90315 | Need for Speed™ Hot Pursuit DEMO
+NPJB90316 | WWE SmackDown vs. RAW 2011 Demo
 NPJB90317 | Catherine [Demo]
+NPJB90338 | まもるクンは呪われてしまった！ ～冥界活劇ワイド版～ 体験版
 NPJB90342 | nail'd
+NPJB90344 | Top Spin 4 (Demo)
+NPJB90345 | 龍が如く OF THE END 体験版
 NPJB90346 | FINAL FANTASY® XIII-2
+NPJB90349 | PixelJunk™ Shooter 2 Demo
+NPJB90356 | SIMPLE500シリーズ Vol.2 THE 密室からの脱出 体験版
+NPJB90358 | Red Faction: Battlegrounds Demo
 NPJB90359 | El Shaddai Ascension of the Metatron [Demo]
+NPJB90363 | Major League Baseball 2K11 Demo
+NPJB90364 | 世界最強銀星将棋 風雲龍虎雷伝 体験版
+NPJB90365 | Power Smash 4 WORLD TOUR DEMO
+NPJB90371 | Call of Duty®: Black Ops Demo [JP]
+NPJB90375 | ソニック ジェネレーションズ 体験版
+NPJB90378 | Red Faction: Armageddon Demo
+NPJB90385 | ARMORED CORE V CBTver.
+NPJB90405 | ELEVATOR ACTION DELUXE DEMO
+NPJB90410 | ACE COMBAT ASSAULT HORIZON Demo
+NPJB90419 | FIFA 12 体験版
+NPJB90420 | WORLD SOCCER Winning Eleven 2012 DEMO
 NPJB90422 | Idolmaster 2, The
+NPJB90423 | DUNAMIS15体験版
+NPJB90424 | Dungeon Siege III Demo
+NPJB90426 | WORLD SOCCER Winning Eleven 2012 DEMO2
+NPJB90430 | Need for Speed™ The Run Demo
+NPJB90433 | Dragon's Dogma Demo
 NPJB90434 | SSX™ [Demo]
+NPJB90435 | ソニック ジェネレーションズ 製品体験版
 NPJB90446 | Max Anarchy
+NPJB90453 | Dragon Age II Demo
 NPJB90455 | HULU
+NPJB90456 | BEYOND THE FUTURE - FIX THE TIME ARROWS - PREQUEL（体験版)
 NPJB90459 | Rayman® Origins [Demo]
+NPJB90480 | BINARY DOMAIN DEMO
+NPJB90487 | FIFA Street 体験版
+NPJB90491 | UFC® Undisputed™ 3 Demo
 NPJB90501 | Birds of Steel [Demo]
+NPJB90503 | 機動戦士ガンダム バトルオペレーション クローズドβ
 NPJB90512 | Ninja Gaiden 3
 NPJB90516 | Robotics;Notes
 NPJB90524 | Dragon's Dogma
@@ -9925,16 +10992,20 @@ NPJB90588 | Hatsune Miku - Project Diva F
 NPJB90589 | NARUTO SHIPPUDEN™: Narutimate Storm 3
 NPJB90590 | Gundam Breaker
 NPJB90591 | One Piece: Pirate Warriors 2 [One Piece - Kaizoku Musou 2] [Demo]
+NPJB90593 | ARMORED CORE VERDICT DAY NTVer.
 NPJB90597 | Ninja Gaiden 3
 NPJB90599 | FINAL FANTASY™ XIV: A Realm Reborn® [Beta Version]
 NPJB90602 | Injustice - Gods Among Us - Clash of Death
+NPJB90607 | サカつく プロサッカークラブをつくろう！ 体験版
 NPJB90608 | Muv-Luv Alternative - Total Eclipse
 NPJB90611 | Disorder 6
 NPJB90613 | XBlaze Code - Embryo
 NPJB90614 | Puyo Puyo Tetris
 NPJB90615 | Tears to Tiara II
+NPJB90617 | SOULCALIBUR Lost Swords：βテストver.
 NPJB90621 | FIFA 14
 NPJB90623 | DragonBall Z - Battle of Z
+NPJB90624 | WORLD SOCCER Winning Eleven 2014 DEMO
 NPJB90625 | Dark Souls II - Network Test
 NPJB90626 | Hanasaku Manimani
 NPJB90627 | Castlevania - Lords of Shadow 2
@@ -9946,19 +11017,25 @@ NPJB90640 | Fairy Fencer F
 NPJB90656 | Kazoku Keikaku - Re - Tsumugu Ito
 NPJB90677 | Ace Combat - Infinity
 NPJB90678 | Diablo III
+NPJB90679 | ドラゴンボールZ BATTLE OF Z Vジャンプ体験版
 NPJB90680 | Ginsei Igo 2 - Next Generation
 NPJB90685 | 2014 FIFA World Cup - Brazil
 NPJB90687 | NARUTO SHIPPUDEN™: Ultimate Ninja® STORM Revolution [Demo]
+NPJB90688 | WORLD SOCCER Winning Eleven 2014 DEMO New ver.
 NPJB90690 | Yakuza Ishin
 NPJB90691 | World Soccer Winning Eleven 2014
 NPJB90705 | Hatsune Miku - Project Diva F 2nd
 NPJB90707 | Eiyuu Densetsu: Sen no Kiseki
 NPJB90710 | Ragnarok Odyssey Ace
+NPJB90712 | Battlefield™ Hardline Beta
 NPJB90713 | FIFA 15
+NPJB90716 | マジカルビート 体験版
 NPJB90717 | Double Dragon Neon
 NPJB90720 | DRAGON BALL® Xenoverse [BETA]
 NPJB90723 | Shin Sangoku Musou 7 - Empires
+NPJB90725 | LOST DIMENSION 体験版
 NPJB90727 | Diablo III: Reaper of Souls (Ultimate Evil Edition)
+NPJB90728 | WORLD SOCCER Winning Eleven 2015 DEMO
 NPJB90756 | Eiyuu Densetsu: Sen no Kiseki II
 NPJB90763 | Gojira - Godzilla
 NPJB90764 | YAKUZA: Zero [Ryu ga Gotoku Zero: Chikai no Basho] [Demo]
@@ -9973,6 +11050,7 @@ NPJB90789 | PES 2016: Pro Evolution Soccer
 NPJB90797 | Arslan Senki x Musou
 NPJB90797 | Arslan: The Warriors Of Legend [Arslan Senki × Muso] [Demo]
 NPJB90858 | Odin Sphere - Leifthrasir
+NPJB90867 | DAZN_BETA
 NPJB90869 | Shin Sangoku Musou Eiketsuden
 NPJB90869 | Toukiden 2
 NPJB90870 | Dynasty Warriors - Yingjie Den
@@ -10712,6 +11790,11 @@ NPJJ30055 | R-Type [PSP]
 NPJJ30059 | Kaizou Chounin Shubibinman 3: Ikai No Princess
 NPJK00001 | Xamd: Lost Memories
 NPJN00001 | PixelJunk™ Monsters Soundtrack
+NPJN00003 | MALICIOUS™ Soundtrack
+NPJN00009 | METAL GEAR SOLID V: THE PHANTOM PAIN プロモーションムービー エクスポーター
+NPJN00010 | Frozen Synapse Prime Sound Track
+NPJN00013 | よるのないくに&ソフィーのアトリエ スペシャルキャンペーン
+NPJN00014 | ペルソナ２０thアニバーサリー・オールタイムベストサウンドトラック
 NPJQ00006 | AFRIKA™ Dynamic Theme
 NPJQ00008 | Gomibako
 NPJQ90007 | PlayStation Home Theme
@@ -10731,6 +11814,9 @@ NPUA30006 | Feeding Frenzy 2: Shipwreck Showdown
 NPUA30013 | Switchball
 NPUA30014 | Groovin´ Blocks
 NPUA30016 | Revenge of the Wounded Dragons
+NPUA30022 | Syphon Filter™: Logan's Shadow (Original Soundtrack from the Video Game)
+NPUA30026 | God of War® II (Original Soundtrack from the Video Game)
+NPUA30027 | Jak and Daxter: The Lost Frontier (Original Soundtrack from the Video Game)
 NPUA30029 | Gundemonium Recollection
 NPUA30030 | Hitogata Happa
 NPUA30031 | GundeadliGne
@@ -10740,24 +11826,49 @@ NPUA30034 | Acceleration of Suguri - X Edition
 NPUA30035 | Swords and Soldiers
 NPUA30036 | Akimi Village
 NPUA30037 | Terrover
+NPUA30045 | God of War® III: Original Soundtrack from the Video Game
+NPUA30046 | Echochrome: Original Soundtrack from the Video Game
+NPUA30047 | Echochrome: Piano Remixes from the Video Game
 NPUA30048 | Free Realms MMORPG
 NPUA30054 | Qlione 2
+NPUA30057 | Pain: Original Soundtrack from the Video Game
+NPUA30058 | Do You Really Want to Hurt Me - PAIN exclusive by David Hasselhoff
 NPUA30059 | Plants vs. Zombies
 NPUA30060 | Slam Bolt Scrappers
 NPUA30061 | Rochard
+NPUA30062 | God of War®: Original Soundtracks from the Video Game Trilogy
+NPUA30064 | The Fight: Lights Out™ (Original Soundtrack from the Video Game)
+NPUA30065 | Echochrome™ II, a Soundtrack
 NPUA30066 | Sideway™ New York
 NPUA30067 | Killzone®3
+NPUA30068 | SOCOM 4 Original Soundtrack from the Videogame
+NPUA30069 | Infamous 2: The Blue Soundtrack
 NPUA30070 | inFamous 2 - The Red Soundtrack
 NPUA30073 | PAYDAY: The Heist
+NPUA30074 | PlayStation® Move Heroes: The Soundtrack
+NPUA30078 | Resistance 3 (Original Soundtrack from the Video Game)
+NPUA30094 | Unit 13™: Original Soundtrack from the Video Game
+NPUA30095 | Journey™: Original Soundtrack from the Video Game
+NPUA30096 | Uncharted: Golden Abyss™ (Original Soundtrack from the Video Game)
+NPUA30099 | Sorcery™ (Original Soundtrack from the Video Game)
 NPUA30100 | Starhawk™ [Original Soundtrack]
 NPUA30114 | Datura
 NPUA30124 | God of War® Ascension
+NPUA30125 | Soul Sacrifice™ (Original Soundtrack from the Video Game)
 NPUA30127 | GT Academy 2013
 NPUA30127 | Gran Turismo®6
+NPUA30133 | Puppeteer™ (Original Soundtrack)
 NPUA30134 | Last of Us, The
+NPUA30135 | Diggs Nightcrawler™ Original Soundtrack
+NPUA30136 | rain™ Original Soundtrack
 NPUA30151 | Rain - Musical Montage
 NPUA30166 | Beyond: Two Souls™ - Soundtrack
 NPUA30170 | Beyond: Two Souls™
+NPUA30172 | Tearaway™ Soundtrack
+NPUA30173 | Tearaway™ Soundtrack (with bonus tracks)
+NPUA30184 | inFAMOUS: Second Son™ (Soundtrack)
+NPUA30186 | The Last of Us™ Volume 2 (Original Soundtrack)
+NPUA30203 | The Order: 1886™ (Original Soundtrack)
 NPUA30373 | LIMBO
 NPUA70001 | Folklore™ / FolksSoul [Demo]
 NPUA70002 | Folklore™ "PlayStation Underground" [Demo]
@@ -10789,6 +11900,7 @@ NPUA70059 | Fat Princess [Demo]
 NPUA70060 | SingStar® Viewer
 NPUA70063 | MLB 10: The Show™ [Demo]
 NPUA70069 | Adhoc Party
+NPUA70073 | ModNation Racers
 NPUA70074 | ModNation™ Racers [Beta]
 NPUA70080 | God of War® III [Demo]
 NPUA70083 | Ratchet & Clank Future: A Crack in Time Ratchet (Krell Canyon [Demo])
@@ -10800,6 +11912,7 @@ NPUA70092 | UNCHARTED 2: Among Thieves™ [Single Player Demo]
 NPUA70095 | MotorStorm: Pacific Rift
 NPUA70096 | ModNation™ Racers [QORE Demo]
 NPUA70098 | Flower [Demo]
+NPUA70100 | MLB 10 The Show ™ (3D Demo)
 NPUA70101 | Sports Champions
 NPUA70102 | Kung Fu Rider
 NPUA70103 | EyePet™ [Demo]
@@ -10809,9 +11922,11 @@ NPUA70107 | Beat Sketch !™ [Demo]
 NPUA70108 | The Shoot
 NPUA70111 | Start the Party!
 NPUA70112 | HEAVY RAIN™
+NPUA70116 | Hustle Kings™
 NPUA70117 | LittleBigPlanet™ 2 [Beta]
 NPUA70118 | Killzone®3
 NPUA70121 | MAG™ [Beta]
+NPUA70123 | DEAD NATION
 NPUA70124 | MLB 11: The Show™ [Demo]
 NPUA70126 | MAG™
 NPUA70127 | LittleBigPlanet™ 2 [Demo]
@@ -10823,48 +11938,71 @@ NPUA70134 | Killzone®3 - Singleplayer 3D
 NPUA70135 | SOCOM 4: U.S. Navy SEALs [Beta]
 NPUA70136 | Starhawk
 NPUA70138 | Killzone®3
+NPUA70139 | Motorstorm™: APOCALYPSE Singleplayer Demo
 NPUA70140 | MotorStorm®: Apocalypse
 NPUA70141 | Eat Them!™
 NPUA70142 | PixelJunk™ Shooter 2 [Demo]
 NPUA70143 | DEAD NATION™ Road Of Devastation
+NPUA70144 | MOTORSTORM™: APOCALYPSE Multiplayer Demo
 NPUA70145 | Fight, The - Lights Out
+NPUA70146 | inFamous 2 Beta
+NPUA70147 | Resistance™ 3 Closed Beta
 NPUA70151 | LittleBigPlanet™ 2 [Demo]
 NPUA70152 | PlayStation Move Ape Escape
 NPUA70153 | Uncharted 3 - Drake's Deception
 NPUA70156 | inFamous 2 [Demo]
+NPUA70157 | Ratchet & Clank®: All 4 One - Closed Online Test
+NPUA70159 | PlayStation®Move Interactive Demo
+NPUA70160 | Journey (Public Beta)
 NPUA70161 | Resistance 3 [Multiplayer Beta]
 NPUA70163 | Medieval Moves: Deadmund's Quest™
 NPUA70165 | Carnival Island
+NPUA70166 | Carnival Island Demo
 NPUA70167 | Killzone®3 Multiplayer
 NPUA70169 | LittleBigPlanet™ 2 [Demo]
 NPUA70173 | God of War® Origins Collection
 NPUA70174 | LittleBigPlanet™ 2 [Demo]
 NPUA70175 | Resistance 3
+NPUA70176 | Everybody Dance™ Demo
 NPUA70177 | Ratchet & Clank - All 4 One
 NPUA70178 | Everybody Dance [Demo]
 NPUA70179 | InFamous: Festival of Blood
 NPUA70180 | UNCHARTED 3: Drake's Deception™
 NPUA70181 | Ratchet & Clank™: All 4 One [Demo]
+NPUA70183 | Uncharted 3: Drake's Deception™ Demo
 NPUA70188 | PixelJunk™ Side Scroller [Demo]
 NPUA70192 | Twisted Metal
 NPUA70195 | Start the Party! - Save the World
 NPUA70196 | Gran Turismo Academy 2012 [Demo]
 NPUA70203 | PixelJunk 4am - Live Viewer
 NPUA70204 | Sorcery™ [Demo]
+NPUA70208 | LittleBigPlanet™ Karting - Public Beta
+NPUA70209 | Sports Champions™ 2 (Kiosk)
+NPUA70210 | Starhawk™ (Demo)
 NPUA70214 | PlayStation All-Stars Battle Royale
 NPUA70216 | God of War® Ascension
 NPUA70218 | Journey™ [Collector's Edition]
 NPUA70224 | Ratchet & Clank - Full Frontal Assault
 NPUA70225 | Sly Cooper
 NPUA70227 | Sports Champions 2
+NPUA70228 | PlayStation® All-Stars Battle Royale™ (BETA)
+NPUA70230 | Journey Retailer Demo
+NPUA70232 | PlayStation® All-Stars Battle Royale™ (Kiosk Demo)
+NPUA70242 | Everybody Dance™ 2 Retail Demo
 NPUA70246 | PlayStation® All-Stars Battle Royale
 NPUA70249 | LittleBigPlanet™ Karting [Demo]
 NPUA70250 | Sly Cooper: Thieves in Time™ [Demo]
 NPUA70251 | Sound Shapes
 NPUA70257 | The Last of Us™ [Demo]
+NPUA70264 | The Unfinished Swan™ - Trial
 NPUA70265 | God of War® Ascension [Demo]
+NPUA70266 | MLB 13 The Show™ Demo
 NPUA70269 | God of War® Ascension
+NPUA70270 | The Last of Us™ BETA DEMO
+NPUA72072 | Wonderbook™: Book of Potions DEMO
+NPUA72073 | Wonderbook™ Walking with Dinosaurs Demo
 NPUA72074 | Beyond: Two Souls™ [Demo]
+NPUA72075 | Puppeteer™ Demo Version
 NPUA80001 | flOw™
 NPUA80002 | Blast Factor™
 NPUA80007 | SOCOM: Confrontation
@@ -10920,6 +12058,7 @@ NPUA80154 | The Last Guy™
 NPUA80157 | Elefunk™
 NPUA80160 | PixelJunk™ Eden
 NPUA80191 | Qore
+NPUA80192 | PixelJunk™ Monsters Soundtrack
 NPUA80216 | CRASH COMMANDO™
 NPUA80217 | Rag Doll Kung Fu™: Fists of Plastic
 NPUA80219 | Xamd: Lost Memories
@@ -10929,6 +12068,7 @@ NPUA80228 | Savage Moon™
 NPUA80230 | Buzz! Junior: Jungle Party
 NPUA80231 | Buzz! Junior: Monster Rally
 NPUA80232 | Buzz! Junior: Robojam
+NPUA80234 | UNCHARTED: EYE OF INDRA
 NPUA80247 | Trash Panic
 NPUA80253 | PixelJunk™ Shooter
 NPUA80275 | Journey™
@@ -10939,27 +12079,40 @@ NPUA80319 | Qruton (Numblast)
 NPUA80343 | Uncharted 2 - Among Thieves - Digital Treasure Map
 NPUA80350 | God of War: Game Directors Live - Part 2
 NPUA80358 | DEAD NATION™ Road Of Devastation
+NPUA80361 | Uncharted 2: Among Thieves Soundtrack Installer
+NPUA80382 | UNCHARTED: EYE OF INDRA
 NPUA80384 | HEAVY RAIN™
 NPUA80395 | PixelJunk™ Racers 2nd Lap
 NPUA80396 | PixelJunk™ Shooter 2
 NPUA80400 | White Knight Chronicles - International Edition - Travelers
+NPUA80417 | echochrome™ The Gallery
+NPUA80418 | Flower: Original Soundtrack from the Video Game
+NPUA80426 | Heavy Rain: Original Soundtrack from the Video Game
 NPUA80456 | God of War: Unearthing the Legend - Vol. 3
 NPUA80456 | God of War® III
 NPUA80470 | Tumble [Move] [Demo]
 NPUA80472 | LittleBigPlanet™
 NPUA80473 | echochrome™ ii
+NPUA80477 | ModNation Racers: Original Soundtrack from the Video Game
 NPUA80479 | LittleBigPlanet™: Sackboy's Prehistoric Moves
 NPUA80480 | inFamous Collection
 NPUA80483 | Buzz!™: Quiz Player [EN]
+NPUA80484 | Beat Sketcher™
 NPUA80488 | Eat Them!™
 NPUA80490 | God of War® HD
 NPUA80491 | God of War® II HD
 NPUA80499 | MotorStorm 3D Rift
+NPUA80500 | Super Stardust™ HD Soundtrack
+NPUA80508 | God of War®: Ghost of Sparta - Original Soundtrack from the Video Game
 NPUA80519 | Dead Nation
 NPUA80523 | TOKYO JUNGLE
+NPUA80532 | TOP DARTS™
 NPUA80535 | ModNation™ Racers
+NPUA80536 | PlayStation®Move Ape Escape™
 NPUA80538 | PixelJunk™ 4am
 NPUA80543 | Sound Shapes™
+NPUA80550 | Super Stardust™ HD Soundtrack
+NPUA80556 | MAG™
 NPUA80565 | Killzone®3
 NPUA80567 | PixelJunk™ Side Scroller
 NPUA80618 | Jak And Dexter Collection
@@ -10979,6 +12132,7 @@ NPUA80663 | Sly Cooper and the Thievius Raccoonus™
 NPUA80664 | Sly 2: Band of Thieves™
 NPUA80665 | Sly 3: Honor Among Thieves™
 NPUA80670 | Sports Champions
+NPUA80671 | Medieval Moves: Deadmund's Quest™ (digital)
 NPUA80676 | ICO™ [PS2]
 NPUA80677 | Shadow of the Colossus™ [PS2]
 NPUA80678 | MotorStorm RC
@@ -11002,6 +12156,8 @@ NPUA80790 | Nostril Shot
 NPUA80796 | Sorcery™
 NPUA80797 | Malicious
 NPUA80802 | Sports Champions 2
+NPUA80809 | Starhawk™ (Digital Download)
+NPUA80811 | Starhawk™ (Multiplayer Edition)
 NPUA80812 | Starhawk
 NPUA80812 | Starhawk™ (Solo Campaign)
 NPUA80823 | PlayStation Move Fitness
@@ -11019,17 +12175,21 @@ NPUA80912 | MLB 13: The Show™
 NPUA80918 | God of War® Ascension
 NPUA80930 | HELLDIVERS™
 NPUA80936 | When Vikings Attack!™
+NPUA80937 | The Unfinished Swan™ - Best of PSN Edition
+NPUA80945 | PAIN - Free to Play
 NPUA80948 | Wonderbook: Diggs Nightcrawler
 NPUA80959 | Puppeteer™
 NPUA80960 | The Last of Us™
 NPUA80965 | Ratchet & Clank Future - Tools of Destruction
 NPUA80966 | Ratchet & Clank Future - A Crack in Time
+NPUA80967 | LittleBigPlanet™ HUB
 NPUA80969 | MLB 14: The Show™
 NPUA80982 | MLB 13: The Show™ - Home Run Derby
 NPUA80983 | InviZimals: The Lost Kingdom
 NPUA80994 | Puppeteer™
 NPUA80997 | Wonderbook: Walking with Dinosaurs
 NPUA81045 | Beyond: Two Souls™ - Extended Soundtrack
+NPUA81048 | Beyond: Two Souls™ Making Of Featurettes Installer [CAN]
 NPUA81049 | Gran Turismo®6
 NPUA81051 | Entwined™
 NPUA81052 | Doki-Doki Universe
@@ -11037,11 +12197,14 @@ NPUA81087 | Beyond: Two Souls™
 NPUA81088 | Beyond: Two Souls™
 NPUA81116 | LittleBigPlanet™ 3
 NPUA81156 | MLB 15: The Show™
+NPUA81174 | LittleBigPlanet™3 Digital Version BETA
 NPUA81175 | The Last of Us: Left Behind
+NPUA81229 | PAIN - F2P Beta
 NPUA81240 | PlayStation 20th Anniversary Theme
 NPUA81353 | MLB 16: The Show
 NPUA90636 | MLB 16: The Show
 NPUA98103 | UNCHARTED: Drake's Fortune® [Demo]
+NPUA98107 | Resistance: Fall Of Man™ Demo
 NPUA98116 | Killzone®2 [Public Beta Phase 2]
 NPUA98153 | Ratchet & Clank™: Tools of Destruction [Demo]
 NPUA98202 | The Unfinished Swam
@@ -11065,6 +12228,7 @@ NPUB30023 | Fatal Inertia EX
 NPUB30024 | 1942: Joint Strike
 NPUB30025 | Nova Strike
 NPUB30026 | EA SPORTS™ Fantasy Football Live Draft Tracker
+NPUB30027 | Live Score Tracker
 NPUB30028 | Assault Heroes
 NPUB30029 | NFL Head Coach 09
 NPUB30030 | Red Baron Arcade
@@ -11074,6 +12238,7 @@ NPUB30033 | Age Of Booty
 NPUB30034 | Super Street Fighter II Turbo HD Remix
 NPUB30035 | Supersonic Acrobatic Rocket-Powered Battle-Cars
 NPUB30036 | Mega Man 9
+NPUB30037 | Geon
 NPUB30039 | Söldner-X: Himmelsstürmer
 NPUB30040 | Burnout™ Paradise
 NPUB30041 | Puzzle Quest: Challenge of the Warlords
@@ -11088,6 +12253,7 @@ NPUB30049 | Brain Challenge
 NPUB30050 | Watchmen: The End is Nigh Part 1
 NPUB30051 | Bomberman Ultra
 NPUB30052 | Flock!
+NPUB30053 | PowerUp Forever
 NPUB30054 | Cuboid
 NPUB30055 | Zen Pinball
 NPUB30056 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness Vol. 2
@@ -11114,6 +12280,7 @@ NPUB30076 | Puzzle Chronicles
 NPUB30077 | BATTLEFIELD 1943™
 NPUB30078 | Gunstar Heroes
 NPUB30082 | UNO
+NPUB30083 | TV Show King
 NPUB30084 | Star Trek: D-A-C
 NPUB30086 | Namco Museum Essentials
 NPUB30087 | Final Fight: Double Impact
@@ -11136,6 +12303,7 @@ NPUB30107 | TMNT: Turtles in Time Re-Shelled
 NPUB30108 | Tank Battles
 NPUB30109 | Trine™
 NPUB30110 | Pinballistik
+NPUB30111 | 20 in 1 Game Fest
 NPUB30112 | Rush'N Attack Ex-Patriot
 NPUB30113 | Polar Panic
 NPUB30114 | Mega Man 10
@@ -11162,6 +12330,7 @@ NPUB30147 | Fret Nice
 NPUB30148 | Super Stacker Party
 NPUB30151 | After Burner: Climax
 NPUB30152 | Spelunker HD
+NPUB30153 | Call of Duty Classic
 NPUB30154 | Tank Wars (Tank Battles)
 NPUB30155 | TV Show King
 NPUB30156 | 3D Ultra Mini Golf Adventures 2
@@ -11193,6 +12362,7 @@ NPUB30197 | Secret Of Monkey Island Special Edition
 NPUB30203 | Aqua Panic!
 NPUB30206 | Joe Danger
 NPUB30210 | Storm
+NPUB30215 | Football Genius
 NPUB30217 | Dragon's Lair HD
 NPUB30219 | Sam & Max: The Devil's Playhouse Episode 2: The Tomb of Sammun-Mak
 NPUB30220 | Sam & Max: The Devil's Playhouse Episode 3: They Stole Max's Brain!
@@ -11219,6 +12389,7 @@ NPUB30250 | Faery: Legends of Avalon
 NPUB30251 | Dungeon Defenders
 NPUB30252 | Gotham City Impostors
 NPUB30253 | Blade Kitten
+NPUB30254 | Landit Bandit
 NPUB30255 | My Aquarium
 NPUB30256 | Alien Zombie Megadeath
 NPUB30257 | League Bowling [NeoGeo]
@@ -11234,6 +12405,7 @@ NPUB30266 | The King Of Fighters '94 [NeoGeo]
 NPUB30267 | Costume Quest
 NPUB30268 | Modern Combat: Domination
 NPUB30269 | Dead Space: Ignition
+NPUB30271 | HOARD™
 NPUB30272 | Explodemon!
 NPUB30275 | Absolute Supercars
 NPUB30278 | TNT Racers
@@ -11244,16 +12416,20 @@ NPUB30285 | Tales of Monkey Island 3: Lair of the Leviathan
 NPUB30286 | Tales of Monkey Island 4: The Trial and Execution of Guybrush Threepwood
 NPUB30287 | Tales of Monkey Island 5: Rise of the Pirate God
 NPUB30288 | Medal of Honor Frontline
+NPUB30289 | Who Wants To Be A Millionaire: Special Editions
 NPUB30290 | Stacking
+NPUB30291 | NBA JAM
 NPUB30292 | DeathSpank: Thongs of Virtue
 NPUB30295 | Red Faction: Guerrilla
 NPUB30296 | Red Faction: Battlegrounds
 NPUB30297 | The UnderGarden
+NPUB30299 | REAL SOCCER
 NPUB30301 | Street Fighter III 3rd Strike Online Edition
 NPUB30302 | Crysis HD
 NPUB30303 | Prince of Persia Sands of Time HD [PS2]
 NPUB30304 | Pac-Man Championship Edition DX
 NPUB30305 | Space Invaders Infinity Gene
+NPUB30306 | Tiger Woods PGA TOUR® 11
 NPUB30308 | All Zombies Must Die!
 NPUB30309 | Deadliest Warrior: The Game
 NPUB30310 | Spare Parts
@@ -11265,6 +12441,7 @@ NPUB30316 | TOPATOI: The Great Tree Story Complete Edition
 NPUB30318 | Dungeons & Dragons: Daggerdale
 NPUB30320 | X-Men: The Arcade Game
 NPUB30321 | Galaga Legions DX
+NPUB30322 | AERO-CROSS
 NPUB30323 | Alex Kidd In Miracle World
 NPUB30324 | Monster World IV
 NPUB30325 | The Revenge of Shinobi
@@ -11288,7 +12465,10 @@ NPUB30347 | 4 ELEMENTS HD
 NPUB30350 | Cubixx HD
 NPUB30352 | SEGA Bass Fishing
 NPUB30353 | Space Channel Part 2
+NPUB30354 | NEOGEO STATION BASEBALL STARS 2
 NPUB30358 | Batman: Arkham City
+NPUB30360 | NEOGEO STATION THE KING OF FIGHTERS '95
+NPUB30361 | NEOGEO STATION WORLD HEROES
 NPUB30365 | GHOSTBUSTERS: Sanctum of Slime
 NPUB30367 | Blokus
 NPUB30368 | Jeremy McGrath's Offroad
@@ -11320,7 +12500,9 @@ NPUB30397 | StrongBad's Cool Game for Attractive People - Episode 3
 NPUB30398 | StrongBad's Cool Game for Attractive People - Episode 5
 NPUB30401 | Back to the Future: The Game: Episode 1: It's About Time
 NPUB30403 | StarDrone
+NPUB30404 | Fast Draw Showdown
 NPUB30406 | Renegade Ops
+NPUB30407 | PREMIER MANAGER
 NPUB30408 | Magic: The Gathering - Duels of the Planeswalkers 2012
 NPUB30409 | Back to the Future: The Game: Episode 2: Get Tannen
 NPUB30410 | Back to the Future: The Game: Episode 3: Citizen Brown
@@ -11368,6 +12550,7 @@ NPUB30461 | Learning with the PooYoos - Episode 1
 NPUB30462 | DC Universe Online
 NPUB30463 | Apples To Apples
 NPUB30464 | Burnout™ Crash
+NPUB30465 | DARK AWAKE
 NPUB30466 | de Blob 2
 NPUB30467 | RESIDENT EVIL Code Veronica X HD [PS2]
 NPUB30468 | Mortal Kombat Arcade Kollection
@@ -11398,6 +12581,8 @@ NPUB30505 | Castlevania: Harmony of Despair
 NPUB30506 | Zombie Apocalypse: Never Die Alone
 NPUB30509 | EA SPORTS™ MMA
 NPUB30510 | Armageddon Riders
+NPUB30511 | Söldner-X: Himmelsstürmer Complete Soundtrack
+NPUB30512 | Söldner-X 2: Final Prototype Complete Soundtrack
 NPUB30513 | Death Spank: The Baconing
 NPUB30514 | Okabu
 NPUB30515 | Machinarium
@@ -11415,7 +12600,9 @@ NPUB30532 | Deep Black
 NPUB30534 | Scene It?® Movie Night!
 NPUB30536 | Babel Rising
 NPUB30537 | CastleStorm
+NPUB30538 | Under Siege™ Original Soundtrack
 NPUB30539 | Need for Speed™ SHIFT 2 UNLEASHED™
+NPUB30540 | Saints Row: Money Shot
 NPUB30543 | Warp
 NPUB30544 | Bulletstorm
 NPUB30545 | Alice: Madness Returns™
@@ -11455,6 +12642,7 @@ NPUB30582 | Red Johnson's Chronicles: One Against All
 NPUB30583 | BATTLEFIELD: Bad Company 2™
 NPUB30584 | Call of Duty®: Black Ops
 NPUB30585 | Call of Duty - Modern Warfare 2
+NPUB30586 | Modern Warfare® 2
 NPUB30588 | Call of Duty® 4: Modern Warfare
 NPUB30589 | Counter Strike: Global Offensive
 NPUB30590 | TEKKEN TAG TOURNAMENT HD
@@ -11463,6 +12651,7 @@ NPUB30592 | MONOPOLY® Streets
 NPUB30593 | Darksiders
 NPUB30594 | Mortal Kombat vs. DC Universe
 NPUB30595 | FIGHT NIGHT CHAMPION
+NPUB30596 | Quizball Goal!
 NPUB30597 | Rocketbirds: Hardboiled Chicken
 NPUB30600 | Shoot Many Robots
 NPUB30601 | Quantum Conundrum
@@ -11501,6 +12690,8 @@ NPUB30637 | Call of Juarez® Bound in Blood
 NPUB30638 | Red Dead Redemption
 NPUB30639 | Red Dead Redemption: Undead Nightmare
 NPUB30640 | Deus Ex: Human Revolution
+NPUB30641 | FIFA Street Early Release
+NPUB30642 | Tiger Woods PGA TOUR® 13: Early Release
 NPUB30643 | DUST 514
 NPUB30645 | SkullGirls
 NPUB30646 | Shank™ 2
@@ -11517,6 +12708,7 @@ NPUB30657 | Crazy Strike Bowling
 NPUB30660 | World Gone Sour
 NPUB30661 | Rayman® Origins
 NPUB30662 | Crysis®2
+NPUB30663 | Top Spin 4
 NPUB30664 | Need for Speed™ The Run
 NPUB30665 | NFL Blitz™
 NPUB30666 | Darkstalkers: Resurrection
@@ -11536,7 +12728,10 @@ NPUB30684 | Kane & Lynch: Dead Men™
 NPUB30685 | Kane & Lynch 2: Dog Days
 NPUB30686 | MiNi NiNJAS™
 NPUB30687 | Just Dance® 3
+NPUB30689 | Deadliest Warrior: The Game
+NPUB30690 | Deadliest Warrior: Legends
 NPUB30692 | Clan of Champions
+NPUB30693 | Hitman™: Sniper Challenge
 NPUB30695 | Star Wars: The Force Unleashed II
 NPUB30696 | Ion Assault HD
 NPUB30698 | Catherine
@@ -11555,6 +12750,8 @@ NPUB30712 | Mad Riders
 NPUB30713 | Pinball Arcade
 NPUB30714 | Rayman 3 HD
 NPUB30715 | Sonic Generations
+NPUB30716 | NCAA® Football 13 Early Release
+NPUB30717 | WWE WrestleFest
 NPUB30718 | The Expendables 2 Videogame
 NPUB30719 | Black Knight Sword
 NPUB30720 | Okami HD
@@ -11587,6 +12784,7 @@ NPUB30757 | Crysis®3
 NPUB30759 | Medal of Honor™ Warfighter
 NPUB30760 | The House of the Dead Overkill [Extended Cut]
 NPUB30761 | NHL™ 12
+NPUB30762 | Grease Dance
 NPUB30764 | Double Dragon Neon
 NPUB30765 | Doc Clock: The Toasted Sandwich of Time
 NPUB30766 | Dragon Age™ Inquisition
@@ -11605,12 +12803,16 @@ NPUB30780 | Hitman 2: Silent Assassin [Hitman HD Trilogy] [PS2]
 NPUB30781 | Hitman: Blood Money HD [Hitman HD Trilogy] [PS2]
 NPUB30783 | Pure Chess
 NPUB30784 | Tom Clancy's Ghost Recon Future Soldier™
+NPUB30785 | Fuel Overdose
 NPUB30786 | Spec Ops: The Line
 NPUB30787 | Call of Duty: Modern Warfare® 3
 NPUB30788 | Call of Duty: Modern Warfare® 3
 NPUB30789 | Need for Speed™ Most Wanted
+NPUB30791 | Everyone Sing
 NPUB30792 | NHL™ 13
 NPUB30793 | Realms Of Ancient War
+NPUB30794 | John Daly's ProStroke Golf
+NPUB30795 | Get Up And Dance
 NPUB30796 | ToeJam And Earl
 NPUB30797 | ToeJam And Earl in Panic On Funkotron
 NPUB30798 | Night into Dreams...
@@ -11624,7 +12826,9 @@ NPUB30806 | CSI: Fatal Conspiracy
 NPUB30807 | LEGO® Batman™ 2: DC Super Heroes
 NPUB30808 | Doom Classic
 NPUB30809 | Brave
+NPUB30810 | Judge Dee - The City God Case
 NPUB30811 | Test Drive: Ferrari Racing Legends
+NPUB30812 | 007™ Legends
 NPUB30813 | Game of Thrones
 NPUB30814 | Kingdoms of Amalur: Reckoning
 NPUB30815 | Air Conflicts: Secret Wars
@@ -11632,6 +12836,8 @@ NPUB30817 | Worms™ Revolution
 NPUB30818 | Sleeping Dogs™
 NPUB30819 | Big Sky Infinity
 NPUB30820 | Knytt Underground
+NPUB30822 | Portal 2 In Motion Move Kiosk Demo
+NPUB30823 | Men In Black: Alien Crisis
 NPUB30824 | TRANSFORMERS: Fall of Cybertron
 NPUB30825 | Far Cry® 3
 NPUB30826 | Assassin's Creed® III
@@ -11639,6 +12845,7 @@ NPUB30828 | Naughty Bear: Panic In Paradise
 NPUB30829 | Jet Set Radio
 NPUB30830 | DmC: Devil May Cry
 NPUB30832 | The Amazing Spider-Man™
+NPUB30833 | Order Up!!
 NPUB30834 | Anomaly Warzone Earth
 NPUB30835 | FIFA 13
 NPUB30836 | One Piece: Pirate Warriors
@@ -11654,8 +12861,10 @@ NPUB30846 | Dynasty Warriors 7 Empires
 NPUB30847 | Dynasty Warriors 7: Xtreme Legends
 NPUB30848 | Dynasty Warriors: Strikeforce
 NPUB30849 | Fist of the North Star: Ken's Rage 2 (Shin Hokuto Musou)
+NPUB30850 | NINJA GAIDEN 3
 NPUB30851 | Ninja Gaiden Sigma
 NPUB30852 | Ninja Gaiden Sigma 2
+NPUB30853 | QUANTUM THEORY
 NPUB30854 | Trinity - Souls of Zill O'll
 NPUB30855 | Warriors - Legends of Troy
 NPUB30856 | DYAD
@@ -11669,6 +12878,7 @@ NPUB30864 | Sacred Citadel
 NPUB30865 | Dance Magic
 NPUB30867 | Adam's Venture Chronicles
 NPUB30869 | Carnivores: Dinosaur Hunter HD
+NPUB30870 | Battle Slots RPG
 NPUB30872 | Zeno Clash II
 NPUB30874 | Fuse™
 NPUB30876 | Alien Spidy
@@ -11678,6 +12888,7 @@ NPUB30882 | Germinator
 NPUB30884 | Retro-Grade
 NPUB30885 | Birds of Steel
 NPUB30886 | Family Guy: Back To The Multiverse
+NPUB30887 | F1 2012™
 NPUB30888 | Dishonored
 NPUB30889 | Doom 3 BFG Edition
 NPUB30891 | Of Orcs and Men
@@ -11698,6 +12909,7 @@ NPUB30913 | Tom Clancy's EndWar™
 NPUB30916 | Heavy Fire: Afghanistan®
 NPUB30919 | Mountain Crime: Requital
 NPUB30920 | Batman: Arkham Asylum™
+NPUB30921 | The Testament of Sherlock Holmes
 NPUB30922 | Zombie Driver HD
 NPUB30923 | Persona 4: ARENA
 NPUB30926 | Derrick The Deathfin
@@ -11736,6 +12948,7 @@ NPUB31051 | NBA 2K13
 NPUB31052 | Mass Effect™
 NPUB31053 | The Walking Dead: Survival Instinct
 NPUB31054 | Call of Duty®: Black Ops II
+NPUB31055 | Call of Duty®: Black Ops II
 NPUB31056 | Call of Duty - Black Ops II
 NPUB31057 | Metal Gear Rising: Revengeance
 NPUB31058 | Pure Chess
@@ -11755,7 +12968,9 @@ NPUB31079 | Call of Juarez® Gunslinger
 NPUB31080 | Remember Me™
 NPUB31082 | BEN 10 OMNIVERSE™
 NPUB31083 | FINAL FANTASY® XIII-2
+NPUB31084 | Naughty Bear: Panic in Paradise
 NPUB31085 | Alien Breed
+NPUB31088 | Angry Birds Trilogy
 NPUB31090 | Sonic & All-Stars Racing Transformed™
 NPUB31092 | Urban Trial Freestyle
 NPUB31094 | DEFIANCE
@@ -11816,6 +13031,7 @@ NPUB31180 | CASTLE OF ILLUSION: Starring Mickey Mouse (Original Release)
 NPUB31181 | Injustice: Gods Among Us
 NPUB31183 | Madden NFL 25
 NPUB31184 | Ninja Gaiden 3 Razor's Edge
+NPUB31185 | Legends of War: Patton
 NPUB31186 | Eat Lead: The Return of Matt Hazard
 NPUB31187 | Visualizer
 NPUB31188 | KILLER IS DEAD
@@ -11836,7 +13052,9 @@ NPUB31205 | Resonance of Fate
 NPUB31207 | NHL™ 14
 NPUB31209 | Sanctum 2
 NPUB31210 | Telltale Games' Poker Night 2
+NPUB31213 | Ridge Racer™ Driftopia
 NPUB31215 | Rocksmith 2014 Edition
+NPUB31216 | Music+
 NPUB31217 | Teenage Mutant Ninja Turtles™: Out Of The Shadows
 NPUB31218 | Rayman® Legends
 NPUB31219 | Metro: Last Light
@@ -11865,6 +13083,7 @@ NPUB31249 | Arcania The Complete Tale
 NPUB31250 | TEKKEN REVOLUTION
 NPUB31251 | Drakengard 3
 NPUB31252 | Need for Speed™ Rivals
+NPUB31253 | Karateka Soundtrack
 NPUB31254 | WATCH_DOGS™
 NPUB31255 | FINAL FANTASY™ XIV: A Realm Reborn®
 NPUB31256 | Yaiba Ninja Gaiden Z
@@ -11874,13 +13093,18 @@ NPUB31259 | Painkiller: Hell & Damnation
 NPUB31260 | STEALTH INC. A Clone in the Dark
 NPUB31261 | Batman: Arkham Origins™
 NPUB31262 | Hot Wheels: World's Best Driver
+NPUB31264 | Batman™: Arkham Origins
 NPUB31265 | Flashback HD
 NPUB31266 | The Bureau: XCOM Declassified
+NPUB31267 | F1® 2013 (US)
+NPUB31268 | F1® 2013 (Brasil)
 NPUB31269 | Shaun White Skateboarding
 NPUB31270 | Shake Spears!
 NPUB31271 | Atomic Ninjas
 NPUB31272 | Giana Sisters: Twisted Dreams
+NPUB31274 | Worms™
 NPUB31275 | Worms™ 2 Armageddon
+NPUB31276 | Worms Ultimate Mayhem
 NPUB31277 | BlazBlue: Chrono Phantasma
 NPUB31278 | Marvel Puzzle Quest: Dark Reign
 NPUB31279 | Divekick
@@ -11920,6 +13144,7 @@ NPUB31322 | DRAGON BALL® Battle of Z
 NPUB31323 | Just Dance® 2014
 NPUB31324 | Deus Ex: Human Revolution: Director's Cut
 NPUB31325 | Lone Survivor: The Director's Cut
+NPUB31327 | FIFA 14
 NPUB31328 | FIFA 14
 NPUB31330 | Zombeer
 NPUB31335 | Air Conflicts: Vietnam
@@ -11953,8 +13178,10 @@ NPUB31366 | SOULCALIBUR II HD ONLINE
 NPUB31367 | Tiny Brains
 NPUB31368 | Dustforce
 NPUB31369 | Treasures of Montezuma - Arena
+NPUB31370 | Saint Seiya: Brave Soldiers
 NPUB31371 | Raiden IV: Overkill
 NPUB31372 | Castlevania: Lords of Shadow 2
+NPUB31374 | Dead Island Riptide Complete Edition
 NPUB31375 | Dynasty Warriors 7
 NPUB31376 | The Wolf Among Us
 NPUB31377 | Injustice: Gods Among Us [Ultimate Edition]
@@ -11988,6 +13215,7 @@ NPUB31414 | Oddworld: New 'n' Tasty
 NPUB31415 | Mutant Mudds Deluxe
 NPUB31416 | RAMBO THE VIDEO GAME
 NPUB31417 | How to Train Your Dragon™ 2
+NPUB31418 | Toki Tori - Soundtrack
 NPUB31419 | Minecraft: PlayStation®3 Edition
 NPUB31420 | ACE COMBAT® INFINITY
 NPUB31421 | EA SPORTS™ 2014 FIFA World Cup Brazil™
@@ -11995,6 +13223,7 @@ NPUB31422 | The Witch and The Hundred Knights
 NPUB31423 | Backgammon Blitz
 NPUB31424 | The Swapper
 NPUB31425 | Titan Attacks!
+NPUB31426 | EA SPORTS™ 2014 FIFA World Cup Brazil™
 NPUB31427 | Short Peace: Ranko Tsukigime's Longest Day
 NPUB31428 | Atelier Escha & Logy ~Alchemists of the Dusk Sky~
 NPUB31429 | LEGO® The Hobbit™
@@ -12003,6 +13232,7 @@ NPUB31433 | Jet Car Stunts
 NPUB31435 | Starlight Inception
 NPUB31436 | Middle-earth™: Shadow of Mordor™ [Legion Edition]
 NPUB31437 | Don Bradman Cricket 14
+NPUB31438 | Sportsfriends
 NPUB31440 | Alien: Isolation™
 NPUB31441 | Batman: Arkham Origins Blackgate Deluxe
 NPUB31442 | Deception IV: Blood Ties
@@ -12021,6 +13251,7 @@ NPUB31455 | Yu-Gi-Oh! Millennium Duels
 NPUB31457 | Plants vs. Zombies: Garden Warfare
 NPUB31459 | Bound by Flame
 NPUB31460 | Sherlock Holmes: Crimes and Punishments
+NPUB31461 | Tour de France 2014
 NPUB31462 | Master Reboot
 NPUB31463 | Might & Magic: Duel of Champions Forgotten Wars
 NPUB31464 | Mugen Souls Z [Attouteki Yuugi: Mugen Souls Z]
@@ -12036,6 +13267,7 @@ NPUB31474 | Arcana Heart 3: LOVE MAX!!!!!
 NPUB31475 | Akiba's Trip Undead & Undressed
 NPUB31476 | Pier Solar and The Great Architects
 NPUB31477 | Sacred 3
+NPUB31478 | METAL GEAR SOLID V: THE PHANTOM PAIN TRAILER EXPORTER
 NPUB31479 | ONE PIECE Unlimited World Red
 NPUB31480 | Q.U.B.E Director's Cut
 NPUB31481 | Hotline Miami 2: Wrong Number
@@ -12047,6 +13279,7 @@ NPUB31487 | Yaiba - Ninja Gaiden Z
 NPUB31488 | Hatsune Miku: Project Diva F 2nd
 NPUB31489 | El Chavo Kart
 NPUB31490 | Syberia 2
+NPUB31492 | Putty Squad
 NPUB31493 | Blood of the Werewolf
 NPUB31494 | Cartoon Network: Punch Time Explosion Xl
 NPUB31495 | Risen 3: Titan Lords
@@ -12057,6 +13290,7 @@ NPUB31500 | Teenage Mutant Ninja Turtles™: Danger of the Ooze
 NPUB31501 | NHL® 15
 NPUB31502 | Diablo III: Reaper of Souls (Ultimate Evil Edition)
 NPUB31503 | Diablo III: Reaper of Souls (Ultimate Evil Edition)
+NPUB31504 | Far Cry® 3 Blood Dragon
 NPUB31505 | Warriors Orochi 3 Ultimate
 NPUB31506 | Constant C
 NPUB31507 | Enemy Front
@@ -12066,6 +13300,7 @@ NPUB31511 | BATTLEFIELD™ HARDLINE
 NPUB31512 | Rogue Legacy
 NPUB31513 | Digimon All-Star Rumble
 NPUB31514 | Mousecraft
+NPUB31516 | Masquerade: The Baubles of Doom
 NPUB31517 | FIFA 15
 NPUB31518 | RESIDENT EVIL™ Revelations 2 - Episode 1 - Penal Colony
 NPUB31519 | Borderlands: The Pre-Sequel
@@ -12105,6 +13340,8 @@ NPUB31563 | Persona 4 Arena Ultimax
 NPUB31564 | Samurai Warriors 4
 NPUB31565 | F1® 2014
 NPUB31566 | F1® 2014
+NPUB31567 | Rugby 15
+NPUB31569 | Assassin's Creed® Liberation HD
 NPUB31572 | FIBBAGE: The Hilarious Bluffing Party Game
 NPUB31573 | Tokyo Twilight Ghost Hunters [Mato Kurenai Yuugekitai: Tokyo Twilight Ghosthunters]
 NPUB31576 | Tears to Tiara II: Heir of the Overlord
@@ -12116,6 +13353,7 @@ NPUB31581 | MONOPOLY® DEAL
 NPUB31582 | MONOPOLY® PLUS
 NPUB31583 | Blaze Rush
 NPUB31585 | PES 2015: Pro Evolution Soccer
+NPUB31587 | NARUTO SHIPPUDEN SUNNY-SIDE-BATTLE
 NPUB31589 | Deadfall Adventures: Heart of Atlantis
 NPUB31590 | Don't Starve: Giant Edition
 NPUB31592 | The Bridge
@@ -12138,6 +13376,7 @@ NPUB31614 | Boy and His Blob, A
 NPUB31615 | Jetpack Joyride Deluxe
 NPUB31616 | Retro City Rampage DX
 NPUB31617 | Hyper Void
+NPUB31618 | Frozen Synapse Prime Sound Track
 NPUB31619 | DRAGON BALL® Xenoverse
 NPUB31623 | DRAGON BALL® Xenoverse [BETA]
 NPUB31624 | Q*Bert Rebooted
@@ -12152,13 +13391,16 @@ NPUB31634 | BlazBlue: Chrono Phantasma Extend
 NPUB31636 | Life Is Strange™
 NPUB31637 | King's Quest
 NPUB31640 | Sparkle 2
+NPUB31641 | Falling Skies: The Game (Digital)
 NPUB31643 | LEGO® Jurassic World
 NPUB31644 | Tower of Guns
 NPUB31647 | J-Stars Victory VS+
 NPUB31648 | STARWHAL
+NPUB31650 | DEAD OR ALIVE 5 Last Round
 NPUB31651 | King Oddball
 NPUB31652 | Dragon Fin Soup
 NPUB31653 | TESLAGRAD
+NPUB31654 | Madden NFL 16
 NPUB31655 | Crimsonland
 NPUB31656 | Dynasty Warriors 8 Empires
 NPUB31657 | Disney Infinity 3.0
@@ -12174,40 +13416,52 @@ NPUB31669 | Kung Fu Panda® Showdown Of Legendary Legends
 NPUB31670 | Krinkle Krusher
 NPUB31671 | Invokers Tournament™
 NPUB31672 | Tennis in the Face
+NPUB31674 | Sniper Elite 3 Ultimate Edition
 NPUB31675 | Tales of Zestiria
 NPUB31676 | One Piece: Pirate Warriors 3 [One Piece Kaizoku Musou 3]
 NPUB31677 | Cosmophony
+NPUB31678 | Paranormal Pursuit: The Gifted One Collector's Edition
 NPUB31680 | Dengeki Bunko Fighting Climax
 NPUB31681 | Teenage Mutant Ninja Turtles™: Mutants in Manhattan
 NPUB31682 | Shovel Knight
 NPUB31683 | Dynasty Warriors 8 - Empires - Free Alliances Version
+NPUB31684 | Weird Park: The Final Show
 NPUB31686 | Monster Jam Battlegrounds
 NPUB31688 | Steins;Gate
 NPUB31689 | RESIDENT EVIL 0 HD
 NPUB31690 | Bladestorm: Nightmare
+NPUB31691 | NHL® Legacy
 NPUB31692 | NBA 2K16
+NPUB31694 | FIFA 16
 NPUB31695 | Book of Unwritten Tales 2, The
 NPUB31696 | Skylanders - SuperChargers
 NPUB31698 | Metal Slug 3
 NPUB31699 | Extreme Exorcism
 NPUB31701 | Nobunaga's Ambition: Sphere Of Influence
 NPUB31702 | Sparkle Unleashed
+NPUB31703 | Tour de France 2015
 NPUB31704 | Godzilla
 NPUB31705 | 5 Star Wrestling
 NPUB31706 | WRC 5 - FIA World Rally Championship
 NPUB31708 | LEGO® MARVEL's Avengers
+NPUB31709 | RISK URBAN ASSAULT
+NPUB31710 | FIFA 16
 NPUB31711 | Lost Dimension
+NPUB31712 | Rugby World Cup 2015
 NPUB31717 | Handball 16
 NPUB31718 | Swindle, The
 NPUB31719 | Nova-111
 NPUB31720 | RIDE™
 NPUB31723 | Quiplash
+NPUB31724 | Just Dance® 2016
 NPUB31725 | Minecraft: Story Mode
 NPUB31726 | Frozen Free Fall: Snowball Fight
 NPUB31728 | Pumped BMX+
 NPUB31729 | Saint Seiya: Soldiers' Soul
+NPUB31730 | NASCAR '15 Digital
 NPUB31732 | Back to Bed
 NPUB31733 | Mighty No. 9
+NPUB31740 | Barbie and Her Sisters Puppy Rescue (Digital)
 NPUB31741 | PES 2016: Pro Evolution Soccer
 NPUB31742 | Goosebumps The Game
 NPUB31743 | WWE 2K16
@@ -12219,10 +13473,13 @@ NPUB31753 | Adam's Venture Chronicles - Episode 2 - Solomon's Secret
 NPUB31754 | Monster High: New Ghoul in School
 NPUB31757 | River City Super Sports Challenge: All Stars Special
 NPUB31759 | Legend of Heroes, The: Trails of Cold Steel
+NPUB31760 | Level 22
 NPUB31761 | Blue-Collar Astronaut
 NPUB31762 | J-Stars Victory VS+
+NPUB31764 | Siralim
 NPUB31766 | Disgaea 3: Absence of Justice
 NPUB31767 | Jackbox Party Pack 2, The
+NPUB31769 | Never Alone
 NPUB31770 | MotoGP™ 15
 NPUB31773 | Alien Shooter
 NPUB31774 | Doodle Kingdom
@@ -12232,20 +13489,26 @@ NPUB31777 | Surfer, The
 NPUB31778 | LEGO® Star Wars: The Force Awakens
 NPUB31779 | Spider-Man™ Shattered Dimensions
 NPUB31780 | NASCAR '15 Victory Edition
+NPUB31784 | RUGBY CHALLENGE 3
 NPUB31786 | Nitroplus Blasterz: Heroines Infinite Duel
 NPUB31787 | PES 2016: Pro Evolution Soccer
 NPUB31790 | Grand Theft Auto San Andreas
+NPUB31791 | Attack on Titan
 NPUB31795 | Battle Trivia Knockout
 NPUB31796 | Whitetail Challenge
 NPUB31797 | Arslan: The Warriors Of Legend
 NPUB31798 | Eiyuu Senki: The World Conquest
 NPUB31799 | Samurai Warriors 4 Empires
+NPUB31800 | Nuclear Throne
 NPUB31805 | Aegis Of Earth: Protonovus Assault
 NPUB31806 | Guilty Gear Xrd -Revelator-
 NPUB31807 | Madden NFL 17
+NPUB31808 | The Walking Dead: Michonne
 NPUB31809 | BlazBlue: Central Fiction
 NPUB31810 | Amplitude
 NPUB31813 | Sky Force Anniversary
+NPUB31815 | FIFA 17
+NPUB31816 | FIFA 17
 NPUB31817 | Just Dance® 2017
 NPUB31818 | Mafia II
 NPUB31836 | Legend of Heroes, The: Trails in the Flash 2 [The Legend of Heroes: Sen no Kiseki 2]
@@ -12253,10 +13516,13 @@ NPUB31837 | PES 2017: Pro Evolution Soccer
 NPUB31838 | WWE 2K17
 NPUB31840 | Odin Sphere: Leifthrasir
 NPUB31842 | 99Vidas
+NPUB31843 | NBA 2K17
 NPUB31844 | Powers Season 2
 NPUB31845 | BATMAN: The Telltale Series
+NPUB31846 | HANDBALL 17
 NPUB31847 | Tokyo Twilight Ghost Hunters Daybreak - Special Gigs
 NPUB31848 | Persona 5
+NPUB31849 | Eiyuu Senki - The World Conquest
 NPUB31850 | Asdivine Hearts
 NPUB31854 | PlayStation Store 10th Anniversary
 NPUB31856 | PES 2017: Pro Evolution Soccer
@@ -12304,6 +13570,9 @@ NPUB90003 | Full Auto 2 - Battlelines [Demo]
 NPUB90004 | DEF JAM: ICON™ [Demo]
 NPUB90006 | Ridge Racer 7 [Demo]
 NPUB90008 | Armored Core 4 [Demo]
+NPUB90011 | Rampage World Tour Demo
+NPUB90013 | Rampart Demo
+NPUB90014 | Championship Sprint Demo
 NPUB90015 | Major League Baseball 2K7 [Demo]
 NPUB90016 | Virtua Tennis 3 [Demo]
 NPUB90017 | Ninja Gaiden Sigma [Demo]
@@ -12417,6 +13686,7 @@ NPUB90181 | MotoGP™ 08 [Demo]
 NPUB90182 | Stormrise
 NPUB90183 | GTI Club
 NPUB90183 | GTI Club+ Rally Cote D'Azur [Demo]
+NPUB90185 | BAYONETTA First Climax Demo
 NPUB90187 | Dead Space: Dismemberment [Demo]
 NPUB90190 | The Lord of the Rings: Conquest™ [Demo]
 NPUB90192 | RESIDENT EVIL 5 [Demo]
@@ -12512,6 +13782,7 @@ NPUB90344 | Polar Panic
 NPUB90345 | Comet Crash [Demo]
 NPUB90346 | Chaotic™: Shadow Warriors
 NPUB90347 | BATTLEFIELD: Bad Company 2™ [Multiplayer Demo]
+NPUB90348 | Greed Corp Demo
 NPUB90350 | LEGO® Indiana Jones™ 2: The Adventure Continues [Demo]
 NPUB90352 | Mushroom Wars [Demo]
 NPUB90353 | Army of TWO™ The 40th Day [Demo]
@@ -12533,13 +13804,16 @@ NPUB90380 | Iron Man™ 2
 NPUB90385 | Kane & Lynch 2: Dog Days
 NPUB90387 | Madden NFL 11
 NPUB90393 | Wakeboarding HD [Demo]
+NPUB90394 | BZB Strategy Guide
 NPUB90401 | Tiger Woods PGA Tour 11
 NPUB90404 | NCAA Football 11
 NPUB90405 | Medal Of Honor™ [Beta]
 NPUB90408 | Majin and the Forsaken Kingdom
+NPUB90411 | Green Day: Rock Band Demo
 NPUB90415 | Dead Space™ 2 [Demo]
 NPUB90417 | Death Track: Resurrection
 NPUB90418 | Hamster Ball
+NPUB90421 | LEGEND of the GUARDIANS: The OWLS of GA'HOOLE Demo
 NPUB90422 | Tom Clancy's H.A.W.X. 2
 NPUB90423 | Star Wars: The Force Unleashed II
 NPUB90424 | Deathspank
@@ -12547,17 +13821,25 @@ NPUB90425 | Shank™
 NPUB90427 | Singularity
 NPUB90428 | Blur
 NPUB90430 | Call of Duty - Black Ops
+NPUB90432 | NBA ELITE 11 Demo
 NPUB90434 | Dragon Ball® Raging Blast 2
 NPUB90437 | Spec Ops: The Line
 NPUB90438 | DJ Hero 2 [Demo]
+NPUB90439 | Guitar Hero®: Warriors of Rock Demo
+NPUB90440 | Pro Evolution Soccer 2011 DEMO
 NPUB90441 | Vanquish - Velocity Attack
 NPUB90442 | DeathSpank [Demo]
+NPUB90443 | Red Faction: Armageddon Demo
 NPUB90444 | NHL™ 11
 NPUB90448 | Apache - Air Assault
 NPUB90455 | Warriors: Legends of Troy
 NPUB90456 | Fist of the North Star - Ken's Rage
 NPUB90458 | Sengoku Basara - Samurai Heroes
+NPUB90459 | MySims SkyHeroes™ Demo
+NPUB90460 | Tiger Woods PGA TOUR® 11 Demo
 NPUB90462 | Space Invaders Infinity Gene [Demo]
+NPUB90463 | Dungeon Siege III Demo
+NPUB90464 | TIME CRISIS: RAZING STORM DEMO
 NPUB90466 | Assassin's Creed Brotherhood ™
 NPUB90468 | Quantum Theory
 NPUB90469 | Enslaved - Odyssey to the West
@@ -12565,6 +13847,7 @@ NPUB90470 | FINAL FANTASY™ XIV: A Realm Reborn®
 NPUB90472 | NBA 2K11 [Demo]
 NPUB90473 | Aqua Panic! [Demo]
 NPUB90475 | Dead Space™ 2
+NPUB90477 | Modern Warfare® 2 DEMO
 NPUB90478 | Vanquish - Challenge Mode
 NPUB90479 | FIFA 11
 NPUB90481 | Top Gun [Demo]
@@ -12574,25 +13857,32 @@ NPUB90486 | Homefront
 NPUB90487 | Racquet Sports Move [Demo]
 NPUB90488 | Need for Speed™ Hot Pursuit [Demo]
 NPUB90489 | EA Sports MMA
+NPUB90490 | Sonic Adventure – Demo
 NPUB90491 | Split/Second [Multiplayer Demo]
+NPUB90494 | Red Faction: Battlegrounds (BETA)
 NPUB90495 | DC Universe Online: BETA UPDATE 1.03
 NPUB90497 | Dragon Age™ II [Demo]
 NPUB90500 | Castlevania - Lords of Shadow
 NPUB90501 | Bulletstorm [Demo]
+NPUB90505 | Rock Band 3 Demo
 NPUB90506 | Mass Effect™ 2 [Demo]
 NPUB90507 | Marvel Pinball
+NPUB90508 | John Daly's ProStroke Golf Demo
 NPUB90509 | CSI - Fatal Conspiracy
 NPUB90511 | Moon Diver
 NPUB90512 | YAKUZA 4
 NPUB90513 | FIGHT NIGHT CHAMPION
 NPUB90514 | nail'd [Demo]
 NPUB90515 | SAW 2
+NPUB90525 | Assassin's Creed Ascendance
 NPUB90526 | LEGO® Star Wars III: The Clone Wars™
 NPUB90527 | Kung-Fu Live [Demo]
+NPUB90528 | AERO-CROSS TRIAL
 NPUB90530 | ACE COMBAT® ASSAULT HORIZON
 NPUB90537 | Tron: Evolution
 NPUB90542 | Top Spin 4
 NPUB90544 | Tiger Woods PGA Tour 12 - The Masters
+NPUB90547 | Dragon Age II Demo
 NPUB90549 | WWE All Stars
 NPUB90550 | You Don't Know Jack
 NPUB90551 | Premier Manager
@@ -12605,9 +13895,13 @@ NPUB90560 | MLB 2K11
 NPUB90562 | Bionic Commando Rearmed 2
 NPUB90567 | Sonic Generations
 NPUB90571 | NCAA Football 12
+NPUB90572 | Virtua Tennis 4 WORLD TOUR DEMO
 NPUB90573 | Duke Nukem Forever
 NPUB90578 | Mortal Kombat 9
 NPUB90580 | El Shaddai Ascension of the Metatron
+NPUB90583 | Under Siege
+NPUB90590 | LEGO® Pirates of the Caribbean The Video Game DEMO
+NPUB90592 | Virtua Tennis 4 - PlayStation®Move / 3D Demo
 NPUB90594 | Madden NFL 12
 NPUB90599 | BATTLEFIELD 4™ [Beta]
 NPUB90600 | BATTLEFIELD 3™ [Beta]
@@ -12616,14 +13910,18 @@ NPUB90604 | Sonic Generations
 NPUB90606 | StarDrone
 NPUB90612 | Asura's Wrath
 NPUB90614 | Dragon's Dogma [Demo]
+NPUB90615 | Supremacy MMA Demo
 NPUB90616 | Binary Domain
+NPUB90622 | LEGO® Harry Potter™: Years 5-7 DEMO
 NPUB90630 | FINAL FANTASY® XIII-2 [Demo]
 NPUB90632 | Saints Row: The Third - Initiation Station [Demo]
 NPUB90636 | Call of Duty - Modern Warfare 3
+NPUB90640 | Madden NFL 12 Early Release
 NPUB90642 | NHL™ 12
 NPUB90643 | NHL™ 12
 NPUB90645 | Catherine
 NPUB90646 | Need for Speed™ The Run
+NPUB90649 | FIFA 12 Early Release
 NPUB90651 | Rage
 NPUB90654 | Elevator Action Deluxe
 NPUB90655 | Bodycount® [Demo]
@@ -12632,15 +13930,19 @@ NPUB90661 | Driver: San Francisco
 NPUB90663 | Driver: San Francisco
 NPUB90666 | FIFA 12
 NPUB90667 | Warhammer 40,000: Space Marine
+NPUB90672 | Pro Evolution Soccer 2012 DEMO
 NPUB90674 | Assassin's Creed - Revelations
 NPUB90676 | The Cursed Crusade [Demo]
 NPUB90677 | NBA 2K12
 NPUB90678 | Gotham City Impostors
+NPUB90679 | Pro Evolution Soccer 2012 DEMO2
+NPUB90687 | Assassin's Creed Embers
 NPUB90690 | LEGO Harry Potter - Years 5-7
 NPUB90692 | Grease Dance
 NPUB90695 | Grand Slam Tennis 2
 NPUB90696 | FIFA Street
 NPUB90707 | Kingdoms of Amalur - Reckoning
+NPUB90709 | Happy Feet Two Demo
 NPUB90711 | UFC Undisputed 3
 NPUB90713 | Syndicate
 NPUB90716 | Tiger Woods PGA Tour 13
@@ -12658,12 +13960,15 @@ NPUB90747 | Batman: Arkham City™ [Demo]
 NPUB90748 | House of the Dead 4, The
 NPUB90749 | Sniper Elite V2 [Demo]
 NPUB90750 | DiRT: Showdown [Demo]
+NPUB90752 | Men In Black Game Demo
 NPUB90753 | NCAA Football 13
 NPUB90754 | The Darkness II
+NPUB90756 | Dead or Alive 5 Alpha Demo: Hayate & Ayane
 NPUB90757 | DEAD OR ALIVE 5 [Demo]
 NPUB90758 | DEAD OR ALIVE 5 [Demo]
 NPUB90760 | Major League Baseball 2K12
 NPUB90761 | Zack Zero [Demo]
+NPUB90762 | Amazon Instant Video BETA
 NPUB90763 | Madden NFL 13
 NPUB90764 | Transformers - Fall of Cybertron
 NPUB90765 | Summer Stars 2012
@@ -12674,27 +13979,38 @@ NPUB90777 | Tom Clancy's Ghost Recon Future Soldier™ [Beta]
 NPUB90786 | Ninja Gaiden 3 [Demo]
 NPUB90789 | LEGO® Batman™ 2: DC Super Heroes [Demo]
 NPUB90790 | Disney Epic Mickey 2 - The Power of Two
+NPUB90801 | NHL® 13 Demo
+NPUB90804 | Far Cry® 3 MP BETA
+NPUB90808 | Assassin’s Creed® III - Multiplayer Closed Beta
+NPUB90809 | NHL® 13 Demo
 NPUB90811 | F1 2012 (Demo)
 NPUB90813 | Dragon's Dogma
 NPUB90815 | Fuse™
 NPUB90822 | F1 Race Stars™
 NPUB90825 | FIFA 13
 NPUB90826 | Crysis®3 [Open Beta]
+NPUB90828 | Rock Band Blitz
 NPUB90831 | PES 2013: Pro Evolution Soccer
 NPUB90832 | Sleeping Dogs
+NPUB90834 | Pro Evolution Soccer 2013 DEMO
 NPUB90835 | XCOM - Enemy Unknown
 NPUB90843 | NBA 2K13
 NPUB90844 | Dead Space™ 3 [Demo]
 NPUB90846 | Ni No Kuni: Wrath Of The White Witch [Demo]
+NPUB90848 | La démo solo de Call of Duty®: Modern Warfare 3
 NPUB90849 | LEGO The Lord of the Rings
 NPUB90850 | Tiger Woods PGA Tour 14
 NPUB90854 | PES 2013: Pro Evolution Soccer
 NPUB90856 | Damage Inc. - Pacific Squadron WWII
 NPUB90862 | Army of TWO - The Devil's Cartel
 NPUB90864 | RESIDENT EVIL 6 [Demo]
+NPUB90865 | Madden NFL 13 Demo
 NPUB90866 | Wheel of Fortune
 NPUB90867 | Jeopardy!
+NPUB90869 | Papo & Yo (Demo)
+NPUB90870 | Guacamelee! Demo
 NPUB90925 | Metal Gear Rising: Revengeance (Demo)
+NPUB90927 | Need for Speed™ Most Wanted Demo
 NPUB90928 | Sonic & All-Stars Racing Transformed
 NPUB90929 | DmC: Devil May Cry [Demo]
 NPUB90930 | Metal Gear Rising: Revengeance [Demo]
@@ -12706,55 +14022,78 @@ NPUB90936 | NCAA® Football 14
 NPUB90937 | Dynasty Warriors 7 Empires
 NPUB90938 | Resident Evil - Revelations
 NPUB90939 | NARUTO SHIPPUDEN™: Ultimate Ninja Storm 3
+NPUB90940 | Knytt Underground DEMO
 NPUB90941 | Oddworld - Stranger's Wrath HD
+NPUB90942 | BIT.TRIP Presents: Runner2 Future Legend of Rhythm Alien
 NPUB90943 | Knytt Underground
 NPUB90944 | Lightning Returns: Final Fantasy XIII [Demo]
+NPUB90949 | YouTube BETA
 NPUB90950 | Ninja Gaiden 3
 NPUB90951 | Fuel Overdose
 NPUB90953 | Madden NFL 25
 NPUB90954 | NHL™ 14
 NPUB90955 | Injustice: Gods Among Us [Demo]
+NPUB90956 | TestGame001
+NPUB90957 | Batman: Arkham Origins BETA
 NPUB90958 | Hatsune Miku - Project Diva F
 NPUB90959 | BATTLEFIELD 4™ [Beta]
 NPUB90960 | Final Fantasy XIV - A Realm Reborn
+NPUB90961 | Guacamelee! Demo
 NPUB90962 | Sniper - Ghost Warrior 2
 NPUB90963 | Assassin's Creed® IV Black Flag
 NPUB90964 | LEGO Marvel Super Heroes
 NPUB90965 | Saints Row IV - Inauguration Station
+NPUB90966 | NHL® 14 Demo
 NPUB90968 | Payday 2
 NPUB90969 | Rayman® Legends [Demo]
 NPUB90970 | FIFA Soccer 14
+NPUB90972 | Pro Evolution Soccer 2014 Beta Test
 NPUB90974 | Diablo III
 NPUB90975 | Diablo III
+NPUB90976 | Demo de Diablo III
+NPUB90977 | Demo de Diablo III
+NPUB90978 | Tom Clancy’s Splinter Cell® Blacklist™ Closed Beta
 NPUB90979 | Dark Souls II - Network Test
+NPUB90981 | DISH
+NPUB90982 | Pro Evolution Soccer 2014 DEMO
 NPUB90983 | Dragon Ball Z: Battle of Z
 NPUB90984 | Castlevania: Lords of Shadow 2 [Demo]
+NPUB90985 | Pro Evolution Soccer 2014 PREMIUM FREE DEMO
 NPUB90986 | Do Not Fall™
 NPUB90987 | PES 2014: Pro Evolution Soccer
 NPUB90988 | Grid 2
+NPUB90989 | Technical Test
+NPUB90990 | Caissa's Chess
 NPUB90991 | LEGO Movie, The - Videogame
 NPUB90992 | Ragnarok Odyssey Ace
 NPUB90994 | LEGO The Hobbit (Demo)
 NPUB90995 | Ethan - Meteor Hunter
 NPUB90996 | 2014 FIFA World Cup - Brazil
+NPUB90997 | EA SPORTS™ 2014 FIFA World Cup Brazil™ Demo
 NPUB90998 | JoJo's Bizarre Adventure - All-Star Battle
 NPUB91001 | Zombeer
+NPUB91002 | EA SPORTS™ 2014 FIFA World Cup Brazil™ Demo
+NPUB91003 | EA SPORTS™ 2014 FIFA World Cup Brazil™ Demo
+NPUB91004 | Call of Duty® Ghosts - Demo
 NPUB91005 | XBlaze Code - Embryo
 NPUB91008 | LEGO Batman 3 - Beyond Gotham
 NPUB91010 | BATTLEFIELD™ HARDLINE
 NPUB91010 | Battlefield Hardline
 NPUB91011 | NARUTO SHIPPUDEN™: Ultimate Ninja Storm Revolution
 NPUB91012 | FIFA Soccer 15
+NPUB91014 | The LEGO® Movie - Videogame DEMO
 NPUB91016 | Diablo III: Reaper of Souls (Ultimate Evil Edition)
 NPUB91020 | PES 2015: Pro Evolution Soccer
 NPUB91021 | Destiny
 NPUB91022 | LEGO Jurassic World
+NPUB91023 | Stark Alpha
 NPUB91024 | Motorcycle Club
 NPUB91025 | Bladestorm: Nightmare
 NPUB91026 | LEGO® MARVEL's Avengers [Demo]
 NPUB91028 | FIFA 16
 NPUB91029 | NASCAR 15
 NPUB91031 | PES 2016: Pro Evolution Soccer
+NPUB91032 | FIFA 16 Closed Beta
 NPUB91034 | NASCAR '15 Victory Edition [Demo]
 NPUB91036 | FIFA 17 [Demo]
 NPUB91037 | PES 2017: Pro Evolution Soccer
@@ -13232,7 +14571,7 @@ NPUL00026 | Metal Gear Online
 NPUL00028 | FALLOUT 3
 NPUL00049 | PSN Movie Download Machine
 NPUL00107 | DC Universe Online
-NPUL00108 | PS3 Bluetooth Headset
+NPUL00108 Bluetooth Headset
 NPUL00112 | The Fall
 NPUL00117 | Casino Royale: Collectors Edition
 NPUL00128 | Incubus: Love Hurts
@@ -13295,6 +14634,7 @@ NPUP00002 | Smobile Themes - UT0002-NPUP00002_00-DYN3DWIREFRAME01
 NPUP00012 | Star Trek - The Original Series - Red Edition
 NPUP00015 | South Park
 NPUP00024 | MLB.TV®
+NPUP00025 | Netflix Beta
 NPUP00028 | Hulu Plus - Preview
 NPUP00029 | Leviathan Games Themes - Code Entropy
 NPUP00030 | Netflix
@@ -13302,29 +14642,36 @@ NPUP00031 | U.S. Airforce PS3 XMB Dynamic Theme
 NPUP00036 | Thumbstar Games Limited - Sexy
 NPUP00037 | Resident Evil - Afterlife 3D
 NPUP00039 | Aqua Teen Hunger Force
+NPUP00040 | MoH Multiplayer Guide
 NPUP00041 | PlayMemories™
 NPUP00042 | Konsole Kingz - DOAPS
 NPUP00045 | Scion tC
 NPUP00046 | HULU Plus
 NPUP00047 | VUDU™ Movie Service
 NPUP00049 | Sponge Bob [Theme]
+NPUP00052 | Filmy™
 NPUP00055 | U.S. Army Best Ranger Competition
 NPUP00057 | Axe Excite
+NPUP00059 | CinemaNow
 NPUP00060 | Best Buy® CinemaNow™
 NPUP00062 | PlayMemories Studio
 NPUP00063 | XOS College Sports
 NPUP00064 | SEC Digital Network
 NPUP00068 | SpongeBob Squared
+NPUP00070 | PlayMemories™ 4K edition
 NPUP00071 | Dragon Age™
 NPUP00072 | Crackle
 NPUP00074 | Crackle
 NPUP00075 | Laugh Factory Live
 NPUP00077 | Crackle
+NPUP00082 | 4K Gallery
+NPUP00084 | Voice Collection
 NPUP10002 | Disney Interactive - Iron Man
 NPUP10021 | Amazon Instant Video
 NPUP10027 | Crunchyroll
 NPUP10028 | YouTube for PS3
 NPUP10030 | Neon Alley
+NPUP10032 | Totalmovie
 NPUP10033 | HBO Go
 NPUP10034 | Gaiam TV - The Transformation Network
 NPUP10036 | Epix
@@ -13337,25 +14684,30 @@ NPUP31335 | Dish
 NPUP31338 | Redbox Instant
 NPUP31340 | NHL
 NPUP31341 | IGN
+NPUP31342 | WeatherNation
 NPUP31344 | DailyBurn Workout Videos
 NPUP31345 | WWE Network
 NPUP31346 | SnagFilms
 NPUP31347 | MUBI
+NPUP31348 | CINEPOLIS
 NPUP31349 | FUNimation
 NPUP31350 | Plex
 NPUP31351 | Popcornflix
 NPUP31352 | iHeartRadio
 NPUP31353 | MLB.TV Premium
 NPUP31354 | AOL On
+NPUP31357 | Molly Beta
 NPUP31358 | Twitch
 NPUP31359 | DramaFever
 NPUP31361 | Red Bull TV
 NPUP31362 | Screambox
 NPUP31363 | GoPro Channel
 NPUP31364 | Pluto TV
+NPUP31368 | WatchESPN
 NPUP31369 | HBO Now
 NPUP31372 | CBS News
 NPUP31373 | NBA
+NPUP31374 | NBA
 NPUP31375 | SiriusXM
 NPUP31377 | Tubi TV
 NPUQ00001 | Heavenly Sword
@@ -13402,11 +14754,13 @@ NPUZ00022 | Echoes [MINI] [PSP]
 NPUZ00023 | Aero Racer [MINI] [PSP]
 NPUZ00024 | Age of Zombies [MINI] [PSP]
 NPUZ00025 | Zombie Tycoon [MINI] (version 3) [PSP]
+NPUZ00026 | Zombie Tycoon,psp
 NPUZ00027 | D-Cube Planet [MINI] [PSP]
 NPUZ00028 | Circles [MINI] [PSP]
 NPUZ00029 | Stand O' Food [MINI] [PSP]
 NPUZ00030 | Kahoots [MINI] [PSP]
 NPUZ00031 | BreakQuest [MINI] [PSP]
+NPUZ00032 | KarmaStar,psp
 NPUZ00033 | MONOPOLY® [MINI] [PSP]
 NPUZ00034 | Spot the Differences! [MINI] [PSP]
 NPUZ00036 | DynoGems [MINI] [PSP]
@@ -13486,6 +14840,7 @@ NPUZ00126 | Dr. Maybee and the Adventures of Scarygirl [MINI] [PSP]
 NPUZ00127 | Fort Commander: King's Gambit [MINI] [PSP]
 NPUZ00128 | Fort Commander II: Counter Attack [MINI] [PSP]
 NPUZ00129 | Who's That Flying?! [MINI] [PSP]
+NPUZ00130 | Reversi,psp
 NPUZ00131 | Coconut Dodge [MINI] [PSP]
 NPUZ00132 | Zenonia [MINI] [PSP]
 NPUZ00133 | Alpha Mission [MINI] [PSP]
@@ -13518,6 +14873,7 @@ NPUZ00177 | Pix'N Love Rush [MINI] [PSP]
 NPUZ00178 | Age of Hammer Wars [MINI] [PSP]
 NPUZ00179 | N.O.V.A.: Near Orbit Vanguard Alliance [MINI] [PSP]
 NPUZ00180 | Family Games: Pen & Paper Edition [MINI] [PSP]
+NPUZ00181 | Future Fight,psp
 NPUZ00182 | Aquattack [MINI] [PSP]
 NPUZ00184 | Top Gun [MINI] [PSP]
 NPUZ00185 | Days of Thunder [MINI] [PSP]
@@ -13614,6 +14970,8 @@ NPUZ00301 | Top Trumps NBA All Stars [MINI] [PSP]
 NPUZ00305 | I Kill Zombies [MINI] [PSP]
 NPUZ00306 | Feisty Feet [MINI] [PSP]
 NPUZ00364 | Canabalt [MINI] [PSP]
+NPUZ00369 | Jetpack Joyride,psp
+NPUZ00374 | Angus hates Aliens,psp
 SLED01340 | PS1 NET YAROZE COLLECTION
 SLUS00922 | Dino Crisis [PSOne]
 SWJP11001 | Arcana Heart 3
