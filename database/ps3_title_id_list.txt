@@ -2,8 +2,8 @@ ALCH00038 | Gal*Gun
 ASIA00048 | Ultimate Shooter Pack: Resistance 3 / Killzone 3
 ASIA00049 | Square Enix Adventure Pack: Tomb Raider / Sleeping Dogs
 ASIA00050 | Ultimate Adventure Pack: Uncharted 3: Drake's Deception / God of War III
-ASIA00051 Best Hit Collection Vol. 1: Uncharted 3: Drake's Deception / LittleBigPlanet 2
-ASIA00052 Best Hit Collection Vol. 2: Resistance 3 / God of War III
+ASIA00051 | PS3 Best Hit Collection Vol. 1: Uncharted 3: Drake's Deception / LittleBigPlanet 2
+ASIA00052 | PS3 Best Hit Collection Vol. 2: Resistance 3 / God of War III
 ASIA00074 | Ultimate Uncharted Pack
 ATS201009 | Catherine Best Selection
 BCAS01594 | Ratchet & Clank: QForce
@@ -14571,7 +14571,7 @@ NPUL00026 | Metal Gear Online
 NPUL00028 | FALLOUT 3
 NPUL00049 | PSN Movie Download Machine
 NPUL00107 | DC Universe Online
-NPUL00108 Bluetooth Headset
+NPUL00108 | PS3 Bluetooth Headset
 NPUL00112 | The Fall
 NPUL00117 | Casino Royale: Collectors Edition
 NPUL00128 | Incubus: Love Hurts
