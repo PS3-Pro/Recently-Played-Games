@@ -12137,7 +12137,7 @@ SLPN40002 | BioHazard Outbreak [Network Adaptor Pack]
 SLPN40003 | Karaoke Revolution Network Adaptor Pack
 SLPN40005 | Net de Bomberman [PlayStation BB Pack]
 SLPN41001 | Taiko no Tatsujin Special Pack
-SLPS-SLPS-25652 | .Hack G.U. Vol.1 - Saitan (Welcome Prize) + Terminal Disc - The End of THE WORLD
+SLPS25652 | .Hack G.U. Vol.1 - Saitan (Welcome Prize) + Terminal Disc - The End of THE WORLD
 SLPS15085 | Kenran Butosai
 SLPS20000 | AH64D Apache [Beta]
 SLPS20001 | Ridge Racer V
@@ -13699,7 +13699,7 @@ SLPS73901 | Xenosaga Episode 1 - Der Wille zur Macht [PlayStation 2 The Best]
 SLPS74101 | Bomberman Land 2 (Playstation 2 The Best)
 SLPS75202 | Tales of Destiny 2 (Mega Hits!)
 SLPS99999 | (Generic ID for some demo's, betas and unreleased test games)
-SLUS 20914 | RIBBIT KING
+SLUS20914 | RIBBIT KING
 SLUS10010 | Explosion Royale (Unreleased)
 SLUS12828 | NARUTO 3IN1
 SLUS20001 | Tekken Tag Tournament
@@ -15697,7 +15697,7 @@ SNESEMU001 | Super Mario Collection PS2
 SRP200201 | Wand of Fortune Twin Pack
 SRP200301 | S.Y.K Twin Pack
 SRPM70201 | Space Venus Starring Morning Musume
-SSLPS20172 | Koushien - Konpeki no Sora
+SLPS20172 | Koushien - Konpeki no Sora
 STYLE45 | Winning Eleven - Pro Evolution Soccer 2007 (Konami style Special Edition)
 SUCS97130 | Hot Shots Golf 3
 T25 | DOA2 Hardcore Tentō hōsō-yō (DVD Video)
