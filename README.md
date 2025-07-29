@@ -153,6 +153,9 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | JCD00TEST | 3 Card Monte
 | JUIC10000 | Juicy Fix
 | KARA01010 | Kara (Karaoke Player)
+| KIOS00001 | Cuphead - Demo
+| KIOS00002 | Duck Hunt® Classic
+| KIOS00003 | Duck Hunt® Remake
 | KSPY09415 | UNDERTALE™
 | LAUN12345 | Backup Manager
 | LAUNCHPAD | LaunchPAD
@@ -204,8 +207,8 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | PAINTOWN2 | Paintown
 | PCEE00000 | PCE Emulator
 | PCSX00001 | PS3SX Emulator 
-| PEXTRANET | PS3™EXTRANET
 | PEXTRANET | PS3™ EXTRANET
+| PEXTRANET | PS3™EXTRANET
 | PINTOR001 | Pintor: Sony vs Hackers
 | PKGENABLE | PKG Enabler
 | PKGLAUNCH | PKG Launcher
