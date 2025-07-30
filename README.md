@@ -364,7 +364,6 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | ZMODSNES0 | Snes Emulator
 | ZZZZ00001 | PS3Ram Dumper
 | one11111 | PS One
-|-----------|---------------
 
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
