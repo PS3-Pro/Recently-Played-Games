@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<title-info rev="0">
+	<id>S1F00S2A0</id>
+	<console>ps3</console>
+	<media-type>edi</media-type>
+	<name>Sonic Forever</name>
+	<parental-level>0</parental-level>
+	<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/S1F00S2A0_00_9F0501F2DFB52869ED51EAB83AA5A1449EB5E30E/ICON0.PNG</icon>
+	<resolution>480,720,1080,480SQ</resolution>
+	<sound-format>2LPCM,5.1LPCM,7.1LPCM</sound-format>
+</title-info>
