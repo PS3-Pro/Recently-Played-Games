@@ -5,7 +5,7 @@
 	<media-type>edi</media-type>
 	<name>UNDERTALE™</name>
 	<parental-level>3</parental-level>
-	<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/KSPY09415_00_0E66FA51693178C81BF47026674A443EFEB8DCF5/ICON0.PNG</icon>
+	<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/KSPY09415_00_0E66FA51693178C81BF47026674A443EFEB8DCF5/ICON0.PNG</icon>
 	<resolution>480,576,720,1080,480SQ,576SQ</resolution>
 	<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>

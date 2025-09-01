@@ -5,7 +5,7 @@
 	<media-type>edi</media-type>
 	<name>VNC Viewer</name>
 	<parental-level>3</parental-level>
-	<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/VNCVIEWER_00_78D9682765A02A2C129AAB7505D74C47D4826806/ICON0.PNG</icon>
+	<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/VNCVIEWER_00_78D9682765A02A2C129AAB7505D74C47D4826806/ICON0.PNG</icon>
 	<resolution>480,720,480SQ</resolution>
 	<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>

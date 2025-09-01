@@ -4,7 +4,7 @@
 <media-type>edi</media-type>
 <name>UFO Racer</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/UFOR00000_00_1BB7CC38646995E7967DB5479DC47A3076F413E0/ICON0.PNG</icon>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/UFOR00000_00_1BB7CC38646995E7967DB5479DC47A3076F413E0/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>

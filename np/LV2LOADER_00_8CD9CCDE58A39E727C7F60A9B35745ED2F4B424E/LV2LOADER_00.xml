@@ -4,7 +4,7 @@
 <media-type>edi</media-type>
 <name>LV2 Loader</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/LV2LOADER_00_8CD9CCDE58A39E727C7F60A9B35745ED2F4B424E/ICON0.PNG</icon>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/LV2LOADER_00_8CD9CCDE58A39E727C7F60A9B35745ED2F4B424E/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>

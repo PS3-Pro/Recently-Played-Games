@@ -4,7 +4,7 @@
 <media-type>edi</media-type>
 <name>Simple File Manager</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/PS3SFM001_00_8CA05F5668EAF81A6E7E8EE010C3BD52473FA85D/ICON0.PNG</icon>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/PS3SFM001_00_8CA05F5668EAF81A6E7E8EE010C3BD52473FA85D/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>

@@ -4,7 +4,7 @@
 <media-type>edi</media-type>
 <name>PS3 Manager API Installer</name>
 <parental-level>0</parental-level>
-<icon type="320x176">http://raw.github.com/PS3-4K-Pro/DB/main/np/PS3MAPI00_00_F87A5FAE0FED2AC9A149786A7D9241B80DFBEDE5/ICON0.PNG</icon>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/PS3MAPI00_00_F87A5FAE0FED2AC9A149786A7D9241B80DFBEDE5/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
