@@ -87,7 +87,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | EUAE00829 | E-UAE Amiga Emulator
 | EVIL00095 | Resident Evil Operation (Paintown)
 | EXA000000 | Homebrew Package Network
-| EXPEDITE | Expedite: Evas Benchmark Suite
+| EXPEDITE  | Expedite: Evas Benchmark Suite
 | FAKEBDEMU | Install Fake BDemu
 | FAQSAEP01 | Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque
 | FBAN00000 | FBANext
@@ -195,6 +195,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | NPEA90124 | SEN Enabler
 | NPJB00109 | Dancing Eyes
 | NPXS00006 | Yabause
+| NPXS00022 | PS-Paint: Painting on PS3™
 | NPXS09386 | PSNope
 | NPXS91337 | OpenPS3FTP v4
 | NSTP90000 | Nestopia
@@ -340,7 +341,6 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | VICE90001 | Vice Commodore 128 emulator
 | VICE90002 | Vice Commodore PlusS4 emulator
 | VICE90003 | Vice Commodore VIC20 emulator
-| VNC0VIEWER1 | VNC Viewer
 | VNCVIEWER | VNC Viewer
 | VSHU00100 | Vsh.self patcher for reActPSN
 | WARCRAFTD | Warcraft Orcs and Humans
@@ -363,7 +363,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | ZMODSGEN0 | Mega Drive Emulator
 | ZMODSNES0 | Snes Emulator
 | ZZZZ00001 | PS3Ram Dumper
-| one11111 | PS One
+| one11111  | PS™ One
 
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
