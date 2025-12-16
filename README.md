@@ -69,6 +69,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | DISABLECP | Disable Cinavia
 | DONOTDIE2 | They do Not Die 2
 | DOWNLAODX | Extended Download Plugin Installer
+| DOWNLOADX | Extended Download Plugin Installer
 | DPFH00003 | Dump Flash
 | DROW66666 | The World Drowns
 | DUCK01337 | Duck Sample
@@ -102,6 +103,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | FREEFLASH | FreeFlash (dev_blind clone)
 | FSEN03269 | SEN Enabler-Disabler
 | FSMT00002 | Factory Service Mode
+| FTPD00001 | PS3-FTP
 | FTPD12345 | PS3™ FTP Server
 | GAIA01985 | Gaia Manager
 | GAMBOL123 | Gambol
@@ -113,7 +115,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | GFX012345 | PS3noid
 | GMBT90000 | Gambatte(Gameboy emulator)
 | GMBTCLLC1 | Gameboot Collection Installer
-| GMPADTEST | Gamepad Test
+| GMPADTEST | GamePad Test
 | GOFKOMBAT | Gears of Kombat
 | GPKG00123 | Game PKG
 | GSPS40987 | Geometry Dash
@@ -161,7 +163,6 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | LNX000001 | BootOS_Installer
 | LOAD00000 | MrGatz85 & Cael's Open Asbestos Loader
 | LUAFPS310 | LUAFPS3: LuaPlayer for PS3
-| LUAP00001 | LUA Player
 | LUAP00001 | Lua Player / DDLC Love
 | LV2000000 | LV2Patcher bd-region changer /LV2-9
 | LV2D00000 | LV2 Dump
@@ -191,7 +192,9 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | NP0ANSIVW | ANSi View by Bucanero
 | NP0APOLLO | Apollo Save Tool by Bucanero
 | NPEA90124 | SEN Enabler
+| NPIA00001 | PS2™ System Data
 | NPJB00109 | Dancing Eyes
+| NPUA70069 | adhocParty
 | NPXS00006 | Yabause
 | NPXS00022 | PS-Paint: Painting on PS3™
 | NPXS09386 | PSNope
@@ -202,18 +205,17 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | OFTP00001 | OpenPS3FTP v2
 | OFTP00003 | OpenPS3FTPsplit
 | OMAN46756 | Open Manager/Sexy Manager/Pretty Manager/Flex Manager
+| OPENBOR00 | OpenBOR
 | OSPX00001 | OpenSupaplex
 | PAINTOWN2 | Paintown
 | PCEE00000 | PCE Emulator
 | PCSX00001 | PS3SX Emulator 
 | PEXTRANET | PS3™ EXTRANET
-| PEXTRANET | PS3™EXTRANET
 | PINTOR001 | Pintor: Sony vs Hackers
 | PKGENABLE | PKG Enabler
-| PKGLAUNCH | PKG Launcher
+| PKGLAUNCH | Retro™ Launcher
 | PKGMANAGE | Rebug Package Manager
 | PLAYMNGR1 | Play Manager 
-| PLUGINMAN | Plugin Manager
 | PLUGINMAN | Plugin Manager
 | PNG00TEST | Wall Pong
 | POCKETMON | Untitled Pokemon Project
@@ -228,6 +230,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | PS34KPROX | PS3™ 4K Pro Full
 | PS3CAP32R | Caprice32: Amstrad CPC 8bit Emulator
 | PS3CFWPRO | PS3™ 4K Pro (CFW)
+| PS3EXTRA5 | PS3™ Extra XMB Mods Collection
 | PS3HATARI | Hatari: Atari ST, STE TT and Falcon Emulator
 | PS3HFWPRO | PS3™ 4K Pro (HFW)
 | PS3ITAMNG | PS3ITA Manager 
@@ -242,11 +245,11 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | PS3SFM001 | Simple File Manager
 | PS3T000LZ | PS3™Advanced Tools
 | PS3TETRIS | PS3™ Tetris (Repacked)
-| PS3TRTIME | Cek waktu nyala (PS3OnTime)
+| PS3TRTIME | PS3™ On-Time
 | PSCD00001 | Google Cloud Drive
 | PSCHANNEL | PSChannel
 | PSEISM1GR | Seismograph
-| PSID81257 | PSX™ Launcher 
+| PSID81257 | PSX™ Launcher
 | PSPC66820 | PSP™ Remasters Launcher
 | PSPM66820 | PSP™ Launcher
 | PSVB00001 | PSVibe
@@ -307,7 +310,6 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | SXNE10004 | StandAlone RetroArch Genesis Plus GX Core
 | SXNE10008 | StandAlone RetroArchh VBA Next Core
 | SXNE10009 | StandAlone RetroArch Virtual Boy Core
-| SXNE10010 | StandAlone RetroArchh PSX Core.
 | SXNE10010 | StandAlone RetroArchh PSX™ Core.
 | SXNE10011 | StandAlone RetroArchh Snex9X Next Core
 | SXNE10012 | StandAlone RetroArchh Mednafen Neo Pop Core
@@ -330,6 +332,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | TYRI12000 | Tyrian 2000
 | UFOR00000 | UFO Racer
 | ULES95749 | Pizza Tower
+| ULTOOLBOX | Ultimate Toolbox
 | UNMAPPEDF | The Unmapped Forest
 | UPDWEBMOD | WebMan Mod Installer
 | VBAM90000 | VBA
@@ -351,11 +354,14 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | XMBGREEK0 | Greek XMB™ Pack
 | XMBLOCK00 | XMB™ Lock
 | XMBMANPLS | XMB Manager Plus / XMBM+ 2017
-| XMBMANPLS | XMB™ Manager Plus
+| XMBMDIFY1 | XMB™ Modify Collection Installer
 | XMBMODMAN | XMB™ Mod Man
 | XMBPDINST | XMBPD Installer
 | XMBPLSMOD | Unofficial Rebug Updater
 | XREG00001 | xReg Plus (Backup/restore xRegistry.sys)
+| XVIDEOSGA | XVideos Gay
+| XVIDEOSHT | XVideos Straight
+| XVIDEOSLB | XVideos Lesbian
 | ZMODMASTE | Master System Emulator
 | ZMODNES00 | Nes Emulator
 | ZMODSGEN0 | Mega Drive Emulator

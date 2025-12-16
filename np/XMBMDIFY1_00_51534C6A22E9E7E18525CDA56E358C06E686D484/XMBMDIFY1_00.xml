@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>PSID81257</id>
+<id>XMBMDIFY1</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>PSX™ Launcher</name>
+<name>XMB™ Modify Collection Installer</name>
 <parental-level>0</parental-level>
-<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/PSID81257_00_C970E8EB3DBCD807E3F658BE2FC5A4D7048FEF59/ICON0.PNG</icon>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/XMBMDIFY1_00_51534C6A22E9E7E18525CDA56E358C06E686D484/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
