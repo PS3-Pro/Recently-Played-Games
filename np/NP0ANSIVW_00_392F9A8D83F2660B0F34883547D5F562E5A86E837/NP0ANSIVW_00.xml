@@ -4,7 +4,7 @@
 <media-type>edi</media-type>
 <name>ANSi View</name>
 <parental-level>0</parental-level>
-<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/NP0ANSIVW_00_392F9A8D83F2660B0F34883547D5F562E5A86E83/ICON0.PNG</icon>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/NP0ANSIVW_00_392F9A8D83F2660B0F34883547D5F562E5A86E837/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
