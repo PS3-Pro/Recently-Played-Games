@@ -6,10 +6,10 @@ Custom recently played database with homebrew support for PS3™ Pro.
 ![image](https://user-images.githubusercontent.com/74815634/138005437-acaf171d-a24d-4a03-baf8-6339323631c2.png)
 
 # TMBD Generator
-Generate the TMDB hash and links from Sony's server [here](https://colab.research.google.com/drive/1qh1zie1JCrVRgpGmjckbdQ9mjOaqMdLZ?usp=sharing)
+Generate the TMDB hash and links from Sony's server [here.](https://colab.research.google.com/drive/1qh1zie1JCrVRgpGmjckbdQ9mjOaqMdLZ?usp=sharing)
 
 # TMBM Downloader
-Downloads the TMDB database from Sony's server and this repository [here](https://colab.research.google.com/drive/1tpLYbR4mIHaEKzoooOg3H482cInez5DK?usp=sharing)
+Downloads the TMDB database from Sony's server and this repository [here.](https://colab.research.google.com/drive/1tpLYbR4mIHaEKzoooOg3H482cInez5DK?usp=sharing)
 
 # Supported Homebrews
  
