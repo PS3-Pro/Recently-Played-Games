@@ -295,7 +295,6 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | SIMPIRIS4 | Simplicity
 | SISO00123 | Simple NTFS ISO Mounter
 | SKETCHFIT | Sketch Fight
-| SLES00000 | Friday Night Funkin
 | SLES00000 | Friday Night Funkin' (PSP Version)
 | SLIMEROLL | Slime Roll
 | SM64ZMOD1 | Super Mario 64
