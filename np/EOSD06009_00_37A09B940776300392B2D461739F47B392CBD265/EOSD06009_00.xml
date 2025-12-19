@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>SLES00000</id>
+<id>EOSD06009</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Friday Night Funkin' (PSP Version)</name>
+<name>Touhou Koumakyou</name>
 <parental-level>0</parental-level>
-<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/SLES00000_00_CA47F0EB285AE41A0C419301BBA3905872C47A08/ICON0.PNG</icon>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/EOSD06009_00_37A09B940776300392B2D461739F47B392CBD265/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>

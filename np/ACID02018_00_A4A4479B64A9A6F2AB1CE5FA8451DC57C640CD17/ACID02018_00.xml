@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>SLES00000</id>
+<id>ACID02018</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Friday Night Funkin' (PSP Version)</name>
+<name>Baldi's Basics</name>
 <parental-level>0</parental-level>
-<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/SLES00000_00_CA47F0EB285AE41A0C419301BBA3905872C47A08/ICON0.PNG</icon>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/ACID02018_00_A4A4479B64A9A6F2AB1CE5FA8451DC57C640CD17/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>

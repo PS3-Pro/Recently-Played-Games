@@ -16,6 +16,8 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | TITLE ID  | TITLE NAME
 |-----------|---------------
 | ABCD12345 | PS3™ Messenger
+| ACID00514 | Raise the Koishi
+| ACID02018 | Baldi's Basics
 | ACTRLPS30 | Application Controller (VNC)
 | ALIENBRED | Hazed Alienbreed
 | APPTITLID | XMB™ Manager Plus
@@ -81,6 +83,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | ELEGANZ00 | Elegaz File Manager
 | ELONLOREP | Elongated Reptile
 | ENSTONEXX | CCAPI by Enstone.
+| EOSD06009 | Touhou Koumakyou
 | ES35CSTMZ | ES35's Customize
 | ESKISS000 | Ekiss Move Edition
 | EUAE00829 | E-UAE Amiga Emulator
@@ -100,6 +103,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | FLAPBIRD0 | Flappy Bird Family
 | FLASH04K0 | Flash Light 0.4 K
 | FLTZ00010 | EID Root Key Dumper
+| FNFE00000 | Friday Night Funkin'
 | FREEFLASH | FreeFlash (dev_blind clone)
 | FSEN03269 | SEN Enabler-Disabler
 | FSMT00002 | Factory Service Mode
@@ -135,6 +139,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | HMBW00002 | Awesome Peek and Poker
 | HMBW00003 | QuickDumpR
 | HOMELAUN1 | USB Game Launcher
+| HONG97000 | Hong Kong 97
 | HTSD00001 | stDISC (Showtime Disc Access)
 | HTSS00003 | Movian
 | HVDEBUG01 | HVDebug (Hypervisor debugging from GameOS)
@@ -159,6 +164,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | KSPY09415 | UNDERTALE™
 | LAUN12345 | Backup Manager
 | LAUNCHPAD | LaunchPAD
+| LBPCSPPHB | LittleBigPatcher
 | LED0DISC0 | LED Changer
 | LNX000001 | BootOS_Installer
 | LOAD00000 | MrGatz85 & Cael's Open Asbestos Loader
@@ -167,6 +173,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | LV2000000 | LV2Patcher bd-region changer /LV2-9
 | LV2D00000 | LV2 Dump
 | LV2LOADER | Rebug's lv2_kernel.self Loader
+| LWMC00000 | Larry with a Magic Scarf
 | MA00BLACK | MA BD TOOL
 | MAMBAINST | Funny Mamba Auto Loader
 | MAMBAPRXL | MAMBA/PRX Loader
@@ -182,6 +189,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | MONSTER01 | Chaos Air Bringer (Change MAC Address)
 | MONSTERMR | Monster Manager
 | MOUNTDFRW | Alejandro: Mount /dev_flash RW in /dev_Alejando
+| MSWP99999 | Minesweeper Plus
 | MUGENMK95 | Mugen
 | N4RULOADR | n4ru Flash Loader
 | NEOR66666 | Neo Race
@@ -230,7 +238,9 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | PS34KPROX | PS3™ 4K Pro Full
 | PS3CAP32R | Caprice32: Amstrad CPC 8bit Emulator
 | PS3CFWPRO | PS3™ 4K Pro (CFW)
+| PS3DCM001 | Duco Miner
 | PS3EXTRA5 | PS3™ Extra XMB Mods Collection
+| PS3EZD001 | EzDNS
 | PS3HATARI | Hatari: Atari ST, STE TT and Falcon Emulator
 | PS3HFWPRO | PS3™ 4K Pro (HFW)
 | PS3ITAMNG | PS3ITA Manager 
@@ -274,6 +284,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | RXDOO1351 | Doom II
 | RXESP3851 | Espionage
 | RXGAM3004 | 2048
+| S2A00S1F0 | Sonic 2: Absolute
 | SACDRIP01 | SACD-Ripper
 | SAGE12024 | Sonic 1: Strange Dream World
 | SCO000000 | SConsole
@@ -285,6 +296,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | SISO00123 | Simple NTFS ISO Mounter
 | SKETCHFIT | Sketch Fight
 | SLES00000 | Friday Night Funkin
+| SLES00000 | Friday Night Funkin' (PSP Version)
 | SLIMEROLL | Slime Roll
 | SM64ZMOD1 | Super Mario 64
 | SMUM02024 | Super Mario UniMaker
@@ -321,6 +333,7 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | TEST12345 | PS3Pong/Gears Of Kombat
 | TETRISEOL | TetrisEOL (Repacked)
 | THATOPONG | That Other Pong
+| THMK00095 | Touhou 95: Mushroom Kingdom
 | TITLE ID  | TITLE NAME
 | TJARMIND3 | The Jarred Mind 3
 | TOGGLEQAF | Rebug Toggle QA
