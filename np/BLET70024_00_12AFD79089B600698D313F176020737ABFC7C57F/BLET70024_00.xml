@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<title-info rev="0">
+	<id>BLET70024</id>
+	<console>ps3</console>
+	<media-type>edi</media-type>
+	<name>BBC Sport</name>
+	<parental-level>1</parental-level>
+	<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/BLET70024_00_12AFD79089B600698D313F176020737ABFC7C57F/ICON0.PNG</icon>
+	<resolution>576,720,576SQ</resolution>
+	<sound-format>2LPCM</sound-format>
+</title-info>

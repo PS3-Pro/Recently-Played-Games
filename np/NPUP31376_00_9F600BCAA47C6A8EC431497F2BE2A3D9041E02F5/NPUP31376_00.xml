@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<title-info rev="0">
+	<id>NPUP31376</id>
+	<console>ps3</console>
+	<media-type>edi</media-type>
+	<name>DAZN</name>
+	<parental-level>1</parental-level>
+	<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/NPUP31376_00_9F600BCAA47C6A8EC431497F2BE2A3D9041E02F5/ICON0.PNG</icon>
+	<resolution>576,720,1080,576SQ</resolution>
+	<sound-format>2LPCM</sound-format>
+</title-info>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<title-info rev="0">
+	<id>NPEB01919</id>
+	<console>ps3</console>
+	<media-type>edi</media-type>
+	<name>sky Online</name>
+	<parental-level>1</parental-level>
+	<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/NPEB01919_00_48FBE1598A78F35A6BCBAF00E8A2FA8449D9AA20/ICON0.PNG</icon>
+	<resolution>576,720,1080,576SQ</resolution>
+	<sound-format>2LPCM</sound-format>
+</title-info>
