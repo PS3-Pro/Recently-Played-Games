@@ -381,6 +381,14 @@ Downloads the TMDB database from Sony's server and this repository [here](https:
 | ZZZZ00001 | PS3Ram Dumper
 | one11111  | PS™ One
 
+COLOCAR NA XML XMB E ONLINE
+| STH012013 | Sonic The Hedgehog
+| STH022013  | Sonic The Hedgehog 2
+| IOQ3PS300  | Quake 3
+| OPJAZZ001  | Jazz Jackrabbit
+
+
+
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
  
