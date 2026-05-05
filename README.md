@@ -386,8 +386,10 @@ COLOCAR NA XML XMB E ONLINE
 | STH022013  | Sonic The Hedgehog 2
 | IOQ3PS300  | Quake 3
 | OPJAZZ001  | Jazz Jackrabbit
-
-
+| NP0SVSYNC | Save Sync
+| PRBR95000 | Progressbar 95
+| ACID10004 | Ultimate Cross Adventure
+| ACID10004 | Holy_Shit_This_Is_De_Worst_Platformer_Ever
 
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
