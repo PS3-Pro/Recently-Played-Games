@@ -391,6 +391,8 @@ COLOCAR NA XML XMB E ONLINE
 | ACID10004 | Ultimate Cross Adventure
 | ACID66666 | Holy Shit This Is De Worst Platformer Ever
 | JELLYFIN3 | JellyFin
+| CELLMARK0 | cellmark 177184 UP0001-CELLMARK0_00-0000000000000000.pkg
+| XVYUNITYG | XvY CUSTOM-XVYUNITYG_00-0000000000000000 95509072
 
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
