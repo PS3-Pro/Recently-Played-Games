@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>NP0SVSYNC</id>
+<id>JFPS30000</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Save Sync</name>
+<name>Jellyfin</name>
 <parental-level>0</parental-level>
-<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/NP0SVSYNC_00_252E995A751FFA3DA4935B6E4C5A33AADC4D2B05/ICON0.PNG</icon>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/JFPS30000_00_C0EED3CC5AD39DC75FC51784A709DEC8C02D6960/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby</sound-format>
 </title-info>
