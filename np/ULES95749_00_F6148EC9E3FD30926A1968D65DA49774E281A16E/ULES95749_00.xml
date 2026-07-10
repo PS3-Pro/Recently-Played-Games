@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <title-info rev="0">
 	<id>ULES95749</id>
-	<console>ps3</console>
-	<media-type>psp</media-type>
+	<console>ps3,psp</console>
+	<media-type>edi</media-type>
 	<name>Pizza Tower</name>
 	<parental-level>0</parental-level>
 	<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/ULES95749_00_F6148EC9E3FD30926A1968D65DA49774E281A16E/ICON0.PNG</icon>
