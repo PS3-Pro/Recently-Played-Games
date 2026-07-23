@@ -412,6 +412,8 @@ IP9100-NPIA00002_00-0000111122223333-A0125-V0100 Life with PlayStation 230456688
 
 HB0001-THERMAL01_00-THERMALBENCH0001 Thermal Bench 16796
 HB0002-RENPLAY01_00-RENPYPLAYERHB001 Ren'Py Player 313552
+HB0001-CELSTRM01_00-CELLSTREAMHB0001 Cell Stream 166160
+
 
 apollo ta no ps3 nas xml? cooacr pkg na loja, colocar live with playstation no nopaystation
 gamepad n funciona no jogo.
