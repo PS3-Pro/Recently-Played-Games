@@ -407,10 +407,18 @@ HG0000-TYRIAN001_00-0000111122223333 Tyrian 2000 13951696
 
 HB0001-YOPLAYER1_00-YOPLAYERHB000001 Yo! Player 371040
 
+IP9100-NPIA00002_00-0000111122223333-A0125-V0100 Life with PlayStation 230456688 ATIVAR NO MOD
+
+
+HB0001-THERMAL01_00-THERMALBENCH0001 Thermal Bench 16796
+HB0002-RENPLAY01_00-RENPYPLAYERHB001 Ren'Py Player 313552
+
 apollo ta no ps3 nas xml? cooacr pkg na loja, colocar live with playstation no nopaystation
 gamepad n funciona no jogo.
 
-
+https://ps-store-searcher.pages.dev/ descrição oficial da sony, icoe de dlc e avatar tbm
+https://psx-place.com/threads/ps3xpad-beta-release.50533/#post-425283
+https://psx-place.com/threads/60-unlock-fps-patches.49905/page-7#post-425282
 
 DEMOLIÇAÕ DE PAREDE DE APOIO DO CONSOLE
 avatars do isekai
