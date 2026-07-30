@@ -413,10 +413,24 @@ IP9100-NPIA00002_00-0000111122223333-A0125-V0100 Life with PlayStation 230456688
 HB0001-THERMAL01_00-THERMALBENCH0001 Thermal Bench 16796
 HB0002-RENPLAY01_00-RENPYPLAYERHB001 Ren'Py Player 313552
 HB0001-CELSTRM01_00-CELLSTREAMHB0001 Cell Stream 166160
+CHQK00001	ALL	Quake	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake.pkg		UP0000-CHQK00001_00-0000000000000001	53171488
+
+VER SE FUNCIONA NO WHATS NEW QUAKE2_00	ALL	Quake 2	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake_2.pkg		UP0001-QUAKE2_00-0000000000000000	382862400
+TAYG00020	ALL	The Ascension	https://github.com/PS3-Pro/Packages/releases/download/Ports/The_Ascension.pkg		TA0000-TAYG00020_00-THEASCENSIONYG550	10087264
+
+
 
 novo server https://projectnexus-revival.com/
 https://github.com/danekxd/fifa19ps3
 https://www.youtube.com/watch?v=FcwBQ7oQd9M carbon
+
+IOEFPS300	ALL	Star Trek Voyager: Elite Force	https://github.com/PS3-Pro/Packages/releases/download/Ports/Star_Trek_Voyager_-_Elite_Force.pkg		UP0001-IOEFPS300_00-0000000000000000	683620064
+IOQCPS301	ALL	Quake 3: Multiplayer (Dreamcast Clients)	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake_3_-_Multiplayer.pkg		UP0001-IOQCPS301_00-0000000000000000	559128176
+
+https://www.psx-place.com/threads/simple-cd-info-track-names-are-back.50686/
+
+TH06PORT0	ALL	Touhou Koumakyou - The Embodiment of Scarlet_Devil	https://github.com/PS3-Pro/Packages/releases/download/Ports/Touhou_Koumakyou_-_The_Embodiment_of_Scarlet_Devil.pkg		UP0001-TH06PORT0_00-0000000000000000	340627760
+SUPERHEXA	ALL	Super Hexagon	https://github.com/PS3-Pro/Packages/releases/download/Ports/Super_Hexagon.pkg		UP0001-SUPERHEXA_00-0000000000000000	30473152
 
 BOOG00316 é id real 2 titulo que lancou, qual o primeiro?
 
