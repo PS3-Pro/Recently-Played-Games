@@ -409,7 +409,6 @@ HB0001-YOPLAYER1_00-YOPLAYERHB000001 Yo! Player 371040
 
 IP9100-NPIA00002_00-0000111122223333-A0125-V0100 Life with PlayStation 230456688 ATIVAR NO MOD
 
-
 HB0001-THERMAL01_00-THERMALBENCH0001 Thermal Bench 16796
 HB0002-RENPLAY01_00-RENPYPLAYERHB001 Ren'Py Player 313552
 HB0001-CELSTRM01_00-CELLSTREAMHB0001 Cell Stream 166160
@@ -421,6 +420,9 @@ FALL1CE00	ALL	Fallout	https://github.com/PS3-Pro/Packages/releases/download/Port
 FIVENATF2	ALL	Five Nights at Freddy's 2	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_2.pkg		IV0000-FIVENATF2_00-GAMEMAKERSTUDIO0	27485152
 FIVENATF3	ALL	Five Nights at Freddy's 3 (PSP)	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_3.pkg		EP0001-FIVENATF3_00-0000111122223333	131653312
 FIVENATF4	ALL	Five Nights at Freddy's 4 (PSP)	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_4.pkg		EP0001-FIVENATF4_00-0000111122223333	131653312
+FNAC00020	ALL	Five Nights at Candy's Remastered	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Candys_Remastered.pkg		IV0000-FNAC00020_00-GAMEMAKERSTUDIO0	60720224
+ONAF00020	ALL	One Night at Flumpty's	https://github.com/PS3-Pro/Packages/releases/download/Ports/One_Night_at_Flumptys.pkg		IV0000-ONAF00020_00-GAMEMAKERSTUDIO0	31323168
+
 
 SENT TO PS3
 https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
@@ -460,6 +462,57 @@ https://psx-place.com/threads/60-unlock-fps-patches.49905/page-7#post-425282
 DEMOLIÇAÕ DE PAREDE DE APOIO DO CONSOLE
 avatars do isekai
 
+Pkgs para fazer
+
+https://github.com/AcidGunner/AcidSample
+
+https://github.com/kamilb880/gxemu_custom_configs
+https://github.com/tpolasek/extreme_tux_racer_ps3
+https://github.com/lostjared/ps3demos
+https://github.com/utkuhalis/ps3-homebrew
+https://github.com/Cruslan/PS3-NotVKCube/releases
+https://github.com/sp00nznet/linksawakening-portable
+https://github.com/KittyCubeStudious/Kitty-Tetris-PS3
+https://github.com/dookiebbbb/PS3-Wave-Isolator
+https://github.com/CU-Production/PS3_helloworld
+https://github.com/rquiroga83/ps3-hello
+https://github.com/KoleckOLP/VibebrewSmileyPS3
+https://github.com/dirsors/ps3doom
+
+https://www.psx-place.com/threads/release-ps3-doom.30343/
+
+varios 
+https://github.com/02900?tab=repositories
+
+plugin
+https://github.com/vlad-bystritskii/PS3PlaytimeTracker PARA LOJA
+https://github.com/sagemono/VshFpsCounter mais completo
+https://github.com/Dobridp/DS45Pad
+https://github.com/TheWaffleMan1337/vsh_hook
+https://www.psx-place.com/threads/ps3xpad-beta-release.50533/
+
+https://www.mediafire.com/file/bszc4s7rb32qhg8/ps3-fps-unlocker-v0.0.4-psuf.pkg/file
+
+programa bom pro meu site devtool
+https://github.com/ButterscotchRunner/Butterscotch
+
+https://github.com/sagemono/OpenTM
+
+https://www.youtube.com/watch?v=_eueP5xYAKo
+
+site de themas
+https://github.com/kizeo0/PS3-THM-KZ
+
+configs de ps2
+https://github.com/kamilb880/gxemu_custom_configs
+
+servidor colcoar mod, e plugin e site e guia
+https://www.youtube.com/watch?v=epG1bKCnxuc
+  • Browse Community Creations: https://vrs14-revival.com
+  • Website: https://www.vrsaskayzx.com
+  • Questions or bugs: vrsaskayzx.dj7sm@dralias.com
+
+
 # Notes
 multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list. 
  
@@ -468,3 +521,6 @@ multiMAN and Rebug Toolbox erases the boot_history.dat, reseting the list.
 <br>
 @xps3riments for the official sony's database.
 </div>
+
+fazer site q ve o user aggent para eu ver do psp do navegador
+
