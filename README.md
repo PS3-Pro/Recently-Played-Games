@@ -414,9 +414,13 @@ HB0001-THERMAL01_00-THERMALBENCH0001 Thermal Bench 16796
 HB0002-RENPLAY01_00-RENPYPLAYERHB001 Ren'Py Player 313552
 HB0001-CELSTRM01_00-CELLSTREAMHB0001 Cell Stream 166160
 
-ULES00000	ALL	Five Nights at Freddy's 3	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_3.pkg		EP0001-ULES00000_00-0000111122223333	131653312
+FIVENATF2	ALL	Five Nights at Freddy's 2	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_2.pkg		IV0000-FIVENATF2_00-GAMEMAKERSTUDIO0	27485152
+FIVENATF3	ALL	Five Nights at Freddy's 3 (PSP)	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_3.pkg		EP0001-FIVENATF3_00-0000111122223333	131653312
+FIVENATF4	ALL	Five Nights at Freddy's 4 (PSP)	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_4.pkg		EP0001-FIVENATF4_00-0000111122223333	131653312
 
-NPXS00020	ALL	Five Nights at Freddy's 2	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_2.pkg		IV0000-NPXS00020_00-GAMEMAKERSTUDIO0	27485168
+SENT TO PS3
+https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR
+
 CHQK00001	ALL	Quake	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake.pkg		UP0000-CHQK00001_00-0000000000000001	53171488
 
 VER SE FUNCIONA NO WHATS NEW QUAKE2_00	ALL	Quake 2	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake_2.pkg		UP0001-QUAKE2_00-0000000000000000	382862400
