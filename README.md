@@ -413,13 +413,18 @@ IP9100-NPIA00002_00-0000111122223333-A0125-V0100 Life with PlayStation 230456688
 HB0001-THERMAL01_00-THERMALBENCH0001 Thermal Bench 16796
 HB0002-RENPLAY01_00-RENPYPLAYERHB001 Ren'Py Player 313552
 HB0001-CELSTRM01_00-CELLSTREAMHB0001 Cell Stream 166160
+MNLT00001	ALL	Moonlight	https://github.com/PS3-Pro/Packages/releases/download/Homebrews/Moonlight.pkg		UP0001-MNLT00001_00-0000000000000000	612800
+FNSTATION	ALL	Friday Night Station 3	https://github.com/PS3-Pro/Packages/releases/download/Ports/Friday_Night_Station_3.pkg		UP0001-FNSTATION_00-0000000000000000	279602624
+SBOX00001	ALL	Super Sandbox	https://github.com/PS3-Pro/Packages/releases/download/Ports/Super_Sandbox.pkg		IV0002-SBOX00001_00-SUPERSANDBOX0001	10097488
 
+FALL1CE00	ALL	Fallout	https://github.com/PS3-Pro/Packages/releases/download/Ports/Fallout.pkg		UP0001-FALL1CE00_00-0000000000000000	569977984
 FIVENATF2	ALL	Five Nights at Freddy's 2	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_2.pkg		IV0000-FIVENATF2_00-GAMEMAKERSTUDIO0	27485152
 FIVENATF3	ALL	Five Nights at Freddy's 3 (PSP)	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_3.pkg		EP0001-FIVENATF3_00-0000111122223333	131653312
 FIVENATF4	ALL	Five Nights at Freddy's 4 (PSP)	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_4.pkg		EP0001-FIVENATF4_00-0000111122223333	131653312
 
 SENT TO PS3
-https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR
+https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
+https://github.com/AcidPS3-Project/AcidPS3Data
 
 CHQK00001	ALL	Quake	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake.pkg		UP0000-CHQK00001_00-0000000000000001	53171488
 
