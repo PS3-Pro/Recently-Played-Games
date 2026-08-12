@@ -422,7 +422,8 @@ FIVENATF3	ALL	Five Nights at Freddy's 3 (PSP)	https://github.com/PS3-Pro/Package
 FIVENATF4	ALL	Five Nights at Freddy's 4 (PSP)	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Freddys_4.pkg		EP0001-FIVENATF4_00-0000111122223333	131653312
 FNAC00020	ALL	Five Nights at Candy's Remastered	https://github.com/PS3-Pro/Packages/releases/download/Ports/Five_Nights_at_Candys_Remastered.pkg		IV0000-FNAC00020_00-GAMEMAKERSTUDIO0	60720224
 ONAF00020	ALL	One Night at Flumpty's	https://github.com/PS3-Pro/Packages/releases/download/Ports/One_Night_at_Flumptys.pkg		IV0000-ONAF00020_00-GAMEMAKERSTUDIO0	31323168
-
+SWARM0001	ALL	Swarm	https://github.com/PS3-Pro/Packages/releases/download/Homebrews/Swarm.pkg		HB0001-SWARM0001_00-SWARMVPNCLIENT01	400640
+EXTR00001	ALL	Extreme Tux Racer	https://github.com/PS3-Pro/Packages/releases/download/Ports/Extreme_Tux_Racer.pkg		UP0001-EXTR00001_00-0000000000000001	79167488
 
 SENT TO PS3
 https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
@@ -478,8 +479,11 @@ https://github.com/CU-Production/PS3_helloworld
 https://github.com/rquiroga83/ps3-hello
 https://github.com/KoleckOLP/VibebrewSmileyPS3
 https://github.com/dirsors/ps3doom
+https://github.com/VTSTech/VTSTech-HelloPS3
 
 https://www.psx-place.com/threads/release-ps3-doom.30343/
+
+https://www.psx-place.com/threads/wip-ps3-fps-unlocker-play-supported-games-at-60-fps-or-unlimited-fps.50761/#post-426061
 
 varios 
 https://github.com/02900?tab=repositories
@@ -490,8 +494,15 @@ https://github.com/sagemono/VshFpsCounter mais completo
 https://github.com/Dobridp/DS45Pad
 https://github.com/TheWaffleMan1337/vsh_hook
 https://www.psx-place.com/threads/ps3xpad-beta-release.50533/
-
+https://github.com/InvoxiPlayGames/condenstation
 https://www.mediafire.com/file/bszc4s7rb32qhg8/ps3-fps-unlocker-v0.0.4-psuf.pkg/file
+https://github.com/jjolano/openps3ftp/releases
+https://www.psx-place.com/threads/simple-cd-info-track-names-are-back.50686/page-3#post-425966
+https://github.com/InvoxiPlayGames/condenstation
+
+Engine
+https://github.com/Fewnity/Xenity-Engine
+https://github.com/Mayo1970/xash3d-fwgs
 
 programa bom pro meu site devtool
 https://github.com/ButterscotchRunner/Butterscotch
