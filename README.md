@@ -499,6 +499,7 @@ https://www.mediafire.com/file/bszc4s7rb32qhg8/ps3-fps-unlocker-v0.0.4-psuf.pkg/
 https://github.com/jjolano/openps3ftp/releases
 https://www.psx-place.com/threads/simple-cd-info-track-names-are-back.50686/page-3#post-425966
 https://github.com/InvoxiPlayGames/condenstation
+https://www.psx-place.com/threads/simple-cheat-menu-any-game-cheated.50610/page-3#post-426489
 
 Engine
 https://github.com/Fewnity/Xenity-Engine
