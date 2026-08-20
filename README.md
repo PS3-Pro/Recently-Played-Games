@@ -424,6 +424,11 @@ FNAC00020	ALL	Five Nights at Candy's Remastered	https://github.com/PS3-Pro/Packa
 ONAF00020	ALL	One Night at Flumpty's	https://github.com/PS3-Pro/Packages/releases/download/Ports/One_Night_at_Flumptys.pkg		IV0000-ONAF00020_00-GAMEMAKERSTUDIO0	31323168
 SWARM0001	ALL	Swarm	https://github.com/PS3-Pro/Packages/releases/download/Homebrews/Swarm.pkg		HB0001-SWARM0001_00-SWARMVPNCLIENT01	400640
 EXTR00001	ALL	Extreme Tux Racer	https://github.com/PS3-Pro/Packages/releases/download/Ports/Extreme_Tux_Racer.pkg		UP0001-EXTR00001_00-0000000000000001	79167488
+VTSTECH02	ALL	vLaunchSELF	https://github.com/PS3-Pro/Packages/releases/download/Homebrews/vLaunchSELF.pkg		UP0001-VTSTECH02_00-0000000000000000	160960
+XASH10000	ALL	Half-Life	https://github.com/PS3-Pro/Packages/releases/download/Ports/Half-Life.pkg		UP0001-XASH10000_00-0000000000000000	525364784
+XASHBS000	ALL	Half-Life: Blue Shift	https://github.com/PS3-Pro/Packages/releases/download/Ports/Half-Life_-_Blue_Shift.pkg		UP0001-XASHBS000_00-0000000000000000	287083552
+XASHOF000	ALL	Half-Life: Opposing Force	https://github.com/PS3-Pro/Packages/releases/download/Ports/Half-Life_-_Opposing_Force.pkg		UP0001-XASHOF000_00-0000000000000000	235807376
+
 
 SENT TO PS3
 https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
