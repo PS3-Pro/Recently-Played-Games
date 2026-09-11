@@ -1,0 +1,10 @@
+<title-info rev="0">
+<id>SRB222PS3</id>
+<console>ps3</console>
+<media-type>edi</media-type>
+<name>Sonic Robo Blast 2</name>
+<parental-level>0</parental-level>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/SRB222PS3_00_CB20B0A5EBA361B85DCA8954C2947CC741FBD083/ICON0.PNG</icon>
+<resolution>480,576,720,1080,480SQ,576SQ</resolution>
+<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby</sound-format>
+</title-info>
