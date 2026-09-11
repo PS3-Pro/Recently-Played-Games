@@ -428,13 +428,21 @@ VTSTECH02	ALL	vLaunchSELF	https://github.com/PS3-Pro/Packages/releases/download/
 XASH10000	ALL	Half-Life	https://github.com/PS3-Pro/Packages/releases/download/Ports/Half-Life.pkg		UP0001-XASH10000_00-0000000000000000	525364784
 XASHBS000	ALL	Half-Life: Blue Shift	https://github.com/PS3-Pro/Packages/releases/download/Ports/Half-Life_-_Blue_Shift.pkg		UP0001-XASHBS000_00-0000000000000000	287083552
 XASHOF000	ALL	Half-Life: Opposing Force	https://github.com/PS3-Pro/Packages/releases/download/Ports/Half-Life_-_Opposing_Force.pkg		UP0001-XASHOF000_00-0000000000000000	235807376
-
+CELLMARKD	ALL	Cellmark	https://github.com/PS3-Pro/Packages/releases/download/Homebrews/Cellmark_-_DECR.pkg		UP0001-CELLMARKD_00-0000000000000000	444976
+CELL80001	ALL	Cell-8	https://github.com/PS3-Pro/Packages/releases/download/Emulators/Cell-8_Emulador.pkg		UP0001-CELL80001_00-0000000000000000	164160
+GR33N0PS3 	ALL	GR33N (Xbox Cloud Gaming)	https://github.com/PS3-Pro/Packages/releases/download//Homebrews/GR33N.pkg		UP0001-GR33N0PS3_00-0000000000000000	5255264
+DOKI12300	ALL	Doki Doki Literature Club!	https://github.com/PS3-Pro/Packages/releases/download/Ports/Doki_Doki_Literature_Club.pkg		UP0001-DOKI12300_00-0000000000000000	83443744
+ECWOLF001	ALL	Wolfenstein 3D	https://github.com/PS3-Pro/Packages/releases/download/Ports/Wolfenstein_3D.pkg		CUSTOM-ECWOLF001_00-0000000000000000	4519440
+ECWOLFSOD	ALL	Spear of Destiny	https://github.com/PS3-Pro/Packages/releases/download/Ports/Spear_of_Destiny.pkg		CUSTOM-ECWOLFSOD_00-0000000000000000	5191312
+TYRQ00001	ALL	Quake	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake.pkg		CUSTOM-TYRQ00001_00-0000000000000000	136180112 
+TYRQHIP01	ALL	Quake Mission Pack 1: Scourge of Armagon	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake_Mission_Pack_1_-_Scourge_of_Armagon.pkg	CUSTOM-TYRQHIP01_00-0000000000000000	81236672
+TYRQROG01	ALL	Quake Mission Pack 2: Dissolution of Eternity	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake_Mission_Pack_2_-_Dissolution_of_Eternity.pkg		CUSTOM-TYRQROG01_00-0000000000000000	83596160
 
 SENT TO PS3
 https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
 https://github.com/AcidPS3-Project/AcidPS3Data
 
-CHQK00001	ALL	Quake	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake.pkg		UP0000-CHQK00001_00-0000000000000001	53171488
+CHQK00001	ALL	Quake (Original)	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake.pkg		UP0000-CHQK00001_00-0000000000000001	53171488
 
 VER SE FUNCIONA NO WHATS NEW QUAKE2_00	ALL	Quake 2	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake_2.pkg		UP0001-QUAKE2_00-0000000000000000	382862400
 TAYG00020	ALL	The Ascension	https://github.com/PS3-Pro/Packages/releases/download/Ports/The_Ascension.pkg		TA0000-TAYG00020_00-THEASCENSIONYG550	10087264
@@ -485,7 +493,7 @@ https://github.com/rquiroga83/ps3-hello
 https://github.com/KoleckOLP/VibebrewSmileyPS3
 https://github.com/dirsors/ps3doom
 https://github.com/VTSTech/VTSTech-HelloPS3
-
+https://github.com/otti83/ipsx3-test-cart
 https://www.psx-place.com/threads/release-ps3-doom.30343/
 
 https://www.psx-place.com/threads/wip-ps3-fps-unlocker-play-supported-games-at-60-fps-or-unlimited-fps.50761/#post-426061
@@ -505,6 +513,7 @@ https://github.com/jjolano/openps3ftp/releases
 https://www.psx-place.com/threads/simple-cd-info-track-names-are-back.50686/page-3#post-425966
 https://github.com/InvoxiPlayGames/condenstation
 https://www.psx-place.com/threads/simple-cheat-menu-any-game-cheated.50610/page-3#post-426489
+https://github.com/csrednicki/ps3-cddb
 
 Engine
 https://github.com/Fewnity/Xenity-Engine
