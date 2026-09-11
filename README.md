@@ -438,6 +438,7 @@ TYRQ00001	ALL	Quake	https://github.com/PS3-Pro/Packages/releases/download/Ports/
 TYRQHIP01	ALL	Quake Mission Pack 1: Scourge of Armagon	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake_Mission_Pack_1_-_Scourge_of_Armagon.pkg	CUSTOM-TYRQHIP01_00-0000000000000000	81236672
 TYRQROG01	ALL	Quake Mission Pack 2: Dissolution of Eternity	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake_Mission_Pack_2_-_Dissolution_of_Eternity.pkg		CUSTOM-TYRQROG01_00-0000000000000000	83596160
 FPSU00001 	ALL	FPS Unlocker	https://github.com/PS3-Pro/Packages/releases/download//Homebrews/FPS_Unlocker.pkg		UP0001-FPSU00001_00-0000000000000000	2430704
+PS3ZZATWR	ALL	Pizza Tower https://github.com/PS3-Pro/Packages/releases/download/Ports/Pizza_Tower.pkg		IV0000-PS3ZZATWR_00-GAMEMAKERSTUDIO0	86896496
 
 SENT TO PS3
 https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
