@@ -440,6 +440,9 @@ TYRQROG01	ALL	Quake Mission Pack 2: Dissolution of Eternity	https://github.com/P
 FPSU00001 	ALL	FPS Unlocker	https://github.com/PS3-Pro/Packages/releases/download//Homebrews/FPS_Unlocker.pkg		UP0001-FPSU00001_00-0000000000000000	2430704
 PS3ZZATWR	ALL	Pizza Tower https://github.com/PS3-Pro/Packages/releases/download/Ports/Pizza_Tower.pkg		IV0000-PS3ZZATWR_00-GAMEMAKERSTUDIO0	86896496
 SRB222PS3	ALL	Sonic Robo Blast 2	https://github.com/PS3-Pro/Packages/releases/download/Ports/Sonic_Robo_Blast_2.pkg		UP0001-SRB222PS3_00-0000000000000000	178345680
+VICE90003	ALL	Vice Plus4	https://github.com/PS3-Pro/Packages/releases/download/Emulators/Vice_Plus4_Emulator.pkg		IV0002-VICE90003_00-VIC2000000000001	6364856
+DEEPPLAY1	ALL	DeepPlay (Xbox Cloud Gaming)	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/DeepPlay.pkg		HB0001-DEEPPLAY1_00-DEEPPLAYHB000001	903081
+ALL	Doom64	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Doom64.pkg		CUSTOM-DOOM64CEL_00-0000000000000000	94449728
 
 SENT TO PS3
 https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
