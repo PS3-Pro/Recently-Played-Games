@@ -443,6 +443,9 @@ SRB222PS3	ALL	Sonic Robo Blast 2	https://github.com/PS3-Pro/Packages/releases/do
 VICE90003	ALL	Vice Plus4	https://github.com/PS3-Pro/Packages/releases/download/Emulators/Vice_Plus4_Emulator.pkg		IV0002-VICE90003_00-VIC2000000000001	6364856
 DEEPPLAY1	ALL	DeepPlay (Xbox Cloud Gaming)	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/DeepPlay.pkg		HB0001-DEEPPLAY1_00-DEEPPLAYHB000001	903081
 ALL	Doom64	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Doom64.pkg		CUSTOM-DOOM64CEL_00-0000000000000000	94449728
+PGORBT301	ALL	PS3 Game Orbit	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS3_Game_Orbit.pkg		UP0001-PGORBT301_00-0000000000000000	2467632
+HDSH00001	ALL	PS3 Health	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS3_Health.pkg		EP0001-HDSH00001_00-0000000000000000	45336
+RISETRIAD	ALL	Rise of the Triad	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Rise_of_the_Triad.pkg		UP0001-RISETRIAD_00-0000000000000000	48950400
 
 SENT TO PS3
 https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
