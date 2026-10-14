@@ -446,6 +446,11 @@ ALL	Doom64	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Po
 PGORBT301	ALL	PS3 Game Orbit	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS3_Game_Orbit.pkg		UP0001-PGORBT301_00-0000000000000000	2467632
 HDSH00001	ALL	PS3 Health	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS3_Health.pkg		EP0001-HDSH00001_00-0000000000000000	45336
 RISETRIAD	ALL	Rise of the Triad	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Rise_of_the_Triad.pkg		UP0001-RISETRIAD_00-0000000000000000	48950400
+IORTCWPS3	ALL	Return to Castle Wolfenstein	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Return_to_Castle_Wolfenstein.pkg		UP0001-IORTCWPS3_00-0000000000000000	622743904
+RSXD00001	ALL	RSX Diagnostics	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/RSX_Diagnostics.pkg		UP0001-RSXD00001_00-RSXDIAGNOSTICS15	15680
+COOK13000	ALL	Cookie Clicker	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Cookie_Clicker.pkg		UP0001-COOK13000_00-0000000000000000	1747936
+PS3ARCHMGR	ALL	PS3 Archive Manager	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS3_Archive_Manager.pkg		UP0001-PS3ARCHMGR_00-0000000000000000	121920
+FGFS00910	ALL	FlightGear	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/FlightGear.pkg		UP0001-FGFS00910_00-0000000000000000	406261424
 
 SENT TO PS3
 https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
