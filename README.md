@@ -451,6 +451,7 @@ RSXD00001	ALL	RSX Diagnostics	https://gh-proxy.com/github.com/PS3-Pro/Packages/r
 COOK13000	ALL	Cookie Clicker	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Cookie_Clicker.pkg		UP0001-COOK13000_00-0000000000000000	1747936
 PS3ARCHMGR	ALL	PS3 Archive Manager	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS3_Archive_Manager.pkg		UP0001-PS3ARCHMGR_00-0000000000000000	121920
 FGFS00910	ALL	FlightGear	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/FlightGear.pkg		UP0001-FGFS00910_00-0000000000000000	406261424
+SONYCR026	ALL	Sonic R	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Sonic_R.pkg		UP0001-SONYCR026_00-0000000000000000	670172048
 
 SENT TO PS3
 https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
