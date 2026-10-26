@@ -452,6 +452,20 @@ COOK13000	ALL	Cookie Clicker	https://gh-proxy.com/github.com/PS3-Pro/Packages/re
 PS3ARCHMGR	ALL	PS3 Archive Manager	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS3_Archive_Manager.pkg		UP0001-PS3ARCHMGR_00-0000000000000000	121920
 FGFS00910	ALL	FlightGear	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/FlightGear.pkg		UP0001-FGFS00910_00-0000000000000000	406261424
 SONYCR026	ALL	Sonic R	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Sonic_R.pkg		UP0001-SONYCR026_00-0000000000000000	670172048
+RE3PS3000	ALL	Grand Theft Auto: III	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Grand_III.pkg		UP0001-RE3PS3000_00-0000000000000000	1537823584
+REVCPS300	ALL	Grand Theft Auto: Vice City	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Grand_VC.pkg		UP0001-REVCPS300_00-0000000000000000	922112144
+COUC00001	ALL	Couch	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Couch.pkg		EP0001-COUC00001_00-0000000000000000	442400
+GSIG00001	ALL	Grid Siege	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Games/Grid_Siege.pkg		UP0001-GSIG00001_00-0000000000000000	1792784
+VVVV00001	ALL	VVVVVV	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Heretic.pkg		UP0001-CRISPHERE_00-0000000000000001	143244192
+SYOB00001	ALL	Syobon Action	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Syobon_Action.pkg		UP0001-SYOB00001_00-0000000000000000	11561696
+NOTDC0000	ALL	NotDC	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/NotDC_Emulator.pkg		UP0001-NOTDC0000_00-0000000000000000	5779072
+PICO00001 	ALL	PicoDrive	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/PicoDrive_Emulator.pkg		UP0001-PICO00001_00-0000000000000000	4099920
+UAEH00001 	ALL	UAE4All2 HD (Amiga Emulator)	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/UAE4All2_HD_Emulator.pkg		UP0002-UAEH00001_00-0000000000000000	10651280
+SLSA00064 	ALL	Salsa64	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/Salsa64_Emulator.pkg		UP0001-SLSA00064_00-0000000000000000	3501456
+SLDS00009 	ALL	SalsaDS	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/SalsaDS_Emulator.pkg		UP0001-SLDS00009_00-0000000000000000	2654896
+
+https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
+https://github.com/domyno6773/DualSense-PS3
 
 SENT TO PS3
 https://www.youtube.com/watch?v=mIVPnlX3pk0 BAIXAR]
