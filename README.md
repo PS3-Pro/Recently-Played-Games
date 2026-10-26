@@ -448,7 +448,7 @@ HDSH00001	ALL	PS3 Health	https://gh-proxy.com/github.com/PS3-Pro/Packages/releas
 RISETRIAD	ALL	Rise of the Triad	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Rise_of_the_Triad.pkg		UP0001-RISETRIAD_00-0000000000000000	48950400
 IORTCWPS3	ALL	Return to Castle Wolfenstein	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Return_to_Castle_Wolfenstein.pkg		UP0001-IORTCWPS3_00-0000000000000000	622743904
 RSXD00001	ALL	RSX Diagnostics	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/RSX_Diagnostics.pkg		UP0001-RSXD00001_00-RSXDIAGNOSTICS15	15680
-COOK13000	ALL	Cookie Clicker	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Cookie_Clicker.pkg		UP0001-COOK13000_00-0000000000000000	1747936
+COOK13000	ALL	Cookie Clicker	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Cookie_Clicker.pkg		CC0013-COOK13000_00-0000000000000000	1747936
 PS3ARCHMGR	ALL	PS3 Archive Manager	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS3_Archive_Manager.pkg		UP0001-PS3ARCHMGR_00-0000000000000000	121920
 FGFS00910	ALL	FlightGear	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/FlightGear.pkg		UP0001-FGFS00910_00-0000000000000000	406261424
 SONYCR026	ALL	Sonic R	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Sonic_R.pkg		UP0001-SONYCR026_00-0000000000000000	670172048
@@ -463,6 +463,9 @@ PICO00001 	ALL	PicoDrive	https://gh-proxy.com/github.com/PS3-Pro/Packages/releas
 UAEH00001 	ALL	UAE4All2 HD (Amiga Emulator)	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/UAE4All2_HD_Emulator.pkg		UP0002-UAEH00001_00-0000000000000000	10651280
 SLSA00064 	ALL	Salsa64	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/Salsa64_Emulator.pkg		UP0001-SLSA00064_00-0000000000000000	3501456
 SLDS00009 	ALL	SalsaDS	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/SalsaDS_Emulator.pkg		UP0001-SLDS00009_00-0000000000000000	2654896
+MCRM00001	ALL	Monochrome Music	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Multimedia/Monochrome_Music.pkg		UP0001-MCRM00001_00-MONOCHROMEPS3001	321856
+SPPS30000	ALL	Spotify Connect Receiver	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Multimedia/Spotify_Connect_Receiver.pkg		UP0001-SPPS30000_00-0000000000000000	4131040
+ARCF00001	ALL	ArchiveFlow	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/ArchiveFlow.pkg		UP0001-ARCF00001_00-ARCHIVEFLOW00001	9729600
 
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
