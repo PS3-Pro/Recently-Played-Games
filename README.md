@@ -467,6 +467,9 @@ SPPS30000	ALL	Spotify Connect Receiver	https://gh-proxy.com/github.com/PS3-Pro/P
 ARCF00001	ALL	ArchiveFlow	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/ArchiveFlow.pkg		UP0001-ARCF00001_00-ARCHIVEFLOW00001	9729600
 PSU000001	ALL	PS2™ Save Manager	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS2_Save_Manager.pkg		UP0001-PSU000001_00-0000000000000000	3250448
 MONO00024	ALL	Monochrome Music Player	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Multimedia/Monochrome_Music_Player.pkg		UP0001-MONO00024_00-0000000000000000	321856
+TROPH2026	ALL	Saber PSN Unlock Tool	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Saber_PSN_Unlock_Tool.pkg		UP0001-TROPH2026_00-0000000000000001	1920832
+P3ORBIT01	ALL	Orbital Spaceflight	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Games/Orbital_Spaceflight.pkg		UP0001-P3ORBIT01_00-0000000000000000	3890160
+BBCN00001	ALL	Bouncy Bacon	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Bouncy_Bacon.pkg		UP0001-BBCN00001_00-0000000000000000	870144
 
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
