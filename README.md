@@ -463,9 +463,10 @@ PICO00001 	ALL	PicoDrive	https://gh-proxy.com/github.com/PS3-Pro/Packages/releas
 UAEH00001 	ALL	UAE4All2 HD (Amiga Emulator)	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/UAE4All2_HD_Emulator.pkg		UP0002-UAEH00001_00-0000000000000000	10651280
 SLSA00064 	ALL	Salsa64	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/Salsa64_Emulator.pkg		UP0001-SLSA00064_00-0000000000000000	3501456
 SLDS00009 	ALL	SalsaDS	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/SalsaDS_Emulator.pkg		UP0001-SLDS00009_00-0000000000000000	2654896
-MCRM00001	ALL	Monochrome Music	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Multimedia/Monochrome_Music.pkg		UP0001-MCRM00001_00-MONOCHROMEPS3001	321856
 SPPS30000	ALL	Spotify Connect Receiver	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Multimedia/Spotify_Connect_Receiver.pkg		UP0001-SPPS30000_00-0000000000000000	4131040
 ARCF00001	ALL	ArchiveFlow	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/ArchiveFlow.pkg		UP0001-ARCF00001_00-ARCHIVEFLOW00001	9729600
+PSU000001	ALL	PS2™ Save Manager	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS2_Save_Manager.pkg		UP0001-PSU000001_00-0000000000000000	3250448
+MONO00024	ALL	Monochrome Music Player	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Multimedia/Monochrome_Music_Player.pkg		UP0001-MONO00024_00-0000000000000000	321856
 
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3

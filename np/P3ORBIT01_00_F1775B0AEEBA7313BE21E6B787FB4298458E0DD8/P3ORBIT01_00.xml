@@ -1,10 +1,10 @@
 <title-info rev="0">
-<id>MCRM00001</id>
+<id>P3ORBIT01</id>
 <console>ps3</console>
 <media-type>edi</media-type>
-<name>Monochrome Music</name>
+<name>Orbital Spaceflight</name>
 <parental-level>0</parental-level>
-<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/MCRM00001_00_38C7FDE79E78213F99459C1561658DE433AB9CFD/ICON0.PNG</icon>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/P3ORBIT01_00_F1775B0AEEBA7313BE21E6B787FB4298458E0DD8/ICON0.PNG</icon>
 <resolution>480,576,720,1080,480SQ,576SQ</resolution>
 <sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
 </title-info>
