@@ -471,6 +471,9 @@ TROPH2026	ALL	Saber PSN Unlock Tool	https://gh-proxy.com/github.com/PS3-Pro/Pack
 P3ORBIT01	ALL	Orbital Spaceflight	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Games/Orbital_Spaceflight.pkg		UP0001-P3ORBIT01_00-0000000000000000	3890160
 BBCN00001	ALL	Bouncy Bacon	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Bouncy_Bacon.pkg		UP0001-BBCN00001_00-0000000000000000	870144
 NPUB72381	ALL	qDNSm Installer	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/qDNSm_Installer.pkg		UP0001-NPUB72381_00-0000000000000000	332640
+CELL00001	ALL	CELL: The ONLY PS3 Social Media!	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/CELL_-_Social_Media.pkg		UP0001-CELL00001_00-0000000000000000	7217312
+STN000019	ALL	Station NOVA	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Station_NOVA.pkg		UP0001-STN000019_00-0000000000000000	224880
+
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
 
