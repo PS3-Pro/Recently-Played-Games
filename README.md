@@ -486,6 +486,9 @@ INSOMNIA0	ALL	Insomnia	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases
 PERFUMARE	ALL	Perfumare	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Perfumare.pkg		UP0001-PERFUMARE_00-0000000000000000	140050304
 SWAP00001	ALL	Swap Button	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Swap_Button.pkg		UP0001-SWAP00001_00-0000000000000000	949024
 ACIDSTORE	ALL	Acid Store	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Acid_Store.pkg		HP0031-ACIDSTORE_00-ACIDPS3STORE0000	10850080
+PSXR00001	ALL	PSX Ripper	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PSX_Ripper.pkg		UP0001-PSXR00001_00-0000000000000000	775600
+BLTR00001	ALL	Balatro	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Balatro.pkg		UP0001-BLTR00001_00-0000000000000000	181864256
+NOVU00001	ALL	Novuss	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Novuss.pkg		UP0001-NOVU00001_00-0000000000000000	8067472
 
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
@@ -507,6 +510,7 @@ https://github.com/Fewnity/Xenity-Engine
 novo server https://projectnexus-revival.com/
 https://github.com/danekxd/fifa19ps3
 https://www.youtube.com/watch?v=FcwBQ7oQd9M carbon
+https://github.com/louaipro99/kbd2trigger
 
 IOEFPS300	ALL	Star Trek Voyager: Elite Force	https://github.com/PS3-Pro/Packages/releases/download/Ports/Star_Trek_Voyager_-_Elite_Force.pkg		UP0001-IOEFPS300_00-0000000000000000	683620064
 IOQCPS301	ALL	Quake 3: Multiplayer (Dreamcast Clients)	https://github.com/PS3-Pro/Packages/releases/download/Ports/Quake_3_-_Multiplayer.pkg		UP0001-IOQCPS301_00-0000000000000000	559128176
