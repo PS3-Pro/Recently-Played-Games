@@ -473,6 +473,19 @@ BBCN00001	ALL	Bouncy Bacon	https://gh-proxy.com/github.com/PS3-Pro/Packages/rele
 NPUB72381	ALL	qDNSm Installer	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/qDNSm_Installer.pkg		UP0001-NPUB72381_00-0000000000000000	332640
 CELL00001	ALL	CELL: The ONLY PS3 Social Media!	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/CELL_-_Social_Media.pkg		UP0001-CELL00001_00-0000000000000000	7217312
 STN000019	ALL	Station NOVA	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Station_NOVA.pkg		UP0001-STN000019_00-0000000000000000	224880
+EONS00001	ALL	EonSurf Web Browser	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/EonSurf.pkg		UP0001-EONS00001_00-0000000000000000	2926704
+PPSSPP001	ALL	PPSSPP	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Emulators/PPSSPP_Emulator.pkg		UP0001-PPSSPP001_00-PPSSPPPS3FR00313	35075568
+HALOCE000	ALL	Halo: Combat Evolved	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Halo_-_Combat_Evolved.pkg		UP0001-HALOCE000_00-0000000000000000	1816095984
+SPKF00001	ALL	SpookyFlow	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/SpookyFlow.pkg		UP0001-SPKF00001_00-0000000000000000	148600
+PSWD00001	ALL	PS3™ World	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS3_World.pkg		UP0001-PSWD00001_00-0000000000000000	5187616
+PIKM00001	ALL	Pikmin	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Pikmin.pkg		UP0001-PIKM00001_00-0000000000000000	671080720
+MELE00001	ALL	Super Smash Bros: Melee	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Super_Smash_Bros_-_Melee.pkg		UP0001-MELE00001_00-0000000000000000	1453130816
+NZPP00001	ALL	Nazi Zombies: Portable	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Nazi_Zombies_-_Portable.pkg		UP0001-NZPP00001_00-0000000000000000	113166800
+RSNT2603	ALL	Resonant for Plex	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Multimedia/Resonant_for_Plex.pkg		UP0001-RSNT26033_00-0000000000000000	4178896
+INSOMNIA0	ALL	Insomnia	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Insomnia.pkg		UP0001-INSOMNIA0_00-0000000000000000	103030848
+PERFUMARE	ALL	Perfumare	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Perfumare.pkg		UP0001-PERFUMARE_00-0000000000000000	140050304
+SWAP00001	ALL	Swap Button	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Swap_Button.pkg		UP0001-SWAP00001_00-0000000000000000	949024
+ACIDSTORE	ALL	Acid Store	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Acid_Store.pkg		HP0031-ACIDSTORE_00-ACIDPS3STORE0000	10850080
 
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
