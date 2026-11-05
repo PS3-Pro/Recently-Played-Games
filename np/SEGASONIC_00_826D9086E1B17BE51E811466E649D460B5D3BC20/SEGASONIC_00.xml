@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<title-info rev="0">
+	<id>SEGASONIC</id>
+	<console>ps3</console>
+	<media-type>edi</media-type>
+	<name>SEGASONIC The Hedgehog</name>
+	<parental-level>3</parental-level>
+	<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/SEGASONIC_00_826D9086E1B17BE51E811466E649D460B5D3BC20/ICON0.PNG</icon>
+	<resolution>480,720,480SQ</resolution>
+	<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
+</title-info>
