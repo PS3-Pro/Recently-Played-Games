@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<title-info rev="0">
+	<id>PNBL00001</id>
+	<console>ps3</console>
+	<media-type>edi</media-type>
+	<name>Space Cadet</name>
+	<parental-level>3</parental-level>
+	<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/PNBL00001_00_AB93499ED1E662E10A79EC09F95EDC9AD8342463/ICON0.PNG</icon>
+	<resolution>480,720,480SQ</resolution>
+	<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
+</title-info>

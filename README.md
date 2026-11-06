@@ -492,6 +492,7 @@ NOVU00001	ALL	Novuss	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/d
 SMSP00001	ALL	Super Mario Sunshine	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/SM_Sunshine.pkg		UP0001-SMSP00001_00-0000000000000000	1465802352
 RESPS3000	ALL	Grand Theft Auto: Liberty City Stories	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Grand_LCS.pkg		UP0001-RESPS3000_00-0000000000000000	1716137440
 SEGASONIC	ALL	SEGASONIC The Hedgehog 	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/SEGASONIC_The_Hedgehog.pkg		UP0001-SEGASONIC_00-0000000000000000	7372880
+PNBL00001	ALL	3D Pinball Space Cadet	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Space_Cadet.pkg		UP0001-PNBL00001_00-0000000000000000	2768240
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
 
