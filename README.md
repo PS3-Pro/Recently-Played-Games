@@ -493,6 +493,23 @@ SMSP00001	ALL	Super Mario Sunshine	https://gh-proxy.com/github.com/PS3-Pro/Packa
 RESPS3000	ALL	Grand Theft Auto: Liberty City Stories	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Grand_LCS.pkg		UP0001-RESPS3000_00-0000000000000000	1716137440
 SEGASONIC	ALL	SEGASONIC The Hedgehog 	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/SEGASONIC_The_Hedgehog.pkg		UP0001-SEGASONIC_00-0000000000000000	7372880
 PNBL00001	ALL	3D Pinball Space Cadet	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Space_Cadet.pkg		UP0001-PNBL00001_00-0000000000000000	2768240
+DRTR00001	ALL	Dirt Rich	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Games/Dirt_Rich.pkg		UP0001-DRTR00001_00-0000000000000000	88638336
+HDAT00001	ALL	HDD Atlas	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/HDD_Atlas.pkg		UP0001-HDAT00001_00-0000000000000000	13430336
+TEEBENCH1	ALL	TEE Benchmark	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/TEE_Benchmark.pkg		UP0001-TEEBENCH1_00-0000000000000000	2597568
+STOR00001	ALL	Storage Explorer	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Storage_Explorer.pkg		UP0001-STOR00001_00-0000000000000000	97824
+AIRPLAY02	ALL	AirPlay	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/AirPlay.pkg		UP0001-AIRPLAY02_00-0000000000000000	3906640
+MK64PS300	ALL	Mario Kart 64	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/MK64.pkg		UP0001-MK64PS300_00-0000000000000000	13319248
+SSB64PS30	ALL	Super Smash Bros	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Super_Smash_Bros_64.pkg		UP0001-SSB64PS30_00-0000000000000000	17714992
+OOTP30048	ALL	The Legend of Zelda: Ocarina of Time	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Zelda_-_Ocarina_of_Time.pkg		UP0001-OOTP30048_00-OOTPS3RUNTIMEVM0	17714992
+CNKR00001	ALL	Conker's Bad Fur Day	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Conkers_Bad_Fur_Day.pkg		UP0001-CNKR00001_00-0000000000000000	134317840
+SUBW00001	ALL	Subway Surfers	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Subway_Surfers.pkg		UP0001-SUBW00001_00-0000000000000000	134317840
+BMAN00001	ALL	Bombermaaan	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Bombermaaan.pkg		UP0001-BMAN00001_00-0000000000000000	3006192
+SMBX00001	ALL	Super Mario Bros X	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/SMB_x.pkg		UP0001-SMBX00001_00-0000000000000000	1126961504
+SCFT00064	ALL	StarCraft 64	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/StarCraft_64.pkg		UP0001-SCFT00064_00-0000000000000000	39386400
+PSDB00001	ALL	PS Dashboard	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS_Dashboard.pkg		UP0001-PSDB00001_00-0000000000000000	2626768
+MPET00001	ALL	Pea Shootin Pete	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Pea_Shootin_Pete.pkg		CUSTOM-MPET00001_00-0000000000000000	3318480
+MRIP00001	ALL	Dr. Riptide	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Pea_Shootin_Pete.pkg		CUSTOM-MRIP00001_00-0000000000000000	3318480
+
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
 
