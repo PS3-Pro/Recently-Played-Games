@@ -509,6 +509,7 @@ SCFT00064	ALL	StarCraft 64	https://gh-proxy.com/github.com/PS3-Pro/Packages/rele
 PSDB00001	ALL	PS Dashboard	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/PS_Dashboard.pkg		UP0001-PSDB00001_00-0000000000000000	2626768
 MPET00001	ALL	Pea Shootin Pete	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Pea_Shootin_Pete.pkg		CUSTOM-MPET00001_00-0000000000000000	3318480
 MRIP00001	ALL	Dr. Riptide	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Pea_Shootin_Pete.pkg		CUSTOM-MRIP00001_00-0000000000000000	3318480
+GRNY00000	ALL	Granny	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Granny.pkg		EP0001-GRNY00000_00-0000000000000000	688912448
 
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
