@@ -510,7 +510,8 @@ PSDB00001	ALL	PS Dashboard	https://gh-proxy.com/github.com/PS3-Pro/Packages/rele
 MPET00001	ALL	Pea Shootin Pete	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Pea_Shootin_Pete.pkg		CUSTOM-MPET00001_00-0000000000000000	3318480
 MRIP00001	ALL	Dr. Riptide	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Pea_Shootin_Pete.pkg		CUSTOM-MRIP00001_00-0000000000000000	3318480
 GRNY00000	ALL	Granny	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Granny.pkg		EP0001-GRNY00000_00-0000000000000000	688912448
-
+DEVILUT00	ALL	Diablo	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Diablo.pkg		UP0001-DEVILUT00_00-0000000000000000	708837376
+STSP00001	ALL	Slay the Spire	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Slay_The_Spire.pkg		UP0001-STSP00001_00-0000000000000000	135510864
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
 
