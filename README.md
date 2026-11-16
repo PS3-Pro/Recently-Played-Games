@@ -516,7 +516,9 @@ ASSC00001	ALL	AssaultCube	https://gh-proxy.com/github.com/PS3-Pro/Packages/relea
 ORB000001	ALL	Orbit Chat	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Orbit_Chat.pkg		UP0001-ORB000001_00-0000000000000000	1589680
 AVCH00001	ALL	Avatar Chat	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Avatar_Chat.pkg		UP0001-AVCH00001_00-0000000000000000	933104
 CNBLPS300	ALL	Cannonball	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Team_Fortress_Classic.pkg		UP0001-CNBLPS300_00-0000000000000000	3205328
-
+CCJE00001	ALL	Minecraft: Java Edition	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Minecraft_-_Java_Edition.pkg		EP0000-CCJE00001_00-CONSOLECRAFT0001	1765395392
+DUKE3DPS3	ALL	Duke Nukem 3D	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Duke_Nukem_3D.pkg		UP0001-DUKE3DPS3_00-0000000000000000	113621648
+SHADOWPS3	ALL	Shadow Warrior	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Shadow_Warrior.pkg		UP0001-SHADOWPS3_00-0000000000000000	179400880
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
 

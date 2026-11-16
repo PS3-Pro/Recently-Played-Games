@@ -1,0 +1,10 @@
+<title-info rev="0">
+<id>SHADOWPS3</id>
+<console>ps3</console>
+<media-type>edi</media-type>
+<name>Shadow Warrior</name>
+<parental-level>0</parental-level>
+<icon type="320x176">https://raw.github.com/PS3-Pro/DB/main/np/SHADOWPS3_00_75D2C47C6903E77DE917D82F1DBE9B9EE3AC62FE/ICON0.PNG</icon>
+<resolution>480,576,720,1080,480SQ,576SQ</resolution>
+<sound-format>2LPCM,5.1LPCM,7.1LPCM,Dolby,DTS</sound-format>
+</title-info>
