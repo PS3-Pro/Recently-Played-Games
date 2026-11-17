@@ -519,6 +519,13 @@ CNBLPS300	ALL	Cannonball	https://gh-proxy.com/github.com/PS3-Pro/Packages/releas
 CCJE00001	ALL	Minecraft: Java Edition	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Minecraft_-_Java_Edition.pkg		EP0000-CCJE00001_00-CONSOLECRAFT0001	1765395392
 DUKE3DPS3	ALL	Duke Nukem 3D	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Duke_Nukem_3D.pkg		UP0001-DUKE3DPS3_00-0000000000000000	113621648
 SHADOWPS3	ALL	Shadow Warrior	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Shadow_Warrior.pkg		UP0001-SHADOWPS3_00-0000000000000000	179400880
+RGDN00001	ALL	Radio Garden	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Multimedia/Radio_Garden.pkg		UP0001-RGDN00001_00-0000000000000000	18274432
+AIRPLAY03	ALL	AIR Visualizer	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Multimedia/AirVisualizer.pkg		UP0001-AIRPLAY03_00-0000000000000000	3384320
+OMRI00001	ALL	OMORI	https://archive.org/download/omori_202611/OMORI.pkg		UP0001-OMRI00001_00-0000000000000000	2182591056
+THMS00001	ALL	DreamShelf	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/DreamShelf.pkg		UP0001-THMS00001_00-0000000000000000	1198192
+HTDY00001	ALL	HomeTidy	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/HomeTidy.pkg		UP0001-HTDY00001_00-0000000000000000	840016
+
+
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
 
@@ -599,6 +606,7 @@ https://www.psx-place.com/threads/simple-cd-info-track-names-are-back.50686/page
 https://github.com/InvoxiPlayGames/condenstation
 https://www.psx-place.com/threads/simple-cheat-menu-any-game-cheated.50610/page-3#post-426489
 https://github.com/csrednicki/ps3-cddb
+https://github.com/Calyps0man/PS2-on-NON-BC-PS3s#usage-notes
 
 Engine
 https://github.com/Fewnity/Xenity-Engine
