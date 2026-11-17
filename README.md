@@ -524,7 +524,7 @@ AIRPLAY03	ALL	AIR Visualizer	https://gh-proxy.com/github.com/PS3-Pro/Packages/re
 OMRI00001	ALL	OMORI	https://archive.org/download/omori_202611/OMORI.pkg		UP0001-OMRI00001_00-0000000000000000	2182591056
 THMS00001	ALL	DreamShelf	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/DreamShelf.pkg		UP0001-THMS00001_00-0000000000000000	1198192
 HTDY00001	ALL	HomeTidy	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/HomeTidy.pkg		UP0001-HTDY00001_00-0000000000000000	840016
-
+HWKJ00001	ALL	Hawkthorne	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Hawkthorne.pkg		UP0001-HWKJ00001_00-0000000000000000	113271728
 
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
