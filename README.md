@@ -526,6 +526,9 @@ THMS00001	ALL	DreamShelf	https://gh-proxy.com/github.com/PS3-Pro/Packages/releas
 HTDY00001	ALL	HomeTidy	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/HomeTidy.pkg		UP0001-HTDY00001_00-0000000000000000	840016
 HWKJ00001	ALL	Hawkthorne	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Ports/Hawkthorne.pkg		UP0001-HWKJ00001_00-0000000000000000	113271728
 CRSS00001	ALL	CrossStrike	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Games/CrossStrike.pkg		UP0001-CRSS00001_00-0000000000000000	25339072
+CHIAKIPS3	ALL	Chiaki-ng	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Homebrews/Chiaki-ng.pkg		UP0001-CHIAKIPS3_00-0000000000000000	1073312
+ANIMEPS30	ALL	Nami	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Multimedia/Nami.pkg		UP0001-ANIMEPS30_00-0000000000000000	3813264
+FIGHTER3D	ALL	Fighter Jet (Demo)	https://gh-proxy.com/github.com/PS3-Pro/Packages/releases/download/Games/Fighter_Jet.pkg		UP0001-FIGHTER3D_00-0000000000000000	1969488
 
 https://www.reddit.com/r/ps4homebrew/comments/1xa1z6s/i_made_a_frame_generation_plugin_for_ps4_looking/
 https://github.com/domyno6773/DualSense-PS3
@@ -572,7 +575,7 @@ avatars do isekai
 Pkgs para fazer
 
 https://github.com/AcidGunner/AcidSample
-
+https://github.com/ren20100130-gif/ps3-homebrew-game
 https://github.com/kamilb880/gxemu_custom_configs
 https://github.com/tpolasek/extreme_tux_racer_ps3
 https://github.com/lostjared/ps3demos
@@ -593,6 +596,7 @@ https://www.psx-place.com/threads/wip-ps3-fps-unlocker-play-supported-games-at-6
 
 varios 
 https://github.com/02900?tab=repositories
+https://github.com/tycuuu/ps3-revival-hub
 
 plugin
 https://github.com/vlad-bystritskii/PS3PlaytimeTracker PARA LOJA
@@ -608,11 +612,13 @@ https://github.com/InvoxiPlayGames/condenstation
 https://www.psx-place.com/threads/simple-cheat-menu-any-game-cheated.50610/page-3#post-426489
 https://github.com/csrednicki/ps3-cddb
 https://github.com/Calyps0man/PS2-on-NON-BC-PS3s#usage-notes
+https://github.com/domyno6773/DualSense-PS3
 
 Engine
 https://github.com/Fewnity/Xenity-Engine
 https://github.com/Mayo1970/xash3d-fwgs
-
+https://github.com/afolouyou/bones-engine
+https://github.com/RocketLeagueGent/rocketengine-ps3
 programa bom pro meu site devtool
 https://github.com/ButterscotchRunner/Butterscotch
 
